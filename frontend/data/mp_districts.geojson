@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "name": "MP_FRA_Demo_Districts",
+  "disclaimer": "DEMO DATA — Simplified synthetic district boundaries for development. Replace with official survey GeoJSON.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "district": "Bhopal", "district_name": "Bhopal", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.29, 23.14], [77.55, 23.14], [77.58, 23.32], [77.48, 23.42], [77.28, 23.38], [77.29, 23.14]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Burhanpur", "district_name": "Burhanpur", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[76.10, 21.20], [76.38, 21.18], [76.40, 21.38], [76.28, 21.48], [76.08, 21.42], [76.10, 21.20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Dewas", "district_name": "Dewas", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.92, 22.85], [76.20, 22.84], [76.22, 23.04], [76.10, 23.14], [75.90, 23.10], [75.92, 22.85]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Khandwa", "district_name": "Khandwa", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[76.22, 21.70], [76.50, 21.68], [76.52, 21.88], [76.38, 21.98], [76.18, 21.94], [76.22, 21.70]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Khargone", "district_name": "Khargone", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.48, 21.70], [75.76, 21.68], [75.78, 21.88], [75.64, 21.98], [75.44, 21.94], [75.48, 21.70]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Raisen", "district_name": "Raisen", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.66, 23.22], [77.94, 23.20], [77.96, 23.40], [77.82, 23.50], [77.62, 23.46], [77.66, 23.22]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Sehore", "district_name": "Sehore", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[76.96, 23.08], [77.24, 23.06], [77.26, 23.26], [77.12, 23.36], [76.92, 23.32], [76.96, 23.08]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Vidisha", "district_name": "Vidisha", "state": "Madhya Pradesh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.68, 23.42], [77.96, 23.40], [77.98, 23.60], [77.84, 23.70], [77.64, 23.66], [77.68, 23.42]]]
+      }
+    }
+  ]
+}

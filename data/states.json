@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Madhya Pradesh",
+    "code": "MP",
+    "districts": [
+      {"name": "Dhar", "lat": 22.5976, "lng": 75.3023},
+      {"name": "Dindori", "lat": 22.9515, "lng": 81.0800},
+      {"name": "Mandla", "lat": 22.5986, "lng": 80.3708},
+      {"name": "Balaghat", "lat": 21.8142, "lng": 80.1843},
+      {"name": "Chhindwara", "lat": 22.0574, "lng": 78.9382}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Odisha",
+    "code": "OD",
+    "districts": [
+      {"name": "Mayurbhanj", "lat": 21.9333, "lng": 86.7333},
+      {"name": "Sundargarh", "lat": 22.1167, "lng": 84.0333},
+      {"name": "Kandhamal", "lat": 20.2333, "lng": 84.0167},
+      {"name": "Koraput", "lat": 18.8167, "lng": 82.7167},
+      {"name": "Rayagada", "lat": 19.1667, "lng": 83.4167}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chhattisgarh",
+    "code": "CG",
+    "districts": [
+      {"name": "Bastar", "lat": 19.1000, "lng": 81.9500},
+      {"name": "Kanker", "lat": 20.2700, "lng": 81.4900},
+      {"name": "Surguja", "lat": 23.1200, "lng": 83.2000},
+      {"name": "Dhamtari", "lat": 20.7100, "lng": 81.5500},
+      {"name": "Rajnandgaon", "lat": 21.1000, "lng": 81.0300}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Maharashtra",
+    "code": "MH",
+    "districts": [
+      {"name": "Gadchiroli", "lat": 20.1833, "lng": 80.0000},
+      {"name": "Chandrapur", "lat": 19.9500, "lng": 79.3000},
+      {"name": "Nandurbar", "lat": 21.3700, "lng": 74.2500},
+      {"name": "Palghar", "lat": 19.6967, "lng": 72.7656},
+      {"name": "Yavatmal", "lat": 20.4000, "lng": 78.1333}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Jharkhand",
+    "code": "JH",
+    "districts": [
+      {"name": "West Singhbhum", "lat": 22.5667, "lng": 85.8000},
+      {"name": "Gumla", "lat": 23.0400, "lng": 84.5400},
+      {"name": "Simdega", "lat": 22.6167, "lng": 84.5167},
+      {"name": "Latehar", "lat": 23.7439, "lng": 84.5028},
+      {"name": "Dumka", "lat": 24.2667, "lng": 87.2500}
+    ]
+  }
+]

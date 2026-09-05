@@ -1,0 +1,1132 @@
+{
+  "type": "FeatureCollection",
+  "name": "FRA_Demo_Districts",
+  "disclaimer": "Demo system using simulated data. Not an official Government of India system.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Dhar",
+        "state": "Madhya Pradesh",
+        "latitude": 22.5976,
+        "longitude": 75.3023,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.6873,
+              22.5976
+            ],
+            [
+              75.5198,
+              22.9401
+            ],
+            [
+              75.1306,
+              22.8679
+            ],
+            [
+              74.9327,
+              22.5976
+            ],
+            [
+              75.0826,
+              22.2517
+            ],
+            [
+              75.4798,
+              22.318
+            ],
+            [
+              75.6873,
+              22.5976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Dindori",
+        "state": "Madhya Pradesh",
+        "latitude": 22.9515,
+        "longitude": 81.08,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.465,
+              22.9515
+            ],
+            [
+              81.2975,
+              23.294
+            ],
+            [
+              80.9083,
+              23.2218
+            ],
+            [
+              80.7104,
+              22.9515
+            ],
+            [
+              80.8603,
+              22.6056
+            ],
+            [
+              81.2575,
+              22.6719
+            ],
+            [
+              81.465,
+              22.9515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Mandla",
+        "state": "Madhya Pradesh",
+        "latitude": 22.5986,
+        "longitude": 80.3708,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.7558,
+              22.5986
+            ],
+            [
+              80.5883,
+              22.9411
+            ],
+            [
+              80.1991,
+              22.8689
+            ],
+            [
+              80.0012,
+              22.5986
+            ],
+            [
+              80.1511,
+              22.2527
+            ],
+            [
+              80.5483,
+              22.319
+            ],
+            [
+              80.7558,
+              22.5986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Balaghat",
+        "state": "Madhya Pradesh",
+        "latitude": 21.8142,
+        "longitude": 80.1843,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.5693,
+              21.8142
+            ],
+            [
+              80.4018,
+              22.1567
+            ],
+            [
+              80.0126,
+              22.0845
+            ],
+            [
+              79.8147,
+              21.8142
+            ],
+            [
+              79.9646,
+              21.4683
+            ],
+            [
+              80.3618,
+              21.5346
+            ],
+            [
+              80.5693,
+              21.8142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Chhindwara",
+        "state": "Madhya Pradesh",
+        "latitude": 22.0574,
+        "longitude": 78.9382,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.3232,
+              22.0574
+            ],
+            [
+              79.1557,
+              22.3999
+            ],
+            [
+              78.7665,
+              22.3277
+            ],
+            [
+              78.5686,
+              22.0574
+            ],
+            [
+              78.7185,
+              21.7115
+            ],
+            [
+              79.1157,
+              21.7778
+            ],
+            [
+              79.3232,
+              22.0574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Mayurbhanj",
+        "state": "Odisha",
+        "latitude": 21.9333,
+        "longitude": 86.7333,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.1183,
+              21.9333
+            ],
+            [
+              86.9508,
+              22.2758
+            ],
+            [
+              86.5616,
+              22.2036
+            ],
+            [
+              86.3637,
+              21.9333
+            ],
+            [
+              86.5136,
+              21.5874
+            ],
+            [
+              86.9108,
+              21.6537
+            ],
+            [
+              87.1183,
+              21.9333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Sundargarh",
+        "state": "Odisha",
+        "latitude": 22.1167,
+        "longitude": 84.0333,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.4183,
+              22.1167
+            ],
+            [
+              84.2508,
+              22.4592
+            ],
+            [
+              83.8616,
+              22.387
+            ],
+            [
+              83.6637,
+              22.1167
+            ],
+            [
+              83.8136,
+              21.7708
+            ],
+            [
+              84.2108,
+              21.8371
+            ],
+            [
+              84.4183,
+              22.1167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Kandhamal",
+        "state": "Odisha",
+        "latitude": 20.2333,
+        "longitude": 84.0167,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.4017,
+              20.2333
+            ],
+            [
+              84.2342,
+              20.5758
+            ],
+            [
+              83.845,
+              20.5036
+            ],
+            [
+              83.6471,
+              20.2333
+            ],
+            [
+              83.797,
+              19.8874
+            ],
+            [
+              84.1942,
+              19.9537
+            ],
+            [
+              84.4017,
+              20.2333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Koraput",
+        "state": "Odisha",
+        "latitude": 18.8167,
+        "longitude": 82.7167,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.1017,
+              18.8167
+            ],
+            [
+              82.9342,
+              19.1592
+            ],
+            [
+              82.545,
+              19.087
+            ],
+            [
+              82.3471,
+              18.8167
+            ],
+            [
+              82.497,
+              18.4708
+            ],
+            [
+              82.8942,
+              18.5371
+            ],
+            [
+              83.1017,
+              18.8167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Rayagada",
+        "state": "Odisha",
+        "latitude": 19.1667,
+        "longitude": 83.4167,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.8017,
+              19.1667
+            ],
+            [
+              83.6342,
+              19.5092
+            ],
+            [
+              83.245,
+              19.437
+            ],
+            [
+              83.0471,
+              19.1667
+            ],
+            [
+              83.197,
+              18.8208
+            ],
+            [
+              83.5942,
+              18.8871
+            ],
+            [
+              83.8017,
+              19.1667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Bastar",
+        "state": "Chhattisgarh",
+        "latitude": 19.1,
+        "longitude": 81.95,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.335,
+              19.1
+            ],
+            [
+              82.1675,
+              19.4425
+            ],
+            [
+              81.7783,
+              19.3703
+            ],
+            [
+              81.5804,
+              19.1
+            ],
+            [
+              81.7303,
+              18.7541
+            ],
+            [
+              82.1275,
+              18.8204
+            ],
+            [
+              82.335,
+              19.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Kanker",
+        "state": "Chhattisgarh",
+        "latitude": 20.27,
+        "longitude": 81.49,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.875,
+              20.27
+            ],
+            [
+              81.7075,
+              20.6125
+            ],
+            [
+              81.3183,
+              20.5403
+            ],
+            [
+              81.1204,
+              20.27
+            ],
+            [
+              81.2703,
+              19.9241
+            ],
+            [
+              81.6675,
+              19.9904
+            ],
+            [
+              81.875,
+              20.27
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Surguja",
+        "state": "Chhattisgarh",
+        "latitude": 23.12,
+        "longitude": 83.2,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.585,
+              23.12
+            ],
+            [
+              83.4175,
+              23.4625
+            ],
+            [
+              83.0283,
+              23.3903
+            ],
+            [
+              82.8304,
+              23.12
+            ],
+            [
+              82.9803,
+              22.7741
+            ],
+            [
+              83.3775,
+              22.8404
+            ],
+            [
+              83.585,
+              23.12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Dhamtari",
+        "state": "Chhattisgarh",
+        "latitude": 20.71,
+        "longitude": 81.55,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.935,
+              20.71
+            ],
+            [
+              81.7675,
+              21.0525
+            ],
+            [
+              81.3783,
+              20.9803
+            ],
+            [
+              81.1804,
+              20.71
+            ],
+            [
+              81.3303,
+              20.3641
+            ],
+            [
+              81.7275,
+              20.4304
+            ],
+            [
+              81.935,
+              20.71
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Rajnandgaon",
+        "state": "Chhattisgarh",
+        "latitude": 21.1,
+        "longitude": 81.03,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.415,
+              21.1
+            ],
+            [
+              81.2475,
+              21.4425
+            ],
+            [
+              80.8583,
+              21.3703
+            ],
+            [
+              80.6604,
+              21.1
+            ],
+            [
+              80.8103,
+              20.7541
+            ],
+            [
+              81.2075,
+              20.8204
+            ],
+            [
+              81.415,
+              21.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Gadchiroli",
+        "state": "Maharashtra",
+        "latitude": 20.1833,
+        "longitude": 80.0,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.385,
+              20.1833
+            ],
+            [
+              80.2175,
+              20.5258
+            ],
+            [
+              79.8283,
+              20.4536
+            ],
+            [
+              79.6304,
+              20.1833
+            ],
+            [
+              79.7803,
+              19.8374
+            ],
+            [
+              80.1775,
+              19.9037
+            ],
+            [
+              80.385,
+              20.1833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Chandrapur",
+        "state": "Maharashtra",
+        "latitude": 19.95,
+        "longitude": 79.3,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.685,
+              19.95
+            ],
+            [
+              79.5175,
+              20.2925
+            ],
+            [
+              79.1283,
+              20.2203
+            ],
+            [
+              78.9304,
+              19.95
+            ],
+            [
+              79.0803,
+              19.6041
+            ],
+            [
+              79.4775,
+              19.6704
+            ],
+            [
+              79.685,
+              19.95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Nandurbar",
+        "state": "Maharashtra",
+        "latitude": 21.37,
+        "longitude": 74.25,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.635,
+              21.37
+            ],
+            [
+              74.4675,
+              21.7125
+            ],
+            [
+              74.0783,
+              21.6403
+            ],
+            [
+              73.8804,
+              21.37
+            ],
+            [
+              74.0303,
+              21.0241
+            ],
+            [
+              74.4275,
+              21.0904
+            ],
+            [
+              74.635,
+              21.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Palghar",
+        "state": "Maharashtra",
+        "latitude": 19.6967,
+        "longitude": 72.7656,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.1506,
+              19.6967
+            ],
+            [
+              72.9831,
+              20.0392
+            ],
+            [
+              72.5939,
+              19.967
+            ],
+            [
+              72.396,
+              19.6967
+            ],
+            [
+              72.5459,
+              19.3508
+            ],
+            [
+              72.9431,
+              19.4171
+            ],
+            [
+              73.1506,
+              19.6967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Yavatmal",
+        "state": "Maharashtra",
+        "latitude": 20.4,
+        "longitude": 78.1333,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.5183,
+              20.4
+            ],
+            [
+              78.3508,
+              20.7425
+            ],
+            [
+              77.9616,
+              20.6703
+            ],
+            [
+              77.7637,
+              20.4
+            ],
+            [
+              77.9136,
+              20.0541
+            ],
+            [
+              78.3108,
+              20.1204
+            ],
+            [
+              78.5183,
+              20.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "West Singhbhum",
+        "state": "Jharkhand",
+        "latitude": 22.5667,
+        "longitude": 85.8,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.185,
+              22.5667
+            ],
+            [
+              86.0175,
+              22.9092
+            ],
+            [
+              85.6283,
+              22.837
+            ],
+            [
+              85.4304,
+              22.5667
+            ],
+            [
+              85.5803,
+              22.2208
+            ],
+            [
+              85.9775,
+              22.2871
+            ],
+            [
+              86.185,
+              22.5667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Gumla",
+        "state": "Jharkhand",
+        "latitude": 23.04,
+        "longitude": 84.54,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.925,
+              23.04
+            ],
+            [
+              84.7575,
+              23.3825
+            ],
+            [
+              84.3683,
+              23.3103
+            ],
+            [
+              84.1704,
+              23.04
+            ],
+            [
+              84.3203,
+              22.6941
+            ],
+            [
+              84.7175,
+              22.7604
+            ],
+            [
+              84.925,
+              23.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Simdega",
+        "state": "Jharkhand",
+        "latitude": 22.6167,
+        "longitude": 84.5167,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.9017,
+              22.6167
+            ],
+            [
+              84.7342,
+              22.9592
+            ],
+            [
+              84.345,
+              22.887
+            ],
+            [
+              84.1471,
+              22.6167
+            ],
+            [
+              84.297,
+              22.2708
+            ],
+            [
+              84.6942,
+              22.3371
+            ],
+            [
+              84.9017,
+              22.6167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Latehar",
+        "state": "Jharkhand",
+        "latitude": 23.7439,
+        "longitude": 84.5028,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.8878,
+              23.7439
+            ],
+            [
+              84.7203,
+              24.0864
+            ],
+            [
+              84.3311,
+              24.0142
+            ],
+            [
+              84.1332,
+              23.7439
+            ],
+            [
+              84.2831,
+              23.398
+            ],
+            [
+              84.6803,
+              23.4643
+            ],
+            [
+              84.8878,
+              23.7439
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Dumka",
+        "state": "Jharkhand",
+        "latitude": 24.2667,
+        "longitude": 87.25,
+        "disclaimer": "Simulated Demo Data"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.635,
+              24.2667
+            ],
+            [
+              87.4675,
+              24.6092
+            ],
+            [
+              87.0783,
+              24.537
+            ],
+            [
+              86.8804,
+              24.2667
+            ],
+            [
+              87.0303,
+              23.9208
+            ],
+            [
+              87.4275,
+              23.9871
+            ],
+            [
+              87.635,
+              24.2667
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

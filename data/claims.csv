@@ -1,0 +1,1001 @@
+claim_id,applicant_name,state,district,village,claim_type,claimed_area,recorded_area,submission_date,status,days_pending,latitude,longitude
+FRA-1001,Ramesh Kumar,Madhya Pradesh,Dhar,Example Village,Individual,8.5,8.2,2026-05-07,Approved,0,22.61961475704238,75.3084881311089
+FRA-1025,Example Applicant,Madhya Pradesh,Dhar,Example Village,Individual,12.4,7.8,2026-01-02,Pending,245,22.608054741973714,75.25274604033433
+FRA-1002,Sidhu Munda,Jharkhand,West Singhbhum,Chhota Nagpur,Individual,6.94,7.04,2026-08-21,Approved,0,22.55617947106995,85.81701712308355
+FRA-1003,Birsa Singh,Madhya Pradesh,Dindori,Chandapur,Individual,1.95,2.02,2026-08-08,Approved,0,22.90468199095143,81.09880060983883
+FRA-1004,Gautam Pradhan,Maharashtra,Gadchiroli,Durgapur,Community,10.82,10.91,2026-08-21,Approved,0,20.177460334249332,79.94388377112439
+FRA-1005,Phulo Naik,Jharkhand,West Singhbhum,Rampur,Community,4.18,3.92,2026-08-13,Approved,0,22.58234615541915,85.79406918028045
+FRA-1006,Rajesh Pradhan,Jharkhand,West Singhbhum,Amrapali,Individual,4.93,5.12,2026-08-11,Approved,0,22.62939817978016,85.81979808884493
+FRA-1007,Anita Rathwa,Odisha,Sundargarh,Devgaon,Community,12.75,12.74,2026-07-06,Pending,40,22.206270186000022,84.04594123551333
+FRA-1008,Somnath Patel,Madhya Pradesh,Dhar,Panchvati,Community,8.87,8.79,2026-08-20,Approved,0,22.684639691164435,75.30572416397226
+FRA-1009,Sidhu Patel,Jharkhand,Simdega,Kalyanpur,Community,8.7,8.81,2026-08-05,Approved,0,22.65809265622808,84.51078108620135
+FRA-1010,Pooja Bhilla,Odisha,Koraput,Sunderpur,Community,11.49,4.6,2026-08-19,Approved,0,18.7907290111595,82.72316595942848
+FRA-1011,Birsa Bhoi,Chhattisgarh,Rajnandgaon,Devgaon,Community,4.79,4.5,2026-03-23,Pending,144,21.066458190954307,80.97781180904671
+FRA-1012,Somnath Singh,Jharkhand,Simdega,Sunderpur,Individual,3.69,3.86,2025-11-27,Pending,269,22.713561049931222,84.45410460874277
+FRA-1013,Kanhu Uraon,Chhattisgarh,Kanker,Durgapur,Individual,7.26,7.02,2026-06-10,Pending,69,20.249335064092293,81.56179160271847
+FRA-1014,Sunita Kumar,Maharashtra,Nandurbar,Kalyanpur,Individual,6.08,6.17,2026-08-23,Approved,0,21.292765098954956,74.22845384410974
+FRA-1015,Somnath Tudu,Chhattisgarh,Bastar,Chhota Nagpur,Community,2.82,1.41,2026-08-25,Approved,0,19.134459060696244,82.00802278191264
+FRA-1016,Sunita Singh,Odisha,Koraput,Amrapali,Individual,9.38,9.24,2026-08-08,Approved,0,18.7726674160802,82.62740766986866
+FRA-1017,Babu Tudu,Chhattisgarh,Dhamtari,Amrapali,Individual,5.16,4.95,2026-08-10,Approved,0,20.662463821057298,81.54918999419539
+FRA-1018,Birsa Naik,Odisha,Koraput,Example Village,Individual,12.96,13.09,2026-08-08,Approved,0,18.78138948981602,82.68608307848056
+FRA-1019,Pooja Soren,Jharkhand,Dumka,Kalyanpur,Individual,1.74,1.97,2026-08-23,Approved,0,24.347074239560868,87.19110475381271
+FRA-1020,Sidhu Hembram,Odisha,Kandhamal,Sitapur,Individual,1.08,0.84,2026-08-15,Approved,0,20.184748709937086,83.9801291654789
+FRA-1021,Suresh Kumar,Madhya Pradesh,Dhar,Chhota Nagpur,Individual,7.41,7.35,2026-08-06,Approved,0,22.534301747831275,75.21844427688949
+FRA-1022,Birsa Pradhan,Chhattisgarh,Kanker,Example Village,Community,2.66,2.84,2026-08-19,Approved,0,20.266494251994597,81.503179445675
+FRA-1023,Sidhu Bhoi,Odisha,Kandhamal,Chandapur,Individual,14.48,14.69,2026-08-24,Approved,0,20.33026086082014,83.97304197030408
+FRA-1024,Devi Rathwa,Chhattisgarh,Bastar,Sunderpur,Individual,6.53,6.52,2026-08-19,Approved,0,19.025969063057776,81.85782585998614
+FRA-1026,Babu Maravi,Maharashtra,Palghar,Example Village,Community,7.53,7.3,2026-08-13,Approved,0,19.73929896435317,72.81574236715255
+FRA-1027,Pooja Soren,Odisha,Koraput,Chandapur,Individual,9.66,9.53,2026-08-06,Approved,0,18.83812969237993,82.62257840347428
+FRA-1028,Phulo Uraon,Maharashtra,Palghar,Panchvati,Individual,9.73,9.72,2026-04-15,Pending,119,19.65381258423102,72.8575117547389
+FRA-1029,Jano Naik,Madhya Pradesh,Balaghat,Chandapur,Individual,11.19,11.3,2026-04-24,Pending,117,21.835350346950673,80.27272719414468
+FRA-1030,Manoj Patel,Chhattisgarh,Bastar,Panchvati,Individual,9.38,9.63,2026-08-09,Approved,0,19.187259115140282,81.89270730185939
+FRA-1031,Kanhu Maravi,Madhya Pradesh,Dhar,Chandapur,Individual,3.83,3.56,2026-08-11,Approved,0,22.592508959149725,75.27560138060674
+FRA-1032,Kamla Gond,Chhattisgarh,Rajnandgaon,Sunderpur,Community,14.94,14.83,2026-08-08,Approved,0,21.085584183110036,81.10110713285378
+FRA-1033,Manoj Tudu,Odisha,Koraput,Chandapur,Individual,12.16,4.86,2026-08-23,Rejected,0,18.80057442564793,82.64982072611507
+FRA-1034,Suresh Munda,Chhattisgarh,Bastar,Devgaon,Individual,6.28,6.21,2026-08-17,Approved,0,19.17793882614052,82.04543926610528
+FRA-1035,Suresh Naik,Maharashtra,Nandurbar,Chhota Nagpur,Individual,10.9,11.1,2026-08-11,Approved,0,21.46493878774211,74.30764654442316
+FRA-1036,Pooja Pradhan,Chhattisgarh,Bastar,Panchvati,Individual,1.63,1.8,2026-08-06,Approved,0,19.052909894296825,81.9555613540761
+FRA-1037,Devi Hembram,Chhattisgarh,Bastar,Panchvati,Community,12.14,12.32,2026-08-13,Approved,0,19.198214214020602,81.89500591341195
+FRA-1038,Suresh Uraon,Jharkhand,Latehar,Durgapur,Community,12.49,12.2,2026-08-22,Rejected,0,23.77490361570539,84.50662385258191
+FRA-1039,Ramesh Pradhan,Jharkhand,Dumka,Bhadrapur,Individual,1.47,1.53,2026-08-17,Approved,0,24.177004748060597,87.24988743168065
+FRA-1040,Kamla Uraon,Maharashtra,Nandurbar,Example Village,Community,7.57,7.58,2026-08-25,Approved,0,21.275519764918,74.31318932147107
+FRA-1041,Phulo Maravi,Jharkhand,Simdega,Durgapur,Individual,3.01,2.9,2026-08-08,Approved,0,22.56829318089697,84.54076481025874
+FRA-1042,Birsa Naik,Chhattisgarh,Dhamtari,Devgaon,Individual,7.72,8.01,2025-08-31,Pending,353,20.743777731291193,81.4976158777272
+FRA-1043,Lakshmi Bhilla,Madhya Pradesh,Dindori,Chandapur,Individual,2.9,2.65,2026-08-24,Approved,0,22.95516438700177,81.1116834500799
+FRA-1044,Suresh Kumar,Jharkhand,Simdega,Rampur,Community,13.58,5.43,2026-01-31,Pending,204,22.628740497909046,84.57274350164917
+FRA-1045,Pooja Bhoi,Chhattisgarh,Surguja,Amrapali,Individual,6.19,2.48,2026-07-23,Pending,27,23.210041501239257,83.17557158461227
+FRA-1046,Birsa Singh,Odisha,Sundargarh,Chandapur,Individual,2.75,2.83,2026-04-07,Pending,135,22.059808340474664,84.00686217043972
+FRA-1047,Phulo Gond,Madhya Pradesh,Mandla,Devgaon,Community,5.92,5.64,2026-08-25,Rejected,0,22.665534759491948,80.35465389695774
+FRA-1048,Babu Naik,Odisha,Rayagada,Durgapur,Individual,3.99,4.05,2026-08-22,Approved,0,19.18698942170714,83.42264706725192
+FRA-1049,Birsa Singh,Odisha,Koraput,Kalyanpur,Individual,12.38,12.28,2026-08-18,Approved,0,18.84340846364228,82.69742152886475
+FRA-1050,Vijay Soren,Odisha,Mayurbhanj,Sunderpur,Community,12.15,12.06,2026-08-24,Approved,0,21.98298801347198,86.83067343054923
+FRA-1051,Kanhu Soren,Madhya Pradesh,Mandla,Kalyanpur,Community,1.7,0.85,2026-08-20,Approved,0,22.649463907814173,80.28842073853265
+FRA-1052,Sunita Munda,Odisha,Mayurbhanj,Bhadrapur,Community,6.77,6.8,2026-08-22,Approved,0,22.003586488069402,86.68173499947721
+FRA-1053,Jano Gond,Madhya Pradesh,Chhindwara,Bhadrapur,Individual,11.65,11.47,2026-08-18,Approved,0,22.092296428620536,78.87583881668905
+FRA-1054,Rajesh Rathwa,Maharashtra,Gadchiroli,Devgaon,Individual,10.27,10.15,2026-08-12,Approved,0,20.192390835118022,79.92231329038319
+FRA-1055,Suresh Singh,Chhattisgarh,Surguja,Durgapur,Individual,11.85,4.74,2026-08-11,Approved,0,23.21488482125818,83.24116456175726
+FRA-1056,Sidhu Pradhan,Maharashtra,Yavatmal,Devgaon,Individual,14.3,14.41,2026-08-15,Approved,0,20.37961917073707,78.22849115251263
+FRA-1057,Manoj Bhilla,Madhya Pradesh,Chhindwara,Rampur,Community,10.83,4.33,2026-08-11,Approved,0,22.110339744447984,79.03358317030161
+FRA-1058,Devi Maravi,Maharashtra,Yavatmal,Chandapur,Community,7.94,7.67,2026-08-25,Approved,0,20.459388736608933,78.04119368541697
+FRA-1059,Pooja Pradhan,Maharashtra,Palghar,Amrapali,Individual,11.5,11.66,2026-07-11,Pending,38,19.695081219970422,72.77937061964064
+FRA-1060,Birsa Soren,Maharashtra,Chandrapur,Sunderpur,Individual,1.71,1.61,2026-07-26,Pending,24,19.94567340301793,79.32209929156704
+FRA-1061,Suresh Patel,Madhya Pradesh,Dindori,Sitapur,Individual,2.59,2.76,2026-08-13,Rejected,0,22.963986520547643,81.0823077490812
+FRA-1062,Ramesh Soren,Odisha,Kandhamal,Kalyanpur,Individual,6.6,6.79,2026-08-12,Approved,0,20.181131657800076,84.07302118272898
+FRA-1063,Radha Rathwa,Jharkhand,Simdega,Devgaon,Community,9.66,9.59,2026-08-05,Approved,0,22.58152333414508,84.58471215310199
+FRA-1064,Pooja Hembram,Jharkhand,Dumka,Example Village,Individual,6.73,6.72,2026-08-15,Rejected,0,24.23407115606243,87.24239011250185
+FRA-1065,Kamla Kumar,Odisha,Mayurbhanj,Rampur,Individual,11.37,11.35,2026-08-16,Approved,0,22.013065464558814,86.6881503329934
+FRA-1066,Kamla Pradhan,Madhya Pradesh,Chhindwara,Devgaon,Community,2.09,2.18,2026-08-14,Approved,0,22.08964357020583,78.93349797464455
+FRA-1067,Devi Uraon,Odisha,Rayagada,Devgaon,Community,6.73,7.03,2026-08-25,Approved,0,19.239511610926293,83.50456358606827
+FRA-1068,Ramesh Bhoi,Chhattisgarh,Kanker,Amrapali,Community,13.88,13.97,2025-10-01,Pending,318,20.312602893895274,81.47762488099386
+FRA-1069,Pooja Tudu,Chhattisgarh,Kanker,Durgapur,Community,2.42,2.38,2026-08-23,Approved,0,20.32578663068138,81.46192757390236
+FRA-1070,Somnath Singh,Jharkhand,Simdega,Chandapur,Community,6.1,6.05,2026-04-13,Pending,124,22.527141282228666,84.47406816957145
+FRA-1071,Manoj Singh,Chhattisgarh,Dhamtari,Sunderpur,Community,11.34,11.48,2026-08-23,Approved,0,20.728924266898122,81.61211482227137
+FRA-1072,Babu Tudu,Madhya Pradesh,Mandla,Chhota Nagpur,Individual,9.07,9.06,2026-08-17,Approved,0,22.528000699129905,80.41392615625055
+FRA-1073,Rajesh Rathwa,Odisha,Rayagada,Devgaon,Community,10.96,11.11,2026-08-10,Approved,0,19.177268436612085,83.41796519037861
+FRA-1074,Kamla Pradhan,Chhattisgarh,Kanker,Panchvati,Individual,2.72,2.84,2026-08-08,Approved,0,20.17061455551088,81.53442658514841
+FRA-1075,Anita Soren,Odisha,Rayagada,Sitapur,Individual,2.64,2.7,2026-04-07,Pending,121,19.133581553396457,83.36988836620766
+FRA-1076,Lakshmi Pradhan,Chhattisgarh,Dhamtari,Amrapali,Individual,9.84,15.74,2026-08-16,Approved,0,20.74495981013487,81.534440044549
+FRA-1077,Ramesh Bhilla,Chhattisgarh,Rajnandgaon,Sunderpur,Individual,5.08,4.86,2026-08-20,Approved,0,21.035217716681117,80.99288344099743
+FRA-1078,Jano Hembram,Jharkhand,Latehar,Chandapur,Community,9.4,20.68,2026-08-07,Approved,0,23.756530999012217,84.4288477942572
+FRA-1079,Anita Gond,Chhattisgarh,Surguja,Panchvati,Community,7.41,7.21,2026-08-11,Approved,0,23.02472381251944,83.25506549554278
+FRA-1080,Manoj Rathwa,Jharkhand,Latehar,Devgaon,Community,10.33,10.38,2026-08-25,Approved,0,23.754310903671843,84.51498525021509
+FRA-1081,Sidhu Hembram,Jharkhand,Dumka,Kalyanpur,Individual,2.47,0.99,2026-08-12,Approved,0,24.26673704845442,87.16612612559457
+FRA-1082,Sunita Kumar,Jharkhand,Gumla,Chandapur,Individual,10.35,10.31,2026-04-20,Pending,122,23.028179811383847,84.44980845537211
+FRA-1083,Babu Bhilla,Chhattisgarh,Rajnandgaon,Sunderpur,Individual,8.57,8.38,2026-08-06,Approved,0,21.11625300512722,81.05727932689238
+FRA-1084,Vijay Rathwa,Chhattisgarh,Surguja,Amrapali,Individual,5.03,4.8,2026-08-13,Approved,0,23.210309082272893,83.2132896675203
+FRA-1085,Manoj Maravi,Maharashtra,Gadchiroli,Durgapur,Individual,2.22,4.88,2026-08-21,Approved,0,20.14163834486807,80.09635914405058
+FRA-1086,Gautam Singh,Chhattisgarh,Dhamtari,Kalyanpur,Community,10.7,10.97,2026-03-25,Pending,144,20.78395169210528,81.50506142324186
+FRA-1087,Pooja Rathwa,Jharkhand,Dumka,Kalyanpur,Community,5.77,2.88,2026-08-25,Approved,0,24.23519329346148,87.2024241598391
+FRA-1088,Gautam Naik,Maharashtra,Gadchiroli,Durgapur,Community,8.07,8.11,2026-08-11,Approved,0,20.245714556966043,80.07488013336507
+FRA-1089,Pooja Bhoi,Maharashtra,Chandrapur,Amrapali,Community,13.32,13.21,2026-04-07,Pending,135,19.894600551491155,79.35811814087592
+FRA-1090,Jano Gond,Odisha,Mayurbhanj,Chandapur,Individual,9.35,9.3,2026-08-25,Approved,0,22.011077017478538,86.83065696067925
+FRA-1091,Sidhu Kumar,Madhya Pradesh,Balaghat,Sitapur,Community,7.14,6.91,2026-08-24,Approved,0,21.891644533057764,80.25028925217146
+FRA-1092,Devi Hembram,Chhattisgarh,Surguja,Example Village,Individual,5.18,5.34,2026-04-01,Pending,129,23.095739254227485,83.25683835190199
+FRA-1093,Radha Soren,Maharashtra,Nandurbar,Example Village,Community,3.49,3.59,2026-08-25,Approved,0,21.345182419464276,74.29678939647896
+FRA-1094,Anita Kumar,Jharkhand,West Singhbhum,Chhota Nagpur,Individual,7.09,7.09,2026-08-16,Approved,0,22.47006051080247,85.73088123001237
+FRA-1095,Sunita Gond,Maharashtra,Nandurbar,Panchvati,Community,2.28,2.02,2026-08-09,Approved,0,21.343876229388435,74.1694361147656
+FRA-1096,Gautam Bhilla,Maharashtra,Gadchiroli,Panchvati,Individual,2.17,2.09,2026-07-06,Pending,32,20.128401047480452,80.09136069829131
+FRA-1097,Kanhu Kumar,Chhattisgarh,Dhamtari,Sitapur,Individual,1.14,1.82,2026-08-08,Approved,0,20.629795957373958,81.64841097980711
+FRA-1098,Babu Bhilla,Odisha,Sundargarh,Durgapur,Individual,12.41,12.4,2026-08-18,Approved,0,22.113007179693636,84.06906370659394
+FRA-1099,Pooja Rathwa,Odisha,Rayagada,Rampur,Community,4.39,4.48,2026-07-01,Pending,50,19.134290207614058,83.50251165927439
+FRA-1100,Jano Maravi,Jharkhand,Simdega,Chandapur,Individual,8.05,7.91,2026-08-16,Approved,0,22.65670686199713,84.59918316430128
+FRA-1101,Vijay Bhilla,Chhattisgarh,Kanker,Durgapur,Individual,2.52,2.36,2026-08-24,Approved,0,20.352463876752452,81.5031261102247
+FRA-1102,Kanhu Kumar,Jharkhand,West Singhbhum,Durgapur,Individual,14.35,14.06,2026-08-12,Approved,0,22.53257325943763,85.72473782105547
+FRA-1103,Phulo Tudu,Maharashtra,Yavatmal,Devgaon,Community,6.98,7.05,2026-08-21,Approved,0,20.300677284162614,78.13991265474516
+FRA-1104,Ramesh Pradhan,Odisha,Sundargarh,Devgaon,Individual,10.62,4.25,2026-08-21,Rejected,0,22.072771312337135,83.9974512584932
+FRA-1105,Birsa Bhoi,Chhattisgarh,Surguja,Amrapali,Community,7.81,7.74,2026-08-10,Approved,0,23.17816621480043,83.22372659045092
+FRA-1106,Radha Rathwa,Jharkhand,Simdega,Durgapur,Community,9.06,8.78,2026-05-12,Pending,89,22.54734233003163,84.52955558625523
+FRA-1107,Lakshmi Bhoi,Jharkhand,Simdega,Chandapur,Individual,13.95,13.97,2026-03-31,Pending,143,22.61192177286054,84.52879818406173
+FRA-1108,Babu Singh,Maharashtra,Nandurbar,Devgaon,Individual,11.55,11.65,2026-08-11,Approved,0,21.356693003304816,74.24775068256069
+FRA-1109,Devi Soren,Maharashtra,Chandrapur,Example Village,Community,7.26,7.02,2026-06-28,Pending,47,20.015624025095658,79.2639452986299
+FRA-1110,Kanhu Munda,Jharkhand,West Singhbhum,Kalyanpur,Community,13.13,13.02,2026-04-09,Pending,127,22.60951425164776,85.81014668007467
+FRA-1111,Kanhu Patel,Chhattisgarh,Kanker,Sitapur,Individual,7.96,8.22,2026-08-17,Approved,0,20.252949991716633,81.4096426776267
+FRA-1112,Phulo Maravi,Madhya Pradesh,Chhindwara,Sunderpur,Individual,9.95,9.79,2026-08-25,Approved,0,22.007213624919927,78.85597273909679
+FRA-1113,Devi Singh,Odisha,Koraput,Example Village,Community,10.86,11.06,2026-06-06,Pending,63,18.739496378219332,82.65985007479026
+FRA-1114,Kanhu Naik,Jharkhand,Gumla,Rampur,Individual,7.65,7.63,2026-08-15,Rejected,0,23.107280707819136,84.50628682018446
+FRA-1115,Sunita Bhilla,Jharkhand,Dumka,Sitapur,Individual,10.35,10.09,2026-08-22,Approved,0,24.230205399688668,87.31580826167473
+FRA-1116,Sidhu Pradhan,Madhya Pradesh,Balaghat,Rampur,Community,1.29,1.56,2026-04-06,Pending,127,21.901913388311815,80.21280196331772
+FRA-1117,Jano Uraon,Odisha,Kandhamal,Sunderpur,Community,7.68,7.4,2026-08-09,Approved,0,20.236491674899938,84.05452655577194
+FRA-1118,Pooja Pradhan,Jharkhand,Latehar,Example Village,Community,14.39,14.55,2026-08-16,Approved,0,23.818663620595924,84.51952632411864
+FRA-1119,Gautam Pradhan,Jharkhand,West Singhbhum,Sitapur,Individual,7.15,7.37,2026-08-25,Rejected,0,22.6203321014906,85.86928435242976
+FRA-1120,Sidhu Rathwa,Madhya Pradesh,Mandla,Bhadrapur,Community,8.83,9.06,2026-08-08,Approved,0,22.51437083057073,80.40656209339436
+FRA-1121,Jano Patel,Odisha,Koraput,Panchvati,Individual,2.52,2.4,2026-04-21,Pending,125,18.753720243736545,82.70417526375272
+FRA-1122,Suresh Tudu,Jharkhand,West Singhbhum,Rampur,Individual,6.74,6.58,2026-01-10,Pending,226,22.4723335604383,85.87995565994602
+FRA-1123,Birsa Uraon,Maharashtra,Chandrapur,Rampur,Individual,6.36,2.54,2026-08-15,Approved,0,19.899592489844363,79.28547087819852
+FRA-1124,Anita Bhilla,Jharkhand,West Singhbhum,Devgaon,Community,10.38,10.34,2026-08-17,Approved,0,22.53322173265712,85.85789541694768
+FRA-1125,Suresh Gond,Odisha,Rayagada,Example Village,Community,5.73,5.53,2026-08-11,Approved,0,19.24562939590024,83.42100080244457
+FRA-1126,Radha Munda,Madhya Pradesh,Chhindwara,Sitapur,Community,4.06,4.05,2025-10-20,Pending,290,21.960550369794284,78.95623623338379
+FRA-1127,Suresh Hembram,Odisha,Mayurbhanj,Bhadrapur,Individual,9.24,8.96,2026-08-10,Approved,0,22.01476373624088,86.79307956345703
+FRA-1128,Sunita Singh,Madhya Pradesh,Chhindwara,Rampur,Community,2.33,2.39,2026-08-17,Approved,0,21.97257415574067,78.84010948004405
+FRA-1129,Kamla Hembram,Jharkhand,Dumka,Devgaon,Individual,6.63,6.89,2026-08-09,Rejected,0,24.181170658216885,87.29470973553663
+FRA-1130,Phulo Bhilla,Odisha,Sundargarh,Chandapur,Community,10.24,10.26,2026-08-10,Approved,0,22.08177569091461,84.04657083367381
+FRA-1131,Jano Tudu,Maharashtra,Gadchiroli,Devgaon,Community,10.28,10.47,2026-08-11,Approved,0,20.237678753080523,80.08179410260011
+FRA-1132,Lakshmi Hembram,Chhattisgarh,Rajnandgaon,Amrapali,Community,14.15,14.14,2025-12-23,Pending,226,21.006235044233335,81.05617514413353
+FRA-1133,Devi Gond,Maharashtra,Nandurbar,Chandapur,Community,6.28,6.35,2026-08-25,Approved,0,21.329091127248464,74.28625828572015
+FRA-1134,Gautam Bhilla,Odisha,Koraput,Example Village,Community,12.67,12.61,2026-08-24,Approved,0,18.72261814338117,82.62671609082126
+FRA-1135,Ramesh Patel,Jharkhand,Dumka,Example Village,Individual,1.98,2.21,2025-10-25,Pending,301,24.27871950875379,87.33526793771499
+FRA-1136,Devi Soren,Maharashtra,Gadchiroli,Bhadrapur,Community,5.13,4.92,2026-08-06,Approved,0,20.209854427898236,79.99301512485206
+FRA-1137,Anita Singh,Odisha,Koraput,Chandapur,Individual,13.2,13.35,2026-03-29,Pending,149,18.898692782092333,82.67924147485512
+FRA-1138,Sidhu Patel,Jharkhand,Latehar,Sitapur,Community,12.57,12.57,2026-08-08,Approved,0,23.73940092765071,84.52000767563827
+FRA-1139,Sunita Singh,Madhya Pradesh,Mandla,Chhota Nagpur,Individual,10.06,10.2,2026-08-07,Approved,0,22.604124498296596,80.33914270481951
+FRA-1140,Suresh Rathwa,Maharashtra,Gadchiroli,Chandapur,Community,4.76,4.96,2025-09-13,Pending,339,20.146549671939894,80.02701830273955
+FRA-1141,Birsa Singh,Jharkhand,Simdega,Amrapali,Community,6.09,6.08,2026-08-18,Approved,0,22.52470819535692,84.50998519732467
+FRA-1142,Vijay Bhoi,Madhya Pradesh,Chhindwara,Amrapali,Individual,2.69,2.71,2026-08-23,Approved,0,22.082394903162765,78.89388872787426
+FRA-1143,Anita Pradhan,Maharashtra,Yavatmal,Sitapur,Community,14.45,7.22,2026-08-10,Rejected,0,20.485679096961615,78.1951027002207
+FRA-1144,Devi Hembram,Odisha,Koraput,Durgapur,Community,9.91,9.73,2026-01-15,Pending,203,18.733433424997415,82.78441887185107
+FRA-1145,Anita Rathwa,Madhya Pradesh,Dhar,Example Village,Individual,6.99,6.96,2026-08-08,Approved,0,22.544561163899907,75.26362193857783
+FRA-1146,Suresh Patel,Odisha,Mayurbhanj,Durgapur,Individual,2.25,4.95,2026-08-22,Approved,0,21.905991039011546,86.66590241214548
+FRA-1147,Vijay Pradhan,Maharashtra,Yavatmal,Amrapali,Individual,13.75,22.0,2026-08-13,Approved,0,20.41323061648193,78.21372468555553
+FRA-1148,Lakshmi Kumar,Jharkhand,Simdega,Sunderpur,Community,6.56,6.41,2026-08-14,Rejected,0,22.630173601510457,84.5755232818998
+FRA-1149,Kamla Singh,Maharashtra,Chandrapur,Rampur,Individual,7.41,7.32,2026-08-15,Approved,0,19.983470129541328,79.33549121992934
+FRA-1150,Kanhu Singh,Odisha,Rayagada,Example Village,Individual,14.64,5.86,2026-08-11,Approved,0,19.25221709892522,83.36236104065631
+FRA-1151,Gautam Maravi,Chhattisgarh,Dhamtari,Rampur,Community,10.94,11.1,2026-08-21,Approved,0,20.72322966033848,81.58638337459087
+FRA-1152,Sunita Munda,Jharkhand,Dumka,Durgapur,Community,5.28,5.13,2026-08-22,Approved,0,24.258385993348057,87.2981461551041
+FRA-1153,Gautam Singh,Chhattisgarh,Rajnandgaon,Devgaon,Community,13.9,14.1,2026-08-08,Approved,0,21.08408178401707,80.94495690121238
+FRA-1154,Devi Bhilla,Chhattisgarh,Dhamtari,Chhota Nagpur,Community,3.99,3.83,2026-08-14,Approved,0,20.666926561972844,81.59320397405867
+FRA-1155,Gautam Soren,Maharashtra,Palghar,Amrapali,Community,12.43,12.16,2026-08-22,Rejected,0,19.71289596082093,72.68663367872115
+FRA-1156,Vijay Bhoi,Madhya Pradesh,Dhar,Sunderpur,Community,8.66,8.6,2026-08-16,Approved,0,22.684413197642193,75.36946831018817
+FRA-1157,Phulo Tudu,Jharkhand,Dumka,Durgapur,Individual,9.66,9.88,2026-08-18,Rejected,0,24.326464563401878,87.31692376691376
+FRA-1158,Gautam Soren,Madhya Pradesh,Dindori,Durgapur,Community,9.45,9.6,2026-08-15,Approved,0,22.932547189406232,81.0985125192589
+FRA-1159,Pooja Munda,Odisha,Kandhamal,Bhadrapur,Community,8.1,7.94,2026-08-14,Approved,0,20.27660656663158,83.9874078668718
+FRA-1160,Sunita Soren,Odisha,Rayagada,Chandapur,Community,10.0,9.87,2026-08-19,Rejected,0,19.165590810500447,83.34597231464787
+FRA-1161,Phulo Munda,Madhya Pradesh,Dindori,Amrapali,Community,13.17,13.17,2026-04-08,Pending,130,22.931941730369555,81.07433036146948
+FRA-1162,Sidhu Bhilla,Jharkhand,Gumla,Bhadrapur,Individual,7.3,3.65,2026-08-13,Approved,0,23.06972946298066,84.48202771843096
+FRA-1163,Babu Singh,Chhattisgarh,Kanker,Chandapur,Individual,11.29,11.24,2026-08-11,Approved,0,20.177681719113355,81.58961896712808
+FRA-1164,Ramesh Bhilla,Odisha,Mayurbhanj,Panchvati,Community,10.58,10.67,2026-08-19,Rejected,0,21.8598872579806,86.6794221129016
+FRA-1165,Suresh Gond,Odisha,Rayagada,Chhota Nagpur,Individual,11.57,11.8,2026-08-06,Approved,0,19.215925532220332,83.47081416471573
+FRA-1166,Babu Patel,Jharkhand,Simdega,Bhadrapur,Individual,1.24,1.02,2026-08-25,Approved,0,22.666591465051905,84.43696379511891
+FRA-1167,Kanhu Uraon,Maharashtra,Gadchiroli,Example Village,Individual,9.04,9.19,2026-04-05,Pending,140,20.09611391203398,79.96013248496806
+FRA-1168,Lakshmi Bhilla,Jharkhand,Dumka,Amrapali,Individual,1.51,1.39,2026-08-05,Approved,0,24.17424565625342,87.31622798669135
+FRA-1169,Babu Bhilla,Madhya Pradesh,Balaghat,Sunderpur,Individual,13.96,13.72,2026-08-22,Approved,0,21.780523487003663,80.11074915773831
+FRA-1170,Kamla Naik,Chhattisgarh,Dhamtari,Example Village,Community,12.47,12.58,2026-08-06,Approved,0,20.801075743961885,81.45475648179637
+FRA-1171,Rajesh Patel,Madhya Pradesh,Chhindwara,Chandapur,Individual,12.01,11.93,2026-08-23,Approved,0,22.07312377291925,78.89375639627276
+FRA-1172,Kamla Tudu,Madhya Pradesh,Dhar,Amrapali,Individual,9.86,9.57,2026-05-13,Pending,95,22.584990887640625,75.37908972380448
+FRA-1173,Somnath Hembram,Chhattisgarh,Surguja,Devgaon,Community,14.43,14.31,2026-08-14,Approved,0,23.202220855561645,83.2294608122236
+FRA-1174,Ramesh Hembram,Maharashtra,Nandurbar,Sunderpur,Community,11.1,10.97,2026-05-21,Pending,85,21.462408315396832,74.25692709165092
+FRA-1175,Suresh Munda,Odisha,Sundargarh,Sitapur,Individual,13.61,13.72,2026-08-13,Approved,0,22.125514971713137,84.04856913024194
+FRA-1176,Babu Pradhan,Madhya Pradesh,Mandla,Rampur,Community,6.68,14.7,2026-04-02,Pending,143,22.544692661023824,80.39759822266797
+FRA-1177,Babu Soren,Maharashtra,Chandrapur,Sitapur,Individual,11.98,11.8,2026-08-20,Approved,0,20.037295100453274,79.22220811671991
+FRA-1178,Devi Singh,Chhattisgarh,Bastar,Sunderpur,Individual,11.31,11.06,2026-08-06,Approved,0,19.133197867215312,81.9979169133734
+FRA-1179,Manoj Hembram,Odisha,Koraput,Panchvati,Community,9.55,9.82,2026-08-18,Approved,0,18.853891506678945,82.65899971357234
+FRA-1180,Jano Rathwa,Chhattisgarh,Kanker,Sunderpur,Community,7.77,7.62,2026-08-09,Approved,0,20.199561091729173,81.53065810186199
+FRA-1181,Ramesh Soren,Jharkhand,Latehar,Amrapali,Community,13.31,5.32,2026-08-12,Approved,0,23.820808697469268,84.53675172336511
+FRA-1182,Suresh Maravi,Chhattisgarh,Dhamtari,Chandapur,Community,8.07,8.3,2026-05-18,Pending,99,20.66191549507055,81.64942472931088
+FRA-1183,Rajesh Hembram,Jharkhand,Gumla,Sunderpur,Individual,5.2,5.41,2026-08-11,Approved,0,23.10424610063107,84.5327929014148
+FRA-1184,Sunita Uraon,Odisha,Rayagada,Bhadrapur,Individual,9.49,9.47,2026-08-21,Approved,0,19.10545514348266,83.37968385510531
+FRA-1185,Babu Munda,Maharashtra,Palghar,Durgapur,Community,10.21,10.33,2026-08-12,Approved,0,19.79204734491274,72.69018700394916
+FRA-1186,Kanhu Patel,Odisha,Rayagada,Sitapur,Individual,5.93,6.01,2026-08-12,Approved,0,19.23374014905978,83.46977195740098
+FRA-1187,Sidhu Soren,Chhattisgarh,Bastar,Example Village,Individual,4.06,8.93,2026-08-23,Approved,0,19.09050355528938,82.01348260518273
+FRA-1188,Gautam Pradhan,Madhya Pradesh,Dindori,Amrapali,Community,6.19,9.9,2026-08-24,Approved,0,22.883514960483915,81.04307742039259
+FRA-1189,Babu Bhilla,Jharkhand,Dumka,Panchvati,Community,6.62,6.63,2026-08-18,Approved,0,24.177878225121056,87.24412425741147
+FRA-1190,Phulo Naik,Maharashtra,Chandrapur,Durgapur,Community,9.23,9.13,2025-11-05,Pending,286,19.87466551102836,79.20041029060611
+FRA-1191,Phulo Munda,Madhya Pradesh,Dhar,Chandapur,Individual,2.19,2.14,2026-08-19,Approved,0,22.677340780562396,75.25664314218032
+FRA-1192,Birsa Bhoi,Maharashtra,Nandurbar,Chandapur,Individual,7.96,7.91,2026-08-18,Approved,0,21.331899162468694,74.15533364457482
+FRA-1193,Vijay Patel,Chhattisgarh,Dhamtari,Amrapali,Individual,11.6,11.83,2026-08-07,Approved,0,20.785125072924885,81.64922178118864
+FRA-1194,Lakshmi Patel,Odisha,Mayurbhanj,Sitapur,Community,14.51,14.37,2026-08-20,Approved,0,21.978556539303895,86.75873747872683
+FRA-1195,Lakshmi Hembram,Madhya Pradesh,Chhindwara,Example Village,Community,13.49,13.74,2026-06-13,Pending,63,21.95910822494116,78.91478823768541
+FRA-1196,Kanhu Tudu,Chhattisgarh,Bastar,Panchvati,Individual,2.06,2.06,2026-08-25,Approved,0,19.098692092856037,81.85801856741703
+FRA-1197,Birsa Rathwa,Jharkhand,West Singhbhum,Panchvati,Community,14.94,15.21,2026-08-20,Approved,0,22.647899146454805,85.83987656630123
+FRA-1198,Vijay Bhilla,Madhya Pradesh,Balaghat,Example Village,Community,1.36,1.3,2026-05-13,Pending,101,21.739882416285766,80.09666657116615
+FRA-1199,Babu Singh,Jharkhand,Simdega,Rampur,Community,12.78,12.88,2026-08-15,Approved,0,22.66983617042859,84.55357773668788
+FRA-1200,Somnath Kumar,Madhya Pradesh,Balaghat,Panchvati,Community,13.45,13.41,2026-08-14,Approved,0,21.737400692459058,80.13321164345929
+FRA-1201,Kanhu Pradhan,Maharashtra,Palghar,Kalyanpur,Individual,3.16,2.88,2026-03-25,Pending,141,19.727024408722777,72.84566648304676
+FRA-1202,Somnath Pradhan,Odisha,Rayagada,Example Village,Individual,5.49,5.38,2026-08-18,Approved,0,19.09074342966752,83.39554443048527
+FRA-1203,Birsa Patel,Odisha,Mayurbhanj,Durgapur,Community,10.06,10.17,2026-08-05,Approved,0,21.931604071593167,86.67538518956438
+FRA-1204,Devi Munda,Maharashtra,Gadchiroli,Bhadrapur,Community,7.16,6.92,2026-08-09,Approved,0,20.22782210732076,79.93033583563363
+FRA-1205,Gautam Naik,Maharashtra,Nandurbar,Rampur,Individual,12.74,12.72,2026-08-09,Rejected,0,21.367210033645314,74.22224546549843
+FRA-1206,Phulo Pradhan,Jharkhand,West Singhbhum,Bhadrapur,Individual,1.76,2.04,2026-08-06,Approved,0,22.643570431211188,85.8350782706779
+FRA-1207,Birsa Soren,Jharkhand,Latehar,Panchvati,Individual,8.96,8.84,2025-09-05,Pending,335,23.84159347912818,84.4646803724003
+FRA-1208,Jano Tudu,Maharashtra,Yavatmal,Rampur,Community,6.75,10.8,2026-08-11,Approved,0,20.319001462871032,78.2085838965025
+FRA-1209,Somnath Singh,Maharashtra,Chandrapur,Chandapur,Individual,12.51,12.7,2026-08-12,Approved,0,20.04721313032124,79.20727425311524
+FRA-1210,Manoj Rathwa,Maharashtra,Nandurbar,Sitapur,Individual,13.44,13.28,2026-04-17,Pending,110,21.42663665622449,74.2178900407731
+FRA-1211,Phulo Patel,Odisha,Sundargarh,Sitapur,Individual,2.22,2.06,2026-07-06,Pending,34,22.215295760455405,84.11068306808289
+FRA-1212,Pooja Gond,Jharkhand,Latehar,Durgapur,Community,2.79,2.77,2025-10-13,Pending,307,23.767876670176452,84.44864184580479
+FRA-1213,Manoj Naik,Odisha,Sundargarh,Amrapali,Individual,3.9,3.62,2025-12-24,Pending,226,22.036665601652317,84.10207424869614
+FRA-1214,Gautam Bhoi,Madhya Pradesh,Dhar,Chandapur,Community,8.03,7.94,2026-08-06,Approved,0,22.545749747859933,75.3735368160251
+FRA-1215,Phulo Hembram,Maharashtra,Palghar,Sunderpur,Individual,8.11,8.23,2026-08-19,Approved,0,19.600454280589734,72.79855709453017
+FRA-1216,Anita Gond,Maharashtra,Gadchiroli,Chandapur,Individual,6.66,6.8,2025-08-23,Pending,356,20.204389937018355,80.07999351451066
+FRA-1217,Vijay Munda,Jharkhand,Latehar,Kalyanpur,Community,12.76,12.66,2026-08-14,Approved,0,23.79698820907069,84.56315431233776
+FRA-1218,Suresh Gond,Jharkhand,Dumka,Example Village,Individual,10.63,10.68,2026-04-09,Pending,126,24.29955203314377,87.34239724056542
+FRA-1219,Radha Tudu,Jharkhand,Simdega,Example Village,Community,8.06,8.09,2026-08-11,Approved,0,22.626729355152637,84.44166571173699
+FRA-1220,Suresh Rathwa,Odisha,Koraput,Example Village,Individual,3.72,3.67,2026-08-18,Approved,0,18.72060228597537,82.77053844283235
+FRA-1221,Anita Munda,Maharashtra,Yavatmal,Sitapur,Individual,8.72,8.83,2026-08-12,Approved,0,20.497623567690155,78.17759275139387
+FRA-1222,Pooja Bhilla,Odisha,Koraput,Durgapur,Community,11.36,11.32,2025-12-12,Pending,244,18.76575681744912,82.71984621124388
+FRA-1223,Ramesh Patel,Jharkhand,Dumka,Chhota Nagpur,Individual,14.95,14.69,2026-08-21,Approved,0,24.241711731961505,87.25530754990511
+FRA-1224,Devi Hembram,Odisha,Kandhamal,Chandapur,Individual,13.25,13.11,2026-08-23,Approved,0,20.14150578426216,84.06191978083848
+FRA-1225,Gautam Maravi,Odisha,Kandhamal,Chhota Nagpur,Community,11.0,10.9,2026-08-21,Approved,0,20.306324427253806,84.08132455123153
+FRA-1226,Ramesh Gond,Madhya Pradesh,Chhindwara,Kalyanpur,Individual,8.22,8.06,2025-12-05,Pending,254,21.98623246543572,78.96333045293811
+FRA-1227,Lakshmi Bhilla,Madhya Pradesh,Chhindwara,Devgaon,Individual,1.93,1.75,2026-08-25,Approved,0,22.07686268283499,78.92999273313963
+FRA-1228,Kamla Rathwa,Maharashtra,Yavatmal,Example Village,Individual,2.02,2.26,2026-08-22,Rejected,0,20.46717013258738,78.19821778732421
+FRA-1229,Pooja Bhoi,Odisha,Koraput,Chandapur,Community,10.64,10.86,2026-08-05,Rejected,0,18.748754079976077,82.81046552346073
+FRA-1230,Suresh Gond,Chhattisgarh,Bastar,Amrapali,Individual,12.5,12.75,2026-08-19,Approved,0,19.090479387345606,82.01794952588193
+FRA-1231,Phulo Soren,Jharkhand,Latehar,Sunderpur,Community,13.45,13.58,2026-08-19,Approved,0,23.81985273711344,84.44825598022406
+FRA-1232,Birsa Naik,Chhattisgarh,Bastar,Bhadrapur,Community,6.14,13.51,2026-08-14,Approved,0,19.076793336938078,81.97099190012564
+FRA-1233,Rajesh Bhilla,Maharashtra,Gadchiroli,Devgaon,Individual,8.24,8.52,2026-08-09,Rejected,0,20.1542789577593,80.05588792126407
+FRA-1234,Devi Pradhan,Chhattisgarh,Kanker,Devgaon,Individual,13.14,13.35,2026-08-24,Approved,0,20.321369719216946,81.44556427768225
+FRA-1235,Babu Pradhan,Maharashtra,Yavatmal,Rampur,Individual,1.38,0.69,2026-08-15,Approved,0,20.33303898012454,78.15800538031438
+FRA-1236,Anita Rathwa,Jharkhand,West Singhbhum,Sitapur,Individual,2.52,2.34,2026-08-05,Approved,0,22.520305772065875,85.75361717117806
+FRA-1237,Radha Munda,Odisha,Rayagada,Amrapali,Individual,8.25,7.95,2026-08-21,Rejected,0,19.220475007970226,83.37651397130836
+FRA-1238,Sidhu Tudu,Maharashtra,Gadchiroli,Rampur,Community,4.94,4.67,2026-08-24,Approved,0,20.24999680117656,80.0014318428169
+FRA-1239,Ramesh Singh,Chhattisgarh,Kanker,Example Village,Community,13.68,13.9,2026-03-11,Pending,149,20.35054867186199,81.53778431006991
+FRA-1240,Birsa Rathwa,Jharkhand,Dumka,Amrapali,Community,10.65,10.95,2026-07-24,Pending,16,24.207369798093108,87.2548015577185
+FRA-1241,Lakshmi Pradhan,Jharkhand,Latehar,Chhota Nagpur,Individual,2.67,2.4,2026-08-11,Approved,0,23.76048857559726,84.56121684450204
+FRA-1242,Gautam Patel,Maharashtra,Chandrapur,Durgapur,Community,8.17,8.35,2026-06-01,Pending,72,20.03211752434425,79.39541553934826
+FRA-1243,Sidhu Hembram,Jharkhand,Latehar,Bhadrapur,Individual,4.58,4.82,2026-08-16,Approved,0,23.78618868920677,84.5947398504387
+FRA-1244,Vijay Hembram,Jharkhand,Dumka,Devgaon,Community,6.29,6.28,2026-08-25,Approved,0,24.2606458015498,87.28383258865719
+FRA-1245,Ramesh Uraon,Odisha,Rayagada,Kalyanpur,Individual,13.19,13.17,2026-08-16,Approved,0,19.215927614764357,83.37980062194954
+FRA-1246,Vijay Uraon,Odisha,Sundargarh,Bhadrapur,Community,3.53,5.65,2026-08-19,Rejected,0,22.14554038635667,84.09747022048842
+FRA-1247,Lakshmi Pradhan,Odisha,Mayurbhanj,Bhadrapur,Individual,1.4,0.7,2026-08-15,Approved,0,21.990445862520065,86.82571504743197
+FRA-1248,Rajesh Kumar,Odisha,Koraput,Durgapur,Community,5.4,2.16,2026-08-21,Approved,0,18.817680699692943,82.6228855444498
+FRA-1249,Birsa Rathwa,Chhattisgarh,Bastar,Durgapur,Individual,5.3,5.47,2026-08-10,Approved,0,19.038461762701033,81.89777394132919
+FRA-1250,Kamla Singh,Madhya Pradesh,Dhar,Kalyanpur,Individual,10.19,22.42,2026-05-30,Pending,72,22.564268825881797,75.32838397616344
+FRA-1251,Sunita Maravi,Madhya Pradesh,Balaghat,Devgaon,Community,8.09,8.1,2026-08-24,Approved,0,21.740095934328465,80.14345550731207
+FRA-1252,Radha Soren,Maharashtra,Nandurbar,Rampur,Individual,1.98,2.17,2025-09-04,Pending,335,21.411754189080206,74.32839652942629
+FRA-1253,Rajesh Bhoi,Maharashtra,Yavatmal,Rampur,Community,12.15,11.89,2026-06-29,Pending,49,20.362016856282086,78.226497446372
+FRA-1254,Birsa Pradhan,Jharkhand,Dumka,Durgapur,Community,1.29,1.58,2026-08-20,Rejected,0,24.202842525283973,87.34773697250239
+FRA-1255,Pooja Singh,Maharashtra,Yavatmal,Sitapur,Community,11.47,11.74,2026-04-27,Pending,109,20.31784086734322,78.1630924863056
+FRA-1256,Anita Naik,Odisha,Sundargarh,Devgaon,Individual,11.15,11.13,2026-08-18,Approved,0,22.053853320671376,84.01500758087128
+FRA-1257,Somnath Uraon,Jharkhand,Latehar,Panchvati,Individual,14.5,14.4,2026-05-06,Pending,104,23.8328460210809,84.55460322120331
+FRA-1258,Somnath Kumar,Chhattisgarh,Rajnandgaon,Durgapur,Individual,6.12,6.36,2025-09-11,Pending,337,21.14874944285447,81.02855716719174
+FRA-1259,Phulo Bhilla,Odisha,Sundargarh,Example Village,Individual,14.81,15.09,2026-05-28,Pending,72,22.157406641348476,84.07797577445761
+FRA-1260,Sidhu Soren,Jharkhand,Latehar,Kalyanpur,Individual,9.69,9.82,2026-08-13,Approved,0,23.811200641196624,84.49367287519966
+FRA-1261,Radha Pradhan,Jharkhand,Gumla,Sitapur,Individual,8.65,8.84,2026-08-18,Approved,0,23.109804997619566,84.60790894956888
+FRA-1262,Lakshmi Soren,Odisha,Rayagada,Chhota Nagpur,Community,1.11,0.9,2026-08-15,Approved,0,19.086033190966464,83.42410631330503
+FRA-1263,Anita Gond,Chhattisgarh,Bastar,Rampur,Community,11.47,11.77,2026-08-14,Approved,0,19.196033798899347,81.9430659945828
+FRA-1264,Pooja Gond,Chhattisgarh,Surguja,Sitapur,Individual,2.88,2.81,2026-08-24,Approved,0,23.128355072933605,83.24480116104294
+FRA-1265,Gautam Singh,Maharashtra,Palghar,Kalyanpur,Community,1.13,0.56,2026-08-12,Rejected,0,19.60871152809794,72.79864544458219
+FRA-1266,Manoj Maravi,Jharkhand,Gumla,Amrapali,Community,1.42,1.2,2026-04-13,Pending,120,23.080126966263347,84.60783569103548
+FRA-1267,Lakshmi Bhilla,Maharashtra,Yavatmal,Panchvati,Individual,11.12,11.05,2026-04-24,Pending,115,20.379847395041384,78.07245139455793
+FRA-1268,Somnath Naik,Chhattisgarh,Kanker,Amrapali,Community,6.69,6.65,2026-08-24,Approved,0,20.30122630826024,81.51479515748849
+FRA-1269,Lakshmi Patel,Jharkhand,Gumla,Panchvati,Community,5.92,6.11,2026-08-18,Approved,0,23.101430977871274,84.46940656409632
+FRA-1270,Anita Gond,Chhattisgarh,Bastar,Bhadrapur,Individual,4.28,4.48,2026-08-15,Approved,0,19.01742510167002,81.9040430318764
+FRA-1271,Vijay Munda,Chhattisgarh,Rajnandgaon,Rampur,Individual,8.71,8.57,2026-08-20,Rejected,0,21.082661866095577,81.00085090911023
+FRA-1272,Pooja Bhilla,Maharashtra,Chandrapur,Sitapur,Individual,13.74,13.47,2026-06-27,Pending,44,19.957396429732867,79.38251842929324
+FRA-1273,Babu Singh,Odisha,Kandhamal,Rampur,Community,11.62,11.84,2026-04-25,Pending,121,20.134869033955475,84.0091782457571
+FRA-1274,Manoj Bhilla,Madhya Pradesh,Dindori,Sitapur,Community,12.11,11.99,2026-05-23,Pending,79,22.8983990181084,81.09325848006218
+FRA-1275,Gautam Singh,Jharkhand,Simdega,Amrapali,Community,12.41,12.7,2026-08-09,Approved,0,22.643978913546384,84.58840967341544
+FRA-1276,Devi Soren,Chhattisgarh,Bastar,Bhadrapur,Individual,12.53,20.05,2026-07-26,Pending,25,19.05954917036325,81.90353662660048
+FRA-1277,Babu Tudu,Odisha,Koraput,Kalyanpur,Individual,10.63,10.69,2026-08-14,Rejected,0,18.745314286348687,82.74365685728179
+FRA-1278,Rajesh Patel,Maharashtra,Gadchiroli,Devgaon,Community,11.06,11.24,2026-08-18,Approved,0,20.223269397742456,80.0791564869747
+FRA-1279,Devi Tudu,Madhya Pradesh,Chhindwara,Example Village,Community,9.2,9.07,2026-08-10,Rejected,0,22.003495198566668,78.98770220031435
+FRA-1280,Suresh Munda,Madhya Pradesh,Mandla,Example Village,Individual,2.95,2.87,2026-08-23,Approved,0,22.54792405434737,80.31955365989248
+FRA-1281,Manoj Uraon,Madhya Pradesh,Balaghat,Sitapur,Individual,2.7,2.7,2026-08-25,Approved,0,21.76609753846156,80.25050353933123
+FRA-1282,Devi Gond,Chhattisgarh,Bastar,Chandapur,Individual,3.55,3.72,2026-07-14,Pending,32,19.026401966358144,81.90685326857337
+FRA-1283,Somnath Munda,Jharkhand,Dumka,Durgapur,Community,11.63,11.89,2026-05-29,Pending,80,24.178835426417553,87.23586882213489
+FRA-1284,Birsa Gond,Maharashtra,Nandurbar,Durgapur,Individual,11.76,11.87,2026-08-11,Approved,0,21.384450835582694,74.20360341022734
+FRA-1285,Radha Munda,Jharkhand,Gumla,Rampur,Community,1.63,1.89,2026-08-20,Approved,0,22.942114232369637,84.62698877031906
+FRA-1286,Ramesh Bhoi,Odisha,Koraput,Rampur,Individual,14.15,7.08,2026-08-17,Approved,0,18.75834378171619,82.80241203976115
+FRA-1287,Kanhu Singh,Odisha,Rayagada,Chandapur,Community,12.63,20.21,2025-10-27,Pending,299,19.132188470468297,83.41197209893264
+FRA-1288,Gautam Pradhan,Jharkhand,Latehar,Rampur,Individual,13.06,13.23,2026-08-22,Rejected,0,23.772688290577715,84.45225682770092
+FRA-1289,Devi Naik,Madhya Pradesh,Balaghat,Chhota Nagpur,Individual,14.96,7.48,2026-08-08,Approved,0,21.744155001864605,80.16761947986356
+FRA-1290,Manoj Hembram,Maharashtra,Palghar,Kalyanpur,Community,3.44,3.2,2026-08-24,Approved,0,19.79269931917033,72.78591008246366
+FRA-1291,Vijay Munda,Chhattisgarh,Rajnandgaon,Durgapur,Community,1.58,0.79,2026-08-14,Approved,0,21.07395752379217,81.06195131612576
+FRA-1292,Anita Patel,Maharashtra,Palghar,Chandapur,Community,9.58,9.63,2025-12-23,Pending,237,19.649069376195257,72.72995014795812
+FRA-1293,Gautam Soren,Maharashtra,Yavatmal,Chhota Nagpur,Individual,5.94,5.77,2026-08-05,Approved,0,20.470731489410447,78.19453942639934
+FRA-1294,Radha Tudu,Odisha,Sundargarh,Chhota Nagpur,Individual,11.3,11.18,2026-08-09,Approved,0,22.082317639646668,84.07418914166266
+FRA-1295,Anita Rathwa,Jharkhand,Dumka,Example Village,Individual,5.58,2.23,2026-08-25,Approved,0,24.232380751467602,87.18233355644112
+FRA-1296,Sidhu Maravi,Maharashtra,Palghar,Rampur,Community,9.97,10.22,2026-08-21,Rejected,0,19.632409512771403,72.84552828602867
+FRA-1297,Kanhu Maravi,Madhya Pradesh,Dindori,Panchvati,Individual,11.63,11.58,2026-08-05,Approved,0,22.88868349396041,81.16539914281216
+FRA-1298,Birsa Gond,Chhattisgarh,Kanker,Bhadrapur,Community,4.41,4.12,2026-08-05,Approved,0,20.322619854872904,81.58089515834288
+FRA-1299,Jano Kumar,Odisha,Koraput,Sunderpur,Community,13.44,13.53,2026-08-19,Approved,0,18.729937471834766,82.64243412271136
+FRA-1300,Sidhu Bhilla,Madhya Pradesh,Mandla,Durgapur,Community,6.43,10.29,2026-08-21,Approved,0,22.61052734956016,80.34610080925661
+FRA-1301,Ramesh Uraon,Jharkhand,Gumla,Kalyanpur,Community,11.17,10.97,2026-08-09,Approved,0,23.028072931984703,84.57297007129685
+FRA-1302,Kamla Pradhan,Odisha,Koraput,Devgaon,Individual,9.17,9.0,2026-08-19,Approved,0,18.738202735341464,82.62799783001431
+FRA-1303,Phulo Singh,Odisha,Rayagada,Chandapur,Community,10.0,9.82,2026-08-17,Approved,0,19.243387089733382,83.44151831870396
+FRA-1304,Anita Pradhan,Maharashtra,Palghar,Kalyanpur,Individual,2.67,2.56,2026-08-05,Rejected,0,19.663315414895365,72.67138544783445
+FRA-1305,Kanhu Pradhan,Chhattisgarh,Rajnandgaon,Example Village,Individual,13.89,13.72,2026-08-19,Approved,0,21.090447407006085,80.95418884887755
+FRA-1306,Anita Tudu,Chhattisgarh,Dhamtari,Example Village,Community,12.72,12.51,2026-08-16,Approved,0,20.784205636068577,81.4684646175804
+FRA-1307,Ramesh Soren,Jharkhand,Dumka,Amrapali,Individual,2.56,2.75,2026-08-25,Approved,0,24.19205621686399,87.27767729805221
+FRA-1308,Manoj Munda,Jharkhand,Simdega,Devgaon,Community,13.11,13.25,2026-08-22,Approved,0,22.548728709616444,84.45442239270471
+FRA-1309,Phulo Bhoi,Madhya Pradesh,Mandla,Amrapali,Community,5.98,6.22,2026-04-18,Pending,124,22.58217554488494,80.30425122363549
+FRA-1310,Ramesh Hembram,Jharkhand,West Singhbhum,Chhota Nagpur,Individual,12.72,12.88,2026-08-05,Approved,0,22.57286952396578,85.8012651631799
+FRA-1311,Radha Maravi,Odisha,Koraput,Durgapur,Community,9.45,4.72,2026-08-13,Rejected,0,18.78101928213616,82.73479581804153
+FRA-1312,Radha Bhoi,Chhattisgarh,Rajnandgaon,Rampur,Individual,1.44,3.17,2026-08-17,Rejected,0,21.07605496334801,81.09275887670337
+FRA-1313,Sunita Kumar,Chhattisgarh,Bastar,Chhota Nagpur,Community,10.66,10.64,2026-08-06,Approved,0,19.140263148342687,81.95303882610321
+FRA-1314,Sidhu Bhilla,Jharkhand,West Singhbhum,Sunderpur,Community,1.4,1.13,2026-04-17,Pending,110,22.502351379411177,85.89866033725076
+FRA-1315,Rajesh Munda,Jharkhand,Dumka,Amrapali,Community,10.19,4.08,2026-08-05,Approved,0,24.235148552935797,87.34991598438155
+FRA-1316,Jano Soren,Jharkhand,Latehar,Chhota Nagpur,Individual,8.7,8.8,2026-08-25,Approved,0,23.65875542427599,84.43097088753981
+FRA-1317,Sunita Gond,Odisha,Kandhamal,Chhota Nagpur,Individual,14.46,14.21,2026-01-18,Pending,200,20.3030725788839,84.02012387598126
+FRA-1318,Kamla Hembram,Odisha,Kandhamal,Panchvati,Individual,10.71,10.47,2026-08-15,Approved,0,20.13330385410379,84.11298398164736
+FRA-1319,Sidhu Singh,Jharkhand,Simdega,Chandapur,Community,13.07,13.05,2026-08-12,Approved,0,22.613810690070906,84.51859724374958
+FRA-1320,Ramesh Gond,Chhattisgarh,Dhamtari,Sunderpur,Community,3.03,2.8,2026-05-17,Pending,90,20.728138608010756,81.5339062888205
+FRA-1321,Lakshmi Munda,Jharkhand,Dumka,Sitapur,Individual,4.68,4.88,2026-08-21,Approved,0,24.17355138219756,87.17074951605247
+FRA-1322,Sunita Bhilla,Jharkhand,Latehar,Chhota Nagpur,Community,2.08,2.26,2026-08-07,Rejected,0,23.76928603642285,84.5520758985047
+FRA-1323,Radha Bhilla,Chhattisgarh,Rajnandgaon,Amrapali,Individual,8.37,8.12,2026-08-11,Approved,0,21.003182066801305,81.00142619496884
+FRA-1324,Sunita Munda,Odisha,Rayagada,Chhota Nagpur,Individual,7.61,7.71,2026-08-11,Approved,0,19.224224276632857,83.43364874756915
+FRA-1325,Manoj Patel,Madhya Pradesh,Balaghat,Chandapur,Community,1.58,1.79,2026-04-27,Pending,111,21.902705573548918,80.1347889968258
+FRA-1326,Suresh Hembram,Jharkhand,Dumka,Chandapur,Individual,12.34,12.61,2026-08-08,Approved,0,24.189799241683847,87.1686553747921
+FRA-1327,Lakshmi Hembram,Maharashtra,Nandurbar,Amrapali,Community,10.27,10.0,2026-08-24,Approved,0,21.274924993062243,74.2261611335751
+FRA-1328,Anita Patel,Madhya Pradesh,Mandla,Durgapur,Community,13.32,5.33,2026-08-18,Approved,0,22.680210319264546,80.32507984744286
+FRA-1329,Ramesh Kumar,Maharashtra,Chandrapur,Bhadrapur,Individual,1.22,1.35,2026-04-01,Pending,143,19.89189315910999,79.38828748876492
+FRA-1330,Ramesh Bhilla,Jharkhand,West Singhbhum,Chhota Nagpur,Individual,11.03,11.22,2026-08-05,Approved,0,22.57154590905529,85.84018097755454
+FRA-1331,Jano Gond,Jharkhand,Simdega,Sunderpur,Community,12.22,12.42,2026-05-09,Pending,106,22.651389008480812,84.5524914340393
+FRA-1332,Suresh Tudu,Odisha,Rayagada,Sitapur,Community,10.09,10.08,2026-07-19,Pending,36,19.2595036721698,83.46693877121673
+FRA-1333,Phulo Naik,Madhya Pradesh,Balaghat,Chandapur,Individual,8.13,3.25,2026-04-03,Pending,131,21.76832964311401,80.2680298100157
+FRA-1334,Gautam Uraon,Jharkhand,Latehar,Rampur,Community,10.95,17.52,2025-09-11,Pending,336,23.775592710126986,84.41405372522982
+FRA-1335,Phulo Singh,Madhya Pradesh,Dhar,Chandapur,Community,5.56,2.78,2026-08-14,Approved,0,22.5876826905841,75.24769935104051
+FRA-1336,Gautam Bhoi,Maharashtra,Nandurbar,Chandapur,Individual,13.92,13.77,2026-08-12,Approved,0,21.406797811809565,74.21453234376321
+FRA-1337,Lakshmi Patel,Chhattisgarh,Kanker,Chhota Nagpur,Community,1.92,1.86,2026-07-06,Pending,32,20.255881449211135,81.57279607117565
+FRA-1338,Devi Bhilla,Chhattisgarh,Bastar,Panchvati,Individual,10.9,10.65,2026-08-24,Approved,0,19.074765086008167,81.87918017806912
+FRA-1339,Vijay Maravi,Maharashtra,Yavatmal,Rampur,Individual,7.6,7.46,2026-08-06,Approved,0,20.350176379117638,78.1856585615901
+FRA-1340,Kanhu Patel,Chhattisgarh,Dhamtari,Rampur,Community,4.17,4.29,2026-06-06,Pending,73,20.763396666549514,81.45542505193532
+FRA-1341,Birsa Hembram,Jharkhand,Gumla,Devgaon,Individual,10.43,10.41,2026-08-25,Approved,0,23.019551495420437,84.4673206905793
+FRA-1342,Sidhu Bhilla,Maharashtra,Yavatmal,Panchvati,Individual,4.5,1.8,2026-08-08,Approved,0,20.32224641616461,78.10642506609732
+FRA-1343,Gautam Maravi,Madhya Pradesh,Dhar,Rampur,Individual,11.0,11.0,2026-06-10,Pending,74,22.548232323608534,75.3058654990687
+FRA-1344,Manoj Bhilla,Chhattisgarh,Dhamtari,Bhadrapur,Community,10.7,10.99,2026-08-23,Approved,0,20.693619790817547,81.46951081582598
+FRA-1345,Pooja Tudu,Madhya Pradesh,Chhindwara,Sitapur,Individual,13.76,13.68,2026-08-13,Approved,0,21.9967573768459,78.97595438300763
+FRA-1346,Kanhu Soren,Chhattisgarh,Surguja,Example Village,Community,2.73,2.84,2026-08-10,Approved,0,23.128464334580077,83.16458040035353
+FRA-1347,Kanhu Pradhan,Madhya Pradesh,Dindori,Kalyanpur,Community,5.8,6.09,2026-08-05,Approved,0,22.905411351502877,81.16373449337954
+FRA-1348,Pooja Tudu,Chhattisgarh,Rajnandgaon,Durgapur,Individual,12.85,13.12,2026-08-25,Rejected,0,21.160079716999583,81.04999304901742
+FRA-1349,Devi Tudu,Madhya Pradesh,Balaghat,Amrapali,Community,4.35,4.4,2026-08-25,Approved,0,21.763819429940146,80.08546561171933
+FRA-1350,Sidhu Maravi,Chhattisgarh,Dhamtari,Example Village,Individual,12.78,12.74,2026-08-12,Approved,0,20.610894331055917,81.55117195553916
+FRA-1351,Kanhu Patel,Maharashtra,Palghar,Sunderpur,Individual,8.21,8.24,2026-08-06,Approved,0,19.62948862485706,72.66959664368224
+FRA-1352,Anita Uraon,Jharkhand,Latehar,Devgaon,Individual,14.27,14.08,2026-08-24,Approved,0,23.842540625619062,84.45241560865983
+FRA-1353,Manoj Hembram,Chhattisgarh,Surguja,Bhadrapur,Community,5.33,5.08,2026-08-09,Approved,0,23.15360062963866,83.28302815616344
+FRA-1354,Vijay Bhilla,Maharashtra,Yavatmal,Rampur,Individual,3.13,3.02,2026-08-10,Approved,0,20.349336040554835,78.21460188297686
+FRA-1355,Ramesh Singh,Maharashtra,Gadchiroli,Kalyanpur,Individual,9.49,9.26,2026-08-19,Approved,0,20.23715217242192,80.06912271714103
+FRA-1356,Vijay Uraon,Jharkhand,Latehar,Sitapur,Community,2.49,2.58,2026-08-17,Approved,0,23.814406473740952,84.51511527100703
+FRA-1357,Lakshmi Gond,Madhya Pradesh,Balaghat,Kalyanpur,Individual,8.03,7.78,2026-08-15,Approved,0,21.75712602382988,80.16719500179731
+FRA-1358,Jano Kumar,Madhya Pradesh,Dhar,Bhadrapur,Individual,9.39,9.33,2026-08-16,Approved,0,22.52741666340518,75.31227805991847
+FRA-1359,Kanhu Tudu,Jharkhand,Simdega,Sitapur,Community,9.56,9.81,2026-08-23,Approved,0,22.64393207131074,84.47247764198043
+FRA-1360,Anita Pradhan,Jharkhand,Latehar,Example Village,Individual,6.75,6.48,2025-11-29,Pending,265,23.8243370129753,84.52632067905797
+FRA-1361,Rajesh Uraon,Chhattisgarh,Kanker,Sitapur,Individual,5.95,5.99,2026-08-08,Approved,0,20.317501216498545,81.5762220746984
+FRA-1362,Kamla Maravi,Chhattisgarh,Surguja,Chandapur,Individual,7.58,7.62,2026-08-06,Approved,0,23.196257930403807,83.16685290871224
+FRA-1363,Rajesh Patel,Maharashtra,Yavatmal,Amrapali,Individual,14.43,14.67,2026-08-09,Approved,0,20.357364747293726,78.22533326927523
+FRA-1364,Phulo Bhoi,Maharashtra,Palghar,Chandapur,Community,8.46,8.52,2026-08-14,Approved,0,19.690757059248934,72.80190588175437
+FRA-1365,Manoj Pradhan,Maharashtra,Yavatmal,Bhadrapur,Community,4.66,4.83,2026-04-16,Pending,130,20.348756445189277,78.09786017860884
+FRA-1366,Jano Naik,Madhya Pradesh,Chhindwara,Sitapur,Individual,10.87,10.95,2026-08-10,Approved,0,22.011339644256253,78.91139701277817
+FRA-1367,Somnath Patel,Jharkhand,Latehar,Sunderpur,Community,12.45,12.19,2026-08-07,Approved,0,23.710247135786528,84.57621897195395
+FRA-1368,Sidhu Singh,Odisha,Mayurbhanj,Kalyanpur,Community,7.62,7.58,2026-08-15,Approved,0,21.922703533554916,86.70813836601899
+FRA-1369,Phulo Gond,Madhya Pradesh,Dhar,Sunderpur,Community,9.75,21.45,2026-08-08,Approved,0,22.607184519894506,75.29684270852975
+FRA-1370,Babu Hembram,Jharkhand,Latehar,Chhota Nagpur,Individual,4.28,4.31,2026-04-17,Pending,111,23.747875384623306,84.41491104927732
+FRA-1371,Ramesh Rathwa,Chhattisgarh,Rajnandgaon,Devgaon,Community,10.79,5.39,2026-08-11,Approved,0,21.036219930966467,81.002566923407
+FRA-1372,Vijay Gond,Chhattisgarh,Dhamtari,Example Village,Community,4.38,4.61,2026-04-12,Pending,131,20.7880099053197,81.60627505459811
+FRA-1373,Vijay Uraon,Jharkhand,Latehar,Sunderpur,Individual,13.72,5.49,2026-08-06,Approved,0,23.69964878643341,84.5245143746567
+FRA-1374,Birsa Kumar,Chhattisgarh,Rajnandgaon,Rampur,Individual,8.61,4.3,2026-08-21,Approved,0,21.16223891819375,81.0289750832993
+FRA-1375,Pooja Kumar,Odisha,Koraput,Panchvati,Individual,1.88,1.81,2026-07-22,Pending,27,18.907668020841918,82.65049244600718
+FRA-1376,Vijay Hembram,Madhya Pradesh,Chhindwara,Panchvati,Individual,1.71,1.46,2026-08-11,Approved,0,22.031378069874375,78.94485950417997
+FRA-1377,Birsa Tudu,Chhattisgarh,Bastar,Amrapali,Community,3.32,3.41,2026-06-03,Pending,82,19.191764787277158,81.90933342325101
+FRA-1378,Babu Pradhan,Chhattisgarh,Rajnandgaon,Sunderpur,Individual,11.38,11.24,2026-08-21,Approved,0,21.198852551888343,81.0768884617482
+FRA-1379,Manoj Patel,Maharashtra,Yavatmal,Durgapur,Individual,13.27,13.13,2026-08-08,Approved,0,20.4881737081733,78.20053462356027
+FRA-1380,Devi Hembram,Chhattisgarh,Rajnandgaon,Chhota Nagpur,Community,11.51,11.65,2026-08-10,Approved,0,21.081578884522003,80.99832298196523
+FRA-1381,Radha Hembram,Odisha,Mayurbhanj,Sitapur,Community,13.3,13.33,2026-07-16,Pending,35,21.840994744512553,86.6900348382376
+FRA-1382,Ramesh Hembram,Chhattisgarh,Bastar,Panchvati,Community,13.44,13.6,2026-08-14,Approved,0,19.110012343595915,81.9003484587672
+FRA-1383,Rajesh Tudu,Maharashtra,Chandrapur,Panchvati,Individual,14.34,14.16,2026-07-02,Pending,35,19.993894144762827,79.2671971596468
+FRA-1384,Lakshmi Pradhan,Chhattisgarh,Surguja,Rampur,Individual,12.0,12.04,2026-08-13,Approved,0,23.042738577158175,83.22978368054507
+FRA-1385,Birsa Naik,Maharashtra,Palghar,Amrapali,Community,3.31,3.27,2026-08-16,Approved,0,19.62256709422198,72.81691836514656
+FRA-1386,Babu Kumar,Maharashtra,Palghar,Panchvati,Community,1.31,1.25,2026-05-01,Pending,102,19.73627023609609,72.71965767507648
+FRA-1387,Suresh Hembram,Jharkhand,West Singhbhum,Rampur,Individual,9.34,3.74,2026-08-25,Approved,0,22.537962440517404,85.81902144761402
+FRA-1388,Vijay Munda,Jharkhand,Gumla,Chhota Nagpur,Individual,9.19,3.68,2026-08-18,Approved,0,22.98073794252849,84.63869828966749
+FRA-1389,Vijay Bhoi,Madhya Pradesh,Chhindwara,Devgaon,Community,14.95,14.67,2026-08-15,Approved,0,22.118036369606664,78.86869245861115
+FRA-1390,Rajesh Kumar,Madhya Pradesh,Balaghat,Chhota Nagpur,Individual,5.83,2.92,2026-04-15,Pending,120,21.828263737020567,80.146120421599
+FRA-1391,Somnath Tudu,Maharashtra,Nandurbar,Chandapur,Community,4.86,4.89,2026-08-17,Approved,0,21.43229018212903,74.29377770684718
+FRA-1392,Anita Bhoi,Madhya Pradesh,Chhindwara,Chhota Nagpur,Community,6.17,2.47,2026-08-11,Approved,0,22.10842553883371,78.89655232918646
+FRA-1393,Phulo Singh,Chhattisgarh,Surguja,Chhota Nagpur,Individual,11.76,18.82,2026-08-23,Approved,0,23.1359923181818,83.19342400163268
+FRA-1394,Birsa Rathwa,Chhattisgarh,Bastar,Panchvati,Individual,6.22,6.36,2026-08-22,Approved,0,19.13683078528685,82.04494448232332
+FRA-1395,Sidhu Maravi,Odisha,Koraput,Kalyanpur,Individual,6.67,6.7,2026-08-15,Approved,0,18.878183175172005,82.80765921204198
+FRA-1396,Manoj Bhoi,Odisha,Rayagada,Sitapur,Individual,9.37,9.28,2026-08-09,Approved,0,19.084367842840106,83.42055924668756
+FRA-1397,Vijay Hembram,Maharashtra,Palghar,Example Village,Community,6.6,6.81,2026-08-09,Approved,0,19.794378185278266,72.6869427401258
+FRA-1398,Lakshmi Kumar,Jharkhand,Latehar,Chhota Nagpur,Individual,13.63,13.85,2026-08-11,Approved,0,23.660334594431635,84.52408443580772
+FRA-1399,Jano Soren,Jharkhand,Latehar,Sitapur,Community,3.42,3.63,2026-08-24,Approved,0,23.65485330569055,84.46773131713609
+FRA-1400,Devi Rathwa,Maharashtra,Palghar,Sunderpur,Community,6.76,14.87,2025-10-25,Pending,300,19.62818379930161,72.73697241940313
+FRA-1401,Ramesh Munda,Odisha,Sundargarh,Amrapali,Community,3.41,3.47,2026-05-30,Pending,81,22.070307061868764,83.97412616923222
+FRA-1402,Sunita Maravi,Maharashtra,Yavatmal,Sunderpur,Community,14.79,14.69,2026-08-22,Approved,0,20.38263622554316,78.04368059132766
+FRA-1403,Kamla Bhilla,Madhya Pradesh,Mandla,Amrapali,Individual,13.11,12.81,2026-08-08,Approved,0,22.641674927861978,80.37702521866018
+FRA-1404,Devi Rathwa,Maharashtra,Yavatmal,Amrapali,Individual,11.67,11.73,2026-08-18,Approved,0,20.36500208692458,78.21595580922056
+FRA-1405,Phulo Tudu,Maharashtra,Chandrapur,Example Village,Individual,7.98,7.81,2026-08-05,Rejected,0,19.94002130618836,79.37807499531864
+FRA-1406,Gautam Bhoi,Madhya Pradesh,Dhar,Sunderpur,Individual,3.53,5.65,2026-08-07,Rejected,0,22.633735035276917,75.26391503942173
+FRA-1407,Phulo Hembram,Chhattisgarh,Bastar,Chhota Nagpur,Community,3.05,3.08,2026-04-14,Pending,113,19.165905236491568,81.92208160236396
+FRA-1408,Manoj Rathwa,Odisha,Mayurbhanj,Bhadrapur,Community,2.94,3.18,2026-08-08,Approved,0,21.880201176310127,86.6824618831919
+FRA-1409,Anita Kumar,Odisha,Mayurbhanj,Devgaon,Individual,9.26,9.19,2026-08-09,Rejected,0,21.972633279383043,86.7888070811843
+FRA-1410,Birsa Bhilla,Jharkhand,West Singhbhum,Kalyanpur,Individual,9.0,8.83,2026-08-07,Approved,0,22.51020672634594,85.74843171153493
+FRA-1411,Kamla Singh,Jharkhand,Gumla,Amrapali,Individual,9.67,9.67,2026-08-14,Approved,0,23.094887083094562,84.52627530913772
+FRA-1412,Gautam Pradhan,Chhattisgarh,Surguja,Amrapali,Community,6.5,6.39,2026-08-16,Approved,0,23.11365441091186,83.19501254082749
+FRA-1413,Rajesh Munda,Chhattisgarh,Surguja,Panchvati,Community,10.58,10.74,2026-08-21,Approved,0,23.110074780032935,83.24465028218894
+FRA-1414,Suresh Soren,Maharashtra,Chandrapur,Amrapali,Community,9.44,9.49,2026-08-23,Approved,0,19.991984840384404,79.28074951326407
+FRA-1415,Babu Maravi,Jharkhand,Simdega,Example Village,Community,3.79,3.9,2026-05-18,Pending,99,22.544924454757627,84.4187679445855
+FRA-1416,Radha Naik,Jharkhand,Simdega,Sitapur,Individual,12.05,11.8,2026-07-30,Pending,22,22.713731719886574,84.51589366715125
+FRA-1417,Pooja Soren,Maharashtra,Gadchiroli,Durgapur,Community,11.66,11.52,2026-08-21,Approved,0,20.137951279312666,79.96593421627072
+FRA-1418,Kamla Tudu,Chhattisgarh,Dhamtari,Bhadrapur,Community,6.45,6.21,2026-08-12,Approved,0,20.614619990521607,81.64057306907493
+FRA-1419,Pooja Bhilla,Jharkhand,Gumla,Bhadrapur,Community,13.97,13.7,2026-08-11,Approved,0,23.0295273820717,84.58374484857546
+FRA-1420,Lakshmi Naik,Madhya Pradesh,Dhar,Sunderpur,Individual,4.2,4.29,2026-08-08,Approved,0,22.55986970020431,75.33771940020215
+FRA-1421,Rajesh Kumar,Odisha,Rayagada,Chhota Nagpur,Community,7.98,3.19,2026-08-13,Approved,0,19.178410118107397,83.49612717787265
+FRA-1422,Devi Singh,Madhya Pradesh,Mandla,Sitapur,Individual,5.64,5.84,2026-08-18,Approved,0,22.610292019587447,80.27699209893707
+FRA-1423,Kanhu Patel,Maharashtra,Gadchiroli,Rampur,Individual,8.93,14.29,2026-08-16,Approved,0,20.27406421172055,80.09787085845728
+FRA-1424,Vijay Hembram,Chhattisgarh,Bastar,Example Village,Community,7.55,7.68,2026-02-12,Pending,185,19.0590439546734,81.92289906964689
+FRA-1425,Sunita Gond,Madhya Pradesh,Dindori,Kalyanpur,Community,8.78,8.95,2026-08-13,Approved,0,23.035325599433634,81.0444437437763
+FRA-1426,Rajesh Singh,Jharkhand,Latehar,Rampur,Community,13.87,13.63,2026-08-16,Rejected,0,23.707371137265046,84.55166279953025
+FRA-1427,Rajesh Gond,Maharashtra,Yavatmal,Devgaon,Community,6.58,3.29,2026-08-19,Approved,0,20.35688573202251,78.09993080719396
+FRA-1428,Pooja Gond,Jharkhand,Gumla,Amrapali,Individual,3.96,3.75,2026-08-25,Approved,0,23.051465628979493,84.62760903863054
+FRA-1429,Kamla Munda,Madhya Pradesh,Mandla,Panchvati,Community,2.43,2.43,2026-08-11,Approved,0,22.520308258835733,80.36283255542364
+FRA-1430,Suresh Bhoi,Maharashtra,Nandurbar,Chandapur,Individual,6.33,6.42,2026-08-12,Approved,0,21.282522161288416,74.2108743535579
+FRA-1431,Lakshmi Munda,Maharashtra,Palghar,Amrapali,Community,5.02,4.95,2026-08-05,Approved,0,19.65362377042531,72.84350246892828
+FRA-1432,Devi Bhoi,Chhattisgarh,Dhamtari,Kalyanpur,Individual,11.5,11.61,2026-08-13,Approved,0,20.637339428356547,81.58049603060272
+FRA-1433,Sidhu Soren,Maharashtra,Yavatmal,Chhota Nagpur,Individual,9.03,9.25,2026-05-12,Pending,95,20.498686724052703,78.12738308324514
+FRA-1434,Birsa Uraon,Chhattisgarh,Dhamtari,Chhota Nagpur,Individual,11.13,11.13,2026-08-21,Approved,0,20.690415395734725,81.49705511437905
+FRA-1435,Suresh Naik,Chhattisgarh,Rajnandgaon,Panchvati,Community,1.01,0.4,2026-08-23,Approved,0,21.16726066449621,81.04691001218052
+FRA-1436,Devi Pradhan,Jharkhand,Latehar,Sitapur,Individual,10.6,10.55,2026-08-20,Approved,0,23.83445764526256,84.41967936673615
+FRA-1437,Manoj Munda,Chhattisgarh,Dhamtari,Example Village,Individual,3.19,3.17,2026-08-16,Approved,0,20.746025808604436,81.5706402871671
+FRA-1438,Ramesh Tudu,Maharashtra,Yavatmal,Amrapali,Community,5.6,5.35,2026-08-05,Approved,0,20.350659468011877,78.16995058062878
+FRA-1439,Anita Kumar,Chhattisgarh,Kanker,Devgaon,Community,13.4,13.33,2026-03-15,Pending,147,20.223622464783983,81.44503514738308
+FRA-1440,Manoj Bhoi,Maharashtra,Yavatmal,Example Village,Community,14.84,14.99,2026-08-10,Approved,0,20.357636787196245,78.1967392657945
+FRA-1441,Kamla Uraon,Odisha,Mayurbhanj,Devgaon,Individual,4.33,4.56,2026-04-08,Pending,136,21.958033775717066,86.65426318886179
+FRA-1442,Sunita Patel,Madhya Pradesh,Dindori,Amrapali,Individual,13.45,13.59,2026-08-08,Approved,0,22.932675937599054,81.12501583187093
+FRA-1443,Jano Pradhan,Chhattisgarh,Rajnandgaon,Chandapur,Individual,6.01,5.9,2026-08-08,Approved,0,21.176227686010595,81.1294284195655
+FRA-1444,Rajesh Soren,Chhattisgarh,Rajnandgaon,Durgapur,Individual,7.66,7.48,2026-08-14,Approved,0,21.07863543767436,81.10713340869212
+FRA-1445,Gautam Pradhan,Odisha,Sundargarh,Durgapur,Individual,12.34,19.74,2026-08-12,Approved,0,22.024839025512815,84.12320824245545
+FRA-1446,Radha Pradhan,Chhattisgarh,Kanker,Sunderpur,Community,11.11,24.44,2026-08-07,Rejected,0,20.20770061527708,81.4746777165212
+FRA-1447,Birsa Patel,Maharashtra,Gadchiroli,Rampur,Community,9.31,9.17,2026-08-13,Approved,0,20.109557141043194,80.03117946578438
+FRA-1448,Ramesh Kumar,Jharkhand,West Singhbhum,Chhota Nagpur,Individual,7.03,6.91,2026-05-30,Pending,75,22.532354409655515,85.80280621532097
+FRA-1449,Kamla Maravi,Jharkhand,Gumla,Durgapur,Individual,9.9,9.64,2026-08-22,Approved,0,22.97570698669478,84.56663865118257
+FRA-1450,Babu Pradhan,Jharkhand,Dumka,Chhota Nagpur,Community,2.69,2.55,2026-08-23,Rejected,0,24.21836134026939,87.21317207168482
+FRA-1451,Vijay Bhoi,Jharkhand,Gumla,Amrapali,Community,1.48,0.59,2026-08-05,Rejected,0,23.06452235474752,84.57768265088366
+FRA-1452,Radha Uraon,Odisha,Sundargarh,Durgapur,Community,11.31,11.28,2026-06-13,Pending,72,22.103662036202767,83.95677122498383
+FRA-1453,Kanhu Pradhan,Chhattisgarh,Kanker,Example Village,Community,3.08,3.37,2026-08-08,Approved,0,20.314234247539932,81.56700634710843
+FRA-1454,Jano Uraon,Jharkhand,West Singhbhum,Panchvati,Individual,9.94,9.88,2026-08-15,Approved,0,22.474067761631947,85.72716911588867
+FRA-1455,Ramesh Rathwa,Chhattisgarh,Dhamtari,Chandapur,Individual,6.27,5.99,2026-08-17,Approved,0,20.719426371320875,81.45822649351258
+FRA-1456,Kamla Uraon,Odisha,Rayagada,Example Village,Individual,8.61,8.36,2026-08-22,Approved,0,19.1907472620241,83.37511767775865
+FRA-1457,Babu Maravi,Odisha,Mayurbhanj,Rampur,Individual,4.29,4.22,2026-08-14,Approved,0,21.897172440609424,86.80977735091555
+FRA-1458,Lakshmi Maravi,Maharashtra,Nandurbar,Panchvati,Community,6.77,6.61,2026-08-06,Approved,0,21.297209236475116,74.30401278338351
+FRA-1459,Sunita Bhoi,Madhya Pradesh,Balaghat,Example Village,Community,12.32,12.19,2026-08-22,Approved,0,21.90191285160365,80.12557014370651
+FRA-1460,Devi Maravi,Madhya Pradesh,Chhindwara,Devgaon,Community,14.15,14.09,2026-05-16,Pending,94,22.094262737006023,78.97451970272448
+FRA-1461,Sidhu Munda,Chhattisgarh,Rajnandgaon,Sunderpur,Community,3.92,3.97,2026-08-08,Approved,0,21.00228574321486,81.07973303106951
+FRA-1462,Radha Bhilla,Madhya Pradesh,Balaghat,Panchvati,Individual,13.97,14.08,2026-07-08,Pending,38,21.86211561651158,80.23422187259794
+FRA-1463,Babu Pradhan,Chhattisgarh,Surguja,Sitapur,Community,7.71,7.94,2026-08-14,Approved,0,23.045196869110505,83.2822829315469
+FRA-1464,Somnath Maravi,Chhattisgarh,Kanker,Durgapur,Individual,5.95,5.66,2026-08-06,Approved,0,20.298918465250914,81.57180515303533
+FRA-1465,Gautam Rathwa,Chhattisgarh,Surguja,Panchvati,Community,11.32,11.26,2026-08-15,Approved,0,23.155044031263667,83.10927909989421
+FRA-1466,Lakshmi Bhoi,Jharkhand,Dumka,Durgapur,Individual,6.37,6.19,2026-08-11,Approved,0,24.180301553458342,87.28474358840674
+FRA-1467,Babu Patel,Odisha,Koraput,Example Village,Community,6.8,6.88,2026-05-01,Pending,116,18.914142700578502,82.78206660216406
+FRA-1468,Kanhu Bhoi,Madhya Pradesh,Balaghat,Sitapur,Individual,3.55,1.42,2026-08-17,Approved,0,21.818726172515902,80.20232858160266
+FRA-1469,Lakshmi Rathwa,Madhya Pradesh,Dindori,Rampur,Community,2.53,2.48,2026-08-12,Approved,0,22.893642624116058,80.98673156821401
+FRA-1470,Suresh Naik,Jharkhand,Gumla,Sunderpur,Community,6.29,6.34,2026-08-14,Rejected,0,22.96211602551913,84.44040981821651
+FRA-1471,Manoj Kumar,Maharashtra,Chandrapur,Durgapur,Community,12.75,12.55,2026-08-18,Rejected,0,20.025684324438995,79.23396251391966
+FRA-1472,Ramesh Bhoi,Chhattisgarh,Kanker,Rampur,Community,8.26,13.22,2026-08-17,Approved,0,20.254482692120693,81.39102533872023
+FRA-1473,Phulo Singh,Maharashtra,Nandurbar,Chandapur,Individual,14.73,14.64,2026-08-24,Approved,0,21.277656524087273,74.28963836759549
+FRA-1474,Phulo Tudu,Odisha,Kandhamal,Panchvati,Individual,2.78,2.58,2026-08-23,Rejected,0,20.285394782672498,84.10059536777764
+FRA-1475,Manoj Tudu,Maharashtra,Yavatmal,Amrapali,Individual,11.88,4.75,2026-08-15,Approved,0,20.313673572686877,78.08597562604102
+FRA-1476,Rajesh Gond,Maharashtra,Nandurbar,Bhadrapur,Community,14.93,15.03,2026-08-16,Rejected,0,21.37971113112616,74.26000824340265
+FRA-1477,Babu Patel,Chhattisgarh,Surguja,Kalyanpur,Community,9.64,9.66,2026-08-01,Pending,21,23.084687825470677,83.18642308837096
+FRA-1478,Manoj Munda,Odisha,Mayurbhanj,Example Village,Community,9.2,8.91,2026-08-05,Approved,0,22.031661939622474,86.78276459180492
+FRA-1479,Manoj Patel,Maharashtra,Nandurbar,Rampur,Community,14.57,14.28,2026-08-12,Approved,0,21.443076168843977,74.19809625184386
+FRA-1480,Phulo Maravi,Odisha,Rayagada,Rampur,Community,9.98,10.17,2026-08-05,Approved,0,19.179609388178864,83.40699554424073
+FRA-1481,Pooja Bhoi,Jharkhand,Latehar,Kalyanpur,Individual,7.36,7.29,2026-08-12,Approved,0,23.791551732765722,84.44326747584137
+FRA-1482,Sunita Hembram,Madhya Pradesh,Balaghat,Sitapur,Community,3.0,3.18,2026-08-07,Approved,0,21.756130963480118,80.19138429276832
+FRA-1483,Kanhu Maravi,Madhya Pradesh,Dindori,Chhota Nagpur,Community,4.56,4.44,2026-08-17,Approved,0,22.918044588909066,81.12118707448096
+FRA-1484,Manoj Patel,Madhya Pradesh,Dhar,Durgapur,Community,13.0,12.99,2026-04-07,Pending,136,22.657903928816864,75.31171604679206
+FRA-1485,Jano Kumar,Odisha,Sundargarh,Durgapur,Community,4.1,4.16,2026-08-13,Approved,0,22.119365444260996,83.98025090673443
+FRA-1486,Lakshmi Kumar,Maharashtra,Yavatmal,Chandapur,Individual,13.73,13.76,2026-08-08,Approved,0,20.435650588559874,78.12106154118663
+FRA-1487,Birsa Pradhan,Jharkhand,Simdega,Chhota Nagpur,Community,2.19,2.4,2026-07-06,Pending,47,22.5408730674404,84.45115768074211
+FRA-1488,Ramesh Soren,Madhya Pradesh,Chhindwara,Rampur,Community,13.92,14.22,2026-06-02,Pending,67,22.004676778868117,78.91417434743077
+FRA-1489,Devi Naik,Maharashtra,Palghar,Example Village,Community,8.61,8.85,2026-08-06,Approved,0,19.640272191350167,72.67579997171988
+FRA-1490,Kanhu Bhoi,Jharkhand,Gumla,Kalyanpur,Community,14.83,15.04,2026-08-14,Approved,0,23.12582222333279,84.4869694516361
+FRA-1491,Manoj Soren,Chhattisgarh,Bastar,Devgaon,Individual,9.62,9.81,2026-08-09,Approved,0,19.1754765208893,81.8701371556839
+FRA-1492,Kanhu Rathwa,Chhattisgarh,Bastar,Amrapali,Community,14.5,14.34,2026-08-20,Rejected,0,19.028775794133754,82.04574345529191
+FRA-1493,Birsa Uraon,Jharkhand,Simdega,Devgaon,Community,7.23,7.0,2026-08-21,Approved,0,22.60399710888418,84.42589623208994
+FRA-1494,Babu Maravi,Jharkhand,Simdega,Devgaon,Community,3.59,3.55,2026-08-05,Approved,0,22.679789608389516,84.57434631522786
+FRA-1495,Sunita Bhilla,Madhya Pradesh,Chhindwara,Bhadrapur,Community,6.61,6.64,2026-08-10,Approved,0,22.150184993015124,78.99945989511961
+FRA-1496,Sidhu Maravi,Odisha,Mayurbhanj,Amrapali,Community,11.2,11.32,2026-04-17,Pending,129,22.024355415664733,86.75573924521527
+FRA-1497,Sunita Rathwa,Chhattisgarh,Dhamtari,Bhadrapur,Individual,10.68,10.55,2026-08-15,Approved,0,20.755957560207534,81.6138512168392
+FRA-1498,Suresh Naik,Chhattisgarh,Rajnandgaon,Devgaon,Individual,6.21,6.1,2026-08-25,Rejected,0,21.114084452977355,80.95417645378497
+FRA-1499,Sunita Gond,Chhattisgarh,Rajnandgaon,Panchvati,Community,2.92,2.9,2026-08-18,Approved,0,21.125430229222353,81.10298284554091
+FRA-1500,Manoj Bhoi,Jharkhand,Gumla,Durgapur,Community,1.84,1.86,2026-03-23,Pending,144,22.998871438530966,84.56908400644426
+FRA-1501,Vijay Bhoi,Chhattisgarh,Rajnandgaon,Devgaon,Community,8.34,8.25,2026-08-12,Approved,0,21.161766918486233,81.09948093041633
+FRA-1502,Manoj Munda,Odisha,Rayagada,Bhadrapur,Community,11.93,19.09,2026-08-23,Approved,0,19.106310622623578,83.34857250345436
+FRA-1503,Pooja Rathwa,Jharkhand,Dumka,Bhadrapur,Individual,12.91,12.83,2026-08-07,Approved,0,24.32387598253725,87.28777000827284
+FRA-1504,Phulo Hembram,Chhattisgarh,Bastar,Amrapali,Community,6.48,6.34,2026-08-06,Approved,0,19.14068107857133,82.04457044090987
+FRA-1505,Radha Gond,Chhattisgarh,Surguja,Devgaon,Individual,7.9,8.01,2026-08-22,Approved,0,23.047713536653575,83.10271641800203
+FRA-1506,Babu Bhilla,Odisha,Rayagada,Durgapur,Individual,11.94,12.15,2026-08-22,Approved,0,19.151552506539034,83.37195850712247
+FRA-1507,Phulo Uraon,Odisha,Kandhamal,Bhadrapur,Individual,4.03,4.08,2026-08-20,Rejected,0,20.27106329163857,84.10161442200636
+FRA-1508,Sunita Patel,Chhattisgarh,Surguja,Bhadrapur,Individual,13.59,13.45,2026-08-06,Approved,0,23.041210525947214,83.23310301582349
+FRA-1509,Jano Tudu,Madhya Pradesh,Dhar,Panchvati,Community,11.44,11.47,2026-08-18,Approved,0,22.649695383890492,75.401347646458
+FRA-1510,Kanhu Bhilla,Chhattisgarh,Bastar,Bhadrapur,Community,12.17,11.94,2026-08-16,Approved,0,19.10676209343961,81.96604773684643
+FRA-1511,Lakshmi Pradhan,Madhya Pradesh,Dhar,Durgapur,Individual,2.44,2.29,2026-08-07,Approved,0,22.514143916453857,75.20487093897911
+FRA-1512,Suresh Singh,Madhya Pradesh,Balaghat,Example Village,Individual,13.66,13.87,2026-08-07,Approved,0,21.800320595861432,80.23581629005346
+FRA-1513,Babu Maravi,Jharkhand,Dumka,Chhota Nagpur,Community,4.0,4.06,2026-01-29,Pending,192,24.236294689727515,87.33877513683625
+FRA-1514,Radha Kumar,Madhya Pradesh,Dindori,Amrapali,Community,11.48,11.73,2026-08-13,Approved,0,22.932543914388244,81.11046193913722
+FRA-1515,Devi Munda,Madhya Pradesh,Mandla,Bhadrapur,Community,9.63,9.92,2026-08-09,Approved,0,22.578851291198657,80.29665113453028
+FRA-1516,Pooja Maravi,Madhya Pradesh,Chhindwara,Chhota Nagpur,Community,12.87,12.7,2026-08-15,Approved,0,21.978991922381667,78.91353507759314
+FRA-1517,Lakshmi Pradhan,Odisha,Kandhamal,Panchvati,Community,6.13,5.92,2026-08-14,Approved,0,20.23161216923555,84.07514072649423
+FRA-1518,Radha Bhilla,Odisha,Koraput,Chhota Nagpur,Individual,11.75,11.98,2026-08-17,Approved,0,18.771723515627727,82.80060047998982
+FRA-1519,Vijay Tudu,Madhya Pradesh,Balaghat,Chhota Nagpur,Community,9.82,10.0,2026-08-08,Approved,0,21.88878295726134,80.1912095224998
+FRA-1520,Radha Maravi,Maharashtra,Nandurbar,Amrapali,Community,13.49,13.69,2026-08-10,Approved,0,21.29265207000022,74.2420677391702
+FRA-1521,Devi Bhoi,Jharkhand,Dumka,Rampur,Individual,6.29,6.39,2026-08-13,Approved,0,24.278245397453038,87.25379037726765
+FRA-1522,Manoj Tudu,Maharashtra,Nandurbar,Chhota Nagpur,Individual,11.73,11.86,2026-08-06,Approved,0,21.297950736952334,74.25230878430445
+FRA-1523,Somnath Bhoi,Jharkhand,Dumka,Sitapur,Community,11.17,11.35,2026-08-22,Approved,0,24.195460685650204,87.23874670683561
+FRA-1524,Anita Gond,Odisha,Sundargarh,Rampur,Individual,6.22,6.15,2026-03-21,Pending,142,22.12874223302834,84.01333188529237
+FRA-1525,Manoj Bhoi,Maharashtra,Palghar,Sitapur,Community,3.02,4.83,2026-08-07,Approved,0,19.790226602477354,72.82089392193784
+FRA-1526,Rajesh Pradhan,Madhya Pradesh,Dindori,Kalyanpur,Community,14.51,14.39,2026-08-12,Approved,0,22.94558385221308,81.1342918979251
+FRA-1527,Somnath Uraon,Maharashtra,Yavatmal,Sunderpur,Individual,7.05,7.27,2026-06-03,Pending,70,20.424721100131073,78.16299514547784
+FRA-1528,Manoj Maravi,Odisha,Rayagada,Amrapali,Individual,13.33,13.55,2026-08-11,Approved,0,19.12511950699159,83.44765805968468
+FRA-1529,Gautam Kumar,Madhya Pradesh,Dhar,Chhota Nagpur,Individual,3.83,3.66,2026-08-19,Rejected,0,22.505970178079213,75.33746927419409
+FRA-1530,Manoj Tudu,Maharashtra,Yavatmal,Amrapali,Community,14.05,14.28,2026-04-14,Pending,118,20.35409574831833,78.06481397258484
+FRA-1531,Rajesh Naik,Chhattisgarh,Kanker,Chhota Nagpur,Individual,12.06,12.35,2026-08-06,Rejected,0,20.296227511240158,81.42512261383833
+FRA-1532,Suresh Gond,Jharkhand,West Singhbhum,Panchvati,Community,6.94,7.21,2026-08-05,Approved,0,22.47485020802621,85.85770443570843
+FRA-1533,Devi Bhoi,Jharkhand,West Singhbhum,Sitapur,Individual,2.49,2.33,2026-08-08,Approved,0,22.552182498343193,85.78206397235759
+FRA-1534,Sidhu Munda,Chhattisgarh,Dhamtari,Chhota Nagpur,Individual,9.87,9.92,2026-08-22,Approved,0,20.777902413605318,81.59496522161717
+FRA-1535,Rajesh Soren,Jharkhand,West Singhbhum,Amrapali,Individual,12.0,11.99,2026-08-07,Approved,0,22.497495648478942,85.74311753283953
+FRA-1536,Phulo Bhoi,Chhattisgarh,Bastar,Kalyanpur,Individual,11.06,11.17,2026-08-09,Approved,0,19.19422260569367,81.9693716708051
+FRA-1537,Kanhu Hembram,Chhattisgarh,Kanker,Rampur,Individual,4.53,9.97,2026-08-23,Approved,0,20.194588835762293,81.40201418310802
+FRA-1538,Manoj Gond,Odisha,Sundargarh,Amrapali,Community,12.37,12.51,2026-07-09,Pending,37,22.183335282871447,84.0925472114447
+FRA-1539,Pooja Rathwa,Madhya Pradesh,Dhar,Example Village,Community,7.48,7.24,2026-04-03,Pending,124,22.63974765885115,75.25038840668145
+FRA-1540,Vijay Rathwa,Jharkhand,Simdega,Panchvati,Community,2.81,2.8,2026-08-15,Approved,0,22.64279125232958,84.61144582988214
+FRA-1541,Devi Gond,Jharkhand,Simdega,Sitapur,Individual,8.68,8.86,2026-07-07,Pending,34,22.688291742424205,84.61077603947389
+FRA-1542,Somnath Soren,Odisha,Sundargarh,Amrapali,Individual,5.7,5.5,2026-06-18,Pending,68,22.208853274566355,84.03596364306044
+FRA-1543,Suresh Bhilla,Madhya Pradesh,Chhindwara,Kalyanpur,Individual,11.5,11.78,2026-04-25,Pending,102,22.141720289707358,78.86612050324787
+FRA-1544,Devi Bhoi,Jharkhand,West Singhbhum,Panchvati,Community,7.19,7.28,2025-09-20,Pending,327,22.54453416907796,85.76051111194907
+FRA-1545,Babu Naik,Madhya Pradesh,Chhindwara,Chandapur,Community,14.05,5.62,2026-08-20,Approved,0,22.058786989268803,78.86327202628688
+FRA-1546,Kanhu Munda,Jharkhand,Latehar,Chhota Nagpur,Individual,10.09,10.27,2026-08-09,Approved,0,23.66250483913232,84.5867598988874
+FRA-1547,Vijay Maravi,Maharashtra,Chandrapur,Example Village,Individual,11.53,11.8,2026-04-29,Pending,112,20.041270370940886,79.38727368711336
+FRA-1548,Somnath Pradhan,Odisha,Mayurbhanj,Panchvati,Community,13.97,13.68,2026-08-08,Approved,0,21.89546553834121,86.76394419915029
+FRA-1549,Jano Uraon,Chhattisgarh,Surguja,Kalyanpur,Individual,7.38,7.52,2026-07-10,Pending,40,23.143862582449376,83.10383732780778
+FRA-1550,Devi Bhoi,Jharkhand,Dumka,Amrapali,Community,14.22,14.2,2026-08-09,Approved,0,24.32349474865109,87.21597105282446
+FRA-1551,Babu Bhoi,Madhya Pradesh,Dhar,Durgapur,Individual,10.02,9.79,2026-08-09,Approved,0,22.686141982297308,75.36572565323168
+FRA-1552,Kanhu Bhoi,Maharashtra,Gadchiroli,Panchvati,Individual,2.69,2.4,2026-08-14,Approved,0,20.27666347038126,80.02334587187123
+FRA-1553,Ramesh Hembram,Jharkhand,Latehar,Rampur,Community,3.68,3.91,2026-08-08,Rejected,0,23.648164270291183,84.48311501689064
+FRA-1554,Gautam Munda,Maharashtra,Nandurbar,Bhadrapur,Community,13.14,12.94,2026-08-19,Approved,0,21.378024689970058,74.29556146017869
+FRA-1555,Sidhu Pradhan,Odisha,Koraput,Devgaon,Individual,3.98,4.22,2026-08-14,Approved,0,18.87370397541194,82.61866839188666
+FRA-1556,Radha Pradhan,Chhattisgarh,Dhamtari,Amrapali,Individual,2.98,2.97,2026-08-17,Approved,0,20.676693993332254,81.582287681618
+FRA-1557,Suresh Munda,Odisha,Kandhamal,Sitapur,Community,1.85,1.79,2026-05-17,Pending,80,20.298958085271654,84.02497240537492
+FRA-1558,Phulo Gond,Chhattisgarh,Kanker,Rampur,Community,13.19,13.34,2026-08-02,Pending,19,20.367561874180563,81.41162589632003
+FRA-1559,Phulo Gond,Jharkhand,Dumka,Durgapur,Community,9.55,9.47,2026-08-17,Approved,0,24.175930089337317,87.28920721443465
+FRA-1560,Gautam Hembram,Madhya Pradesh,Mandla,Panchvati,Community,4.35,4.56,2026-08-10,Approved,0,22.514900499322188,80.3306924483833
+FRA-1561,Gautam Naik,Madhya Pradesh,Chhindwara,Amrapali,Community,14.78,14.8,2026-08-09,Approved,0,22.152530127793433,78.94642862115495
+FRA-1562,Suresh Hembram,Maharashtra,Palghar,Bhadrapur,Individual,12.7,12.88,2026-08-22,Approved,0,19.76689076163124,72.86252083217079
+FRA-1563,Jano Kumar,Madhya Pradesh,Chhindwara,Rampur,Community,1.93,2.22,2026-08-12,Approved,0,22.064810854923664,78.8672990674095
+FRA-1564,Gautam Tudu,Odisha,Mayurbhanj,Chandapur,Community,7.94,8.23,2026-08-07,Approved,0,21.964159701169045,86.79503756135784
+FRA-1565,Sunita Bhoi,Madhya Pradesh,Dhar,Durgapur,Individual,6.07,6.33,2026-08-06,Approved,0,22.663863680942914,75.37422808883308
+FRA-1566,Kanhu Singh,Chhattisgarh,Kanker,Devgaon,Community,11.75,11.46,2026-08-24,Approved,0,20.299177687749022,81.5674314321055
+FRA-1567,Gautam Maravi,Odisha,Koraput,Amrapali,Individual,1.77,1.92,2026-08-13,Approved,0,18.899722957557067,82.73857190655643
+FRA-1568,Anita Hembram,Chhattisgarh,Dhamtari,Rampur,Community,3.72,3.59,2026-08-16,Approved,0,20.769770470223108,81.57032956813536
+FRA-1569,Babu Patel,Jharkhand,Simdega,Panchvati,Individual,4.2,2.1,2026-04-30,Pending,102,22.67978038250324,84.50901288682456
+FRA-1570,Sidhu Maravi,Jharkhand,West Singhbhum,Chandapur,Individual,4.12,6.59,2026-08-05,Approved,0,22.57470432840454,85.77397260113081
+FRA-1571,Manoj Bhoi,Madhya Pradesh,Mandla,Durgapur,Individual,12.96,13.15,2026-04-27,Pending,107,22.548655357031976,80.36670867166626
+FRA-1572,Sunita Singh,Chhattisgarh,Surguja,Sunderpur,Community,6.41,6.44,2026-08-15,Approved,0,23.07531164314332,83.11615139813946
+FRA-1573,Kanhu Hembram,Maharashtra,Palghar,Durgapur,Community,7.06,7.07,2025-11-06,Pending,292,19.603183022813763,72.68534660793551
+FRA-1574,Pooja Patel,Madhya Pradesh,Mandla,Chandapur,Individual,12.65,12.64,2026-06-24,Pending,62,22.57595477057599,80.45230623120469
+FRA-1575,Gautam Munda,Chhattisgarh,Rajnandgaon,Rampur,Community,5.51,2.75,2026-04-01,Pending,127,21.168481942553534,80.9435625627456
+FRA-1576,Gautam Rathwa,Jharkhand,Latehar,Example Village,Individual,6.93,6.85,2026-08-01,Pending,21,23.68117887342456,84.40996820211156
+FRA-1577,Phulo Patel,Madhya Pradesh,Mandla,Amrapali,Individual,9.92,9.91,2026-08-20,Approved,0,22.635225741036553,80.33048833258901
+FRA-1578,Babu Bhilla,Jharkhand,West Singhbhum,Chandapur,Individual,4.84,4.7,2026-07-03,Pending,34,22.507839002732236,85.87375110283162
+FRA-1579,Manoj Tudu,Chhattisgarh,Dhamtari,Sunderpur,Community,5.99,5.86,2026-08-23,Approved,0,20.658520819270173,81.57310543058875
+FRA-1580,Phulo Patel,Odisha,Kandhamal,Chandapur,Community,13.17,13.04,2026-08-15,Approved,0,20.29494912711261,84.02591178605145
+FRA-1581,Sidhu Munda,Madhya Pradesh,Chhindwara,Durgapur,Individual,2.43,1.22,2026-08-14,Approved,0,22.057396988203667,78.8407317738845
+FRA-1582,Birsa Rathwa,Odisha,Mayurbhanj,Kalyanpur,Community,13.33,13.4,2026-08-13,Approved,0,22.031556765702312,86.64030767547081
+FRA-1583,Anita Patel,Madhya Pradesh,Dindori,Panchvati,Individual,2.35,2.44,2026-08-14,Approved,0,23.008349550485015,81.15979300545098
+FRA-1584,Devi Pradhan,Odisha,Kandhamal,Amrapali,Individual,10.74,23.63,2026-08-16,Approved,0,20.297640968952233,83.95392665306882
+FRA-1585,Devi Hembram,Madhya Pradesh,Dhar,Sunderpur,Community,7.58,7.53,2025-08-17,Pending,356,22.582870587307323,75.25162927643696
+FRA-1586,Babu Singh,Chhattisgarh,Surguja,Kalyanpur,Individual,5.71,5.55,2026-08-14,Approved,0,23.055520333713453,83.15612309569843
+FRA-1587,Pooja Kumar,Maharashtra,Nandurbar,Bhadrapur,Community,7.51,7.56,2026-08-08,Approved,0,21.376833474092972,74.22978197677325
+FRA-1588,Rajesh Uraon,Jharkhand,West Singhbhum,Durgapur,Community,11.1,11.13,2026-08-23,Approved,0,22.588823821248283,85.86622347154703
+FRA-1589,Radha Patel,Maharashtra,Palghar,Rampur,Community,11.87,11.77,2026-08-08,Approved,0,19.652688103303273,72.73675631755926
+FRA-1590,Pooja Singh,Odisha,Mayurbhanj,Panchvati,Individual,14.57,14.61,2026-04-14,Pending,122,21.963420010566836,86.66811604551535
+FRA-1591,Anita Naik,Madhya Pradesh,Mandla,Kalyanpur,Community,6.54,6.51,2026-08-18,Approved,0,22.691495823541853,80.4220697797372
+FRA-1592,Sidhu Singh,Jharkhand,Simdega,Devgaon,Individual,10.87,10.96,2026-06-25,Pending,44,22.566833719038396,84.42460541095078
+FRA-1593,Sidhu Pradhan,Jharkhand,West Singhbhum,Chandapur,Community,11.83,11.66,2026-08-16,Approved,0,22.596004855170552,85.85244151749967
+FRA-1594,Phulo Uraon,Madhya Pradesh,Dindori,Bhadrapur,Community,14.96,14.74,2026-04-11,Pending,119,22.98184537618139,81.15184535618341
+FRA-1595,Jano Gond,Odisha,Sundargarh,Sitapur,Individual,9.11,8.97,2026-08-21,Approved,0,22.17403938455359,84.01558838240688
+FRA-1596,Ramesh Singh,Jharkhand,Gumla,Chandapur,Community,7.97,7.86,2026-08-06,Approved,0,23.100251828695743,84.50374267143182
+FRA-1597,Ramesh Naik,Jharkhand,Dumka,Amrapali,Individual,2.2,2.13,2026-02-02,Pending,198,24.321764307680926,87.29904986819433
+FRA-1598,Kanhu Singh,Chhattisgarh,Kanker,Rampur,Individual,8.44,8.58,2026-08-08,Approved,0,20.338139698922546,81.54809917519789
+FRA-1599,Devi Patel,Odisha,Koraput,Amrapali,Individual,12.66,20.26,2026-08-19,Rejected,0,18.841932617035155,82.63116933730385
+FRA-1600,Kamla Kumar,Maharashtra,Palghar,Panchvati,Individual,10.08,10.15,2026-08-07,Approved,0,19.62938534991252,72.74488831458862
+FRA-1601,Devi Patel,Jharkhand,West Singhbhum,Devgaon,Individual,2.24,2.06,2026-08-25,Approved,0,22.517201500822296,85.7524136400709
+FRA-1602,Gautam Hembram,Madhya Pradesh,Chhindwara,Panchvati,Individual,2.96,2.83,2026-08-25,Approved,0,22.084079720919657,78.86509172716819
+FRA-1603,Lakshmi Naik,Maharashtra,Yavatmal,Devgaon,Community,10.45,10.72,2026-08-10,Approved,0,20.328654576050017,78.15058854073146
+FRA-1604,Babu Gond,Odisha,Sundargarh,Sunderpur,Individual,8.54,3.42,2026-07-21,Pending,30,22.057343941293897,83.9786371221447
+FRA-1605,Manoj Kumar,Odisha,Mayurbhanj,Chhota Nagpur,Community,8.53,8.75,2026-08-19,Approved,0,21.836606006068212,86.68646352547188
+FRA-1606,Somnath Tudu,Jharkhand,West Singhbhum,Bhadrapur,Individual,6.2,6.49,2026-08-07,Approved,0,22.539181282829382,85.8583477729236
+FRA-1607,Anita Bhoi,Jharkhand,Simdega,Amrapali,Individual,1.54,1.82,2026-05-29,Pending,74,22.710505487720646,84.41767587887755
+FRA-1608,Pooja Tudu,Chhattisgarh,Bastar,Amrapali,Individual,13.18,13.32,2026-08-08,Approved,0,19.136044605108523,81.85758322614146
+FRA-1609,Kamla Gond,Chhattisgarh,Rajnandgaon,Durgapur,Community,1.28,1.18,2026-05-08,Pending,99,21.099758328330864,81.1159964232785
+FRA-1610,Somnath Maravi,Odisha,Sundargarh,Chhota Nagpur,Community,4.95,4.75,2026-08-24,Approved,0,22.207269222667986,83.97928323098773
+FRA-1611,Suresh Naik,Maharashtra,Yavatmal,Panchvati,Individual,1.59,1.58,2026-08-22,Approved,0,20.416468328693114,78.16085319754501
+FRA-1612,Ramesh Maravi,Jharkhand,Gumla,Sitapur,Individual,6.26,6.51,2026-08-13,Approved,0,23.008122197373485,84.63055749562827
+FRA-1613,Birsa Patel,Jharkhand,Simdega,Bhadrapur,Community,7.83,7.71,2026-08-03,Pending,22,22.605283168337092,84.54789482854268
+FRA-1614,Kamla Hembram,Odisha,Koraput,Kalyanpur,Individual,12.47,12.53,2026-08-13,Approved,0,18.813461404539268,82.70523587661019
+FRA-1615,Lakshmi Kumar,Odisha,Kandhamal,Devgaon,Community,1.86,2.13,2026-08-07,Approved,0,20.33051397582627,83.95341050199025
+FRA-1616,Sunita Maravi,Chhattisgarh,Bastar,Rampur,Individual,2.64,5.81,2026-08-25,Approved,0,19.172630309724962,81.90010066314346
+FRA-1617,Radha Rathwa,Madhya Pradesh,Dindori,Sitapur,Individual,4.59,4.46,2026-08-24,Approved,0,22.995583023172923,81.17529697128174
+FRA-1618,Radha Gond,Odisha,Rayagada,Panchvati,Community,5.33,5.08,2026-08-09,Approved,0,19.122418211398642,83.42979026524547
+FRA-1619,Jano Kumar,Chhattisgarh,Surguja,Devgaon,Individual,1.92,1.72,2026-08-15,Approved,0,23.178212124566922,83.18833256872075
+FRA-1620,Anita Kumar,Chhattisgarh,Kanker,Kalyanpur,Individual,8.58,8.66,2026-08-06,Approved,0,20.361151856821266,81.39597334328653
+FRA-1621,Pooja Pradhan,Jharkhand,Gumla,Devgaon,Individual,3.3,3.18,2026-08-15,Approved,0,23.11791874996821,84.56028630736314
+FRA-1622,Lakshmi Bhoi,Jharkhand,Gumla,Rampur,Individual,14.26,31.37,2026-08-10,Approved,0,23.121779452621208,84.55450633637801
+FRA-1623,Sunita Tudu,Maharashtra,Palghar,Kalyanpur,Community,11.28,11.37,2026-08-12,Approved,0,19.6423113544377,72.83261945625677
+FRA-1624,Rajesh Bhilla,Odisha,Kandhamal,Example Village,Community,1.58,1.87,2026-01-31,Pending,200,20.316866146415027,84.08247314899485
+FRA-1625,Birsa Bhoi,Chhattisgarh,Surguja,Example Village,Community,7.12,6.93,2026-08-24,Approved,0,23.050858319585082,83.25746533284527
+FRA-1626,Anita Pradhan,Jharkhand,West Singhbhum,Panchvati,Individual,14.66,32.25,2026-07-21,Pending,31,22.644429808349077,85.87870536078246
+FRA-1627,Vijay Pradhan,Maharashtra,Nandurbar,Chhota Nagpur,Community,12.06,11.95,2026-08-16,Rejected,0,21.30852182113327,74.20742858768102
+FRA-1628,Ramesh Gond,Chhattisgarh,Dhamtari,Chhota Nagpur,Individual,3.84,1.54,2026-08-25,Approved,0,20.797030287876964,81.50386495283688
+FRA-1629,Somnath Munda,Odisha,Sundargarh,Chhota Nagpur,Community,13.37,13.4,2026-08-21,Rejected,0,22.072177166237058,84.02262170584835
+FRA-1630,Suresh Hembram,Jharkhand,Gumla,Panchvati,Community,11.33,18.13,2026-04-16,Pending,117,23.005676324095294,84.45122738366844
+FRA-1631,Sidhu Patel,Maharashtra,Nandurbar,Example Village,Individual,5.17,5.09,2026-07-04,Pending,32,21.32270561396715,74.27088174627089
+FRA-1632,Lakshmi Tudu,Chhattisgarh,Bastar,Chandapur,Community,2.56,2.6,2026-08-07,Approved,0,19.178030623250017,81.95312663971383
+FRA-1633,Radha Tudu,Odisha,Koraput,Kalyanpur,Individual,5.64,5.92,2026-08-25,Approved,0,18.726439864426787,82.81091333749517
+FRA-1634,Ramesh Maravi,Maharashtra,Gadchiroli,Chandapur,Community,12.43,6.21,2026-08-12,Rejected,0,20.103519836806583,80.01634418110201
+FRA-1635,Manoj Munda,Odisha,Sundargarh,Panchvati,Community,13.83,6.92,2026-08-21,Approved,0,22.09309726398405,84.09954366444683
+FRA-1636,Birsa Patel,Maharashtra,Gadchiroli,Amrapali,Community,9.73,9.53,2026-04-03,Pending,127,20.281323486195806,80.05619179270523
+FRA-1637,Manoj Rathwa,Jharkhand,Gumla,Devgaon,Community,14.61,14.42,2026-08-23,Approved,0,23.123459915362055,84.55573177471355
+FRA-1638,Anita Pradhan,Jharkhand,Simdega,Amrapali,Community,1.25,1.29,2026-04-10,Pending,129,22.683502851061732,84.43805169363381
+FRA-1639,Suresh Bhilla,Maharashtra,Palghar,Durgapur,Individual,10.02,9.86,2026-08-25,Approved,0,19.738111948765066,72.79251054873698
+FRA-1640,Kamla Soren,Madhya Pradesh,Dhar,Kalyanpur,Community,2.18,2.08,2026-08-12,Approved,0,22.662106942526066,75.20733370658384
+FRA-1641,Radha Gond,Odisha,Sundargarh,Sitapur,Individual,1.62,1.46,2026-07-16,Pending,34,22.176950220860366,84.01882671479585
+FRA-1642,Kamla Uraon,Odisha,Kandhamal,Chandapur,Individual,4.24,4.38,2026-04-28,Pending,112,20.28588330849199,83.94020706921543
+FRA-1643,Lakshmi Bhilla,Maharashtra,Chandrapur,Panchvati,Individual,8.5,8.46,2026-05-29,Pending,78,19.86537296310703,79.39705597636413
+FRA-1644,Vijay Tudu,Odisha,Mayurbhanj,Amrapali,Individual,9.12,14.59,2026-08-24,Approved,0,22.01327193011886,86.6797112835418
+FRA-1645,Manoj Bhilla,Odisha,Kandhamal,Bhadrapur,Individual,9.89,9.79,2026-08-19,Approved,0,20.281990787711837,84.04038457673664
+FRA-1646,Pooja Tudu,Madhya Pradesh,Mandla,Amrapali,Community,6.82,6.53,2026-05-06,Pending,98,22.66324042822589,80.37313195605549
+FRA-1647,Sidhu Tudu,Maharashtra,Palghar,Chandapur,Community,9.43,9.6,2026-03-20,Pending,138,19.692145363939947,72.71563698843377
+FRA-1648,Pooja Gond,Jharkhand,Latehar,Kalyanpur,Individual,10.86,10.74,2026-06-18,Pending,61,23.810909998147274,84.47367329160593
+FRA-1649,Jano Bhilla,Odisha,Sundargarh,Kalyanpur,Community,6.45,6.25,2026-08-14,Approved,0,22.166780109425623,84.09699228308337
+FRA-1650,Phulo Naik,Jharkhand,West Singhbhum,Chhota Nagpur,Community,7.03,6.93,2026-08-12,Approved,0,22.589224967162718,85.80954162052639
+FRA-1651,Anita Munda,Odisha,Mayurbhanj,Example Village,Community,14.78,14.75,2026-08-17,Approved,0,21.88318357390049,86.68768296333981
+FRA-1652,Somnath Bhilla,Maharashtra,Yavatmal,Chandapur,Community,8.97,9.09,2026-05-20,Pending,96,20.366584538960385,78.15771498366146
+FRA-1653,Sidhu Soren,Madhya Pradesh,Mandla,Amrapali,Individual,3.03,3.06,2026-03-31,Pending,144,22.66167595159939,80.38776089693287
+FRA-1654,Rajesh Singh,Maharashtra,Gadchiroli,Chhota Nagpur,Community,11.78,11.98,2025-11-03,Pending,276,20.15651989062423,79.99321326506886
+FRA-1655,Lakshmi Rathwa,Chhattisgarh,Rajnandgaon,Bhadrapur,Individual,7.93,8.05,2026-08-11,Rejected,0,21.171941042406043,81.05813805169667
+FRA-1656,Kamla Hembram,Jharkhand,Gumla,Kalyanpur,Community,7.67,7.83,2026-08-10,Approved,0,23.07989929538581,84.48498352006574
+FRA-1657,Sidhu Hembram,Jharkhand,Latehar,Durgapur,Community,9.92,10.14,2026-08-24,Approved,0,23.673815123508394,84.4262289039097
+FRA-1658,Vijay Soren,Maharashtra,Yavatmal,Panchvati,Individual,4.73,4.53,2026-06-13,Pending,72,20.494476430107028,78.1920856004679
+FRA-1659,Radha Hembram,Maharashtra,Nandurbar,Sunderpur,Community,5.5,5.52,2026-08-15,Approved,0,21.41494602408271,74.15564683381287
+FRA-1660,Gautam Rathwa,Maharashtra,Nandurbar,Sunderpur,Community,7.0,6.89,2026-08-07,Approved,0,21.39893693110939,74.25546003811024
+FRA-1661,Ramesh Munda,Jharkhand,Gumla,Chhota Nagpur,Community,1.47,1.61,2026-08-12,Rejected,0,22.958312671658533,84.5629530706123
+FRA-1662,Kanhu Munda,Maharashtra,Chandrapur,Example Village,Community,9.84,10.08,2026-08-10,Approved,0,19.987506004200974,79.33566496817664
+FRA-1663,Birsa Patel,Jharkhand,Latehar,Sitapur,Individual,13.41,13.34,2026-08-15,Approved,0,23.821437814363982,84.41546921919812
+FRA-1664,Anita Uraon,Odisha,Rayagada,Panchvati,Community,8.17,8.09,2026-08-20,Approved,0,19.175195287658003,83.51201173456617
+FRA-1665,Rajesh Singh,Madhya Pradesh,Mandla,Devgaon,Individual,14.84,14.69,2026-08-05,Rejected,0,22.697918614170387,80.27521555811686
+FRA-1666,Sunita Rathwa,Odisha,Rayagada,Devgaon,Community,3.81,3.87,2026-08-17,Approved,0,19.0769254531094,83.43694657814477
+FRA-1667,Babu Kumar,Maharashtra,Gadchiroli,Durgapur,Individual,12.94,13.23,2026-07-12,Pending,41,20.23159608396926,80.01015273646095
+FRA-1668,Manoj Tudu,Chhattisgarh,Surguja,Devgaon,Community,10.45,10.73,2026-08-08,Approved,0,23.185912284848623,83.2131137965573
+FRA-1669,Gautam Gond,Chhattisgarh,Dhamtari,Chhota Nagpur,Community,6.74,6.5,2026-04-21,Pending,106,20.70591730141749,81.58209576474808
+FRA-1670,Rajesh Munda,Maharashtra,Palghar,Devgaon,Individual,7.62,7.35,2026-08-10,Rejected,0,19.782613591106816,72.72658296095854
+FRA-1671,Radha Bhoi,Odisha,Koraput,Sunderpur,Individual,10.3,10.23,2026-05-28,Pending,70,18.908511254364768,82.81045761785751
+FRA-1672,Devi Maravi,Maharashtra,Yavatmal,Kalyanpur,Community,9.76,3.9,2026-08-22,Approved,0,20.481697022687555,78.2256998053847
+FRA-1673,Pooja Bhilla,Odisha,Rayagada,Sunderpur,Community,4.55,7.28,2026-04-07,Pending,124,19.25033862490497,83.44575169986967
+FRA-1674,Sunita Bhoi,Odisha,Rayagada,Panchvati,Individual,14.87,14.83,2026-08-10,Rejected,0,19.1135633846613,83.4836613848826
+FRA-1675,Somnath Kumar,Madhya Pradesh,Chhindwara,Rampur,Individual,5.3,5.43,2026-08-21,Approved,0,22.141212901284884,78.91052006766228
+FRA-1676,Gautam Gond,Chhattisgarh,Kanker,Amrapali,Community,5.64,5.35,2026-08-05,Approved,0,20.27672149883322,81.56539027763307
+FRA-1677,Ramesh Singh,Madhya Pradesh,Chhindwara,Chhota Nagpur,Community,4.85,4.76,2026-05-08,Pending,109,21.99620254431519,78.85943041487724
+FRA-1678,Vijay Rathwa,Maharashtra,Chandrapur,Example Village,Community,11.06,10.78,2026-07-11,Pending,33,19.909336504758578,79.20504883608879
+FRA-1679,Vijay Singh,Chhattisgarh,Rajnandgaon,Devgaon,Individual,8.13,8.05,2026-08-15,Approved,0,21.156643550646685,81.12154414799369
+FRA-1680,Radha Hembram,Chhattisgarh,Surguja,Sunderpur,Individual,2.18,1.95,2025-11-27,Pending,252,23.219027696138188,83.23428631188567
+FRA-1681,Vijay Kumar,Maharashtra,Nandurbar,Bhadrapur,Individual,2.69,2.42,2026-08-24,Approved,0,21.31148014619724,74.16307445169478
+FRA-1682,Pooja Pradhan,Jharkhand,Gumla,Example Village,Individual,3.85,4.05,2026-08-06,Approved,0,23.107994740666232,84.44637331571452
+FRA-1683,Ramesh Pradhan,Odisha,Rayagada,Rampur,Individual,12.39,12.53,2026-08-21,Approved,0,19.15121888208201,83.47471680790431
+FRA-1684,Phulo Soren,Odisha,Mayurbhanj,Devgaon,Individual,13.96,22.34,2026-06-30,Pending,37,21.923651819693973,86.77819283261634
+FRA-1685,Ramesh Bhilla,Odisha,Koraput,Chhota Nagpur,Individual,6.81,6.72,2026-08-17,Approved,0,18.782268053407336,82.76385546129359
+FRA-1686,Gautam Bhilla,Jharkhand,Latehar,Sitapur,Individual,13.63,6.82,2026-04-28,Pending,114,23.67286392846299,84.45146466216839
+FRA-1687,Ramesh Bhoi,Jharkhand,Latehar,Kalyanpur,Community,10.82,11.06,2026-08-09,Approved,0,23.839082273423823,84.48290575800215
+FRA-1688,Somnath Patel,Odisha,Sundargarh,Chandapur,Individual,5.81,5.72,2026-08-20,Approved,0,22.088171339646543,83.96419089552161
+FRA-1689,Pooja Bhoi,Chhattisgarh,Surguja,Rampur,Individual,14.0,14.21,2026-08-05,Approved,0,23.111535739150465,83.29973934295194
+FRA-1690,Vijay Patel,Madhya Pradesh,Dhar,Durgapur,Community,7.3,7.3,2026-08-19,Approved,0,22.557782933694376,75.29726162184178
+FRA-1691,Suresh Uraon,Madhya Pradesh,Mandla,Chandapur,Individual,1.75,0.7,2026-08-16,Approved,0,22.619471388207963,80.30100641169172
+FRA-1692,Ramesh Maravi,Chhattisgarh,Surguja,Sunderpur,Community,3.41,3.65,2026-08-12,Approved,0,23.197342889260973,83.22890031622293
+FRA-1693,Babu Hembram,Chhattisgarh,Kanker,Bhadrapur,Community,14.73,7.37,2026-08-22,Approved,0,20.354820552932726,81.40583233313676
+FRA-1694,Jano Hembram,Madhya Pradesh,Dhar,Kalyanpur,Individual,12.7,12.67,2026-07-06,Pending,34,22.574022468718915,75.25739765239607
+FRA-1695,Sunita Naik,Chhattisgarh,Surguja,Amrapali,Individual,8.3,8.37,2026-08-23,Approved,0,23.099357107387117,83.15547549647732
+FRA-1696,Anita Gond,Maharashtra,Chandrapur,Sunderpur,Community,3.56,3.65,2026-08-19,Approved,0,19.875871367301848,79.28375650802978
+FRA-1697,Radha Naik,Jharkhand,West Singhbhum,Bhadrapur,Community,7.05,6.97,2026-08-06,Approved,0,22.568172502234475,85.74519878160054
+FRA-1698,Babu Maravi,Jharkhand,Latehar,Chandapur,Community,14.71,14.94,2025-08-30,Pending,357,23.683911587188962,84.52979612748045
+FRA-1699,Birsa Naik,Odisha,Sundargarh,Amrapali,Community,9.29,9.38,2026-08-10,Approved,0,22.1737535536662,83.99402704609685
+FRA-1700,Sunita Maravi,Maharashtra,Yavatmal,Chhota Nagpur,Community,2.6,2.62,2026-08-21,Approved,0,20.4284710383135,78.0409229715343
+FRA-1701,Kamla Kumar,Chhattisgarh,Rajnandgaon,Kalyanpur,Community,13.19,13.08,2026-08-07,Approved,0,21.026515071971133,81.04491138183657
+FRA-1702,Pooja Singh,Odisha,Kandhamal,Durgapur,Individual,5.87,5.63,2026-08-16,Rejected,0,20.136431951328934,84.05419764240756
+FRA-1703,Suresh Bhoi,Madhya Pradesh,Dhar,Sunderpur,Community,8.89,8.92,2026-05-07,Pending,103,22.646490766085275,75.26511101965323
+FRA-1704,Somnath Rathwa,Chhattisgarh,Dhamtari,Bhadrapur,Individual,3.48,1.74,2026-08-13,Approved,0,20.66307123144526,81.60571179513352
+FRA-1705,Babu Gond,Chhattisgarh,Kanker,Rampur,Individual,9.07,19.95,2026-08-09,Approved,0,20.210002587770155,81.4961279008862
+FRA-1706,Radha Munda,Jharkhand,Dumka,Amrapali,Community,10.76,10.88,2026-08-19,Rejected,0,24.209450636240334,87.15640283291089
+FRA-1707,Devi Bhilla,Maharashtra,Yavatmal,Bhadrapur,Individual,11.73,11.82,2026-08-17,Rejected,0,20.463273971090906,78.08339139054772
+FRA-1708,Gautam Maravi,Jharkhand,Simdega,Chandapur,Individual,8.14,8.11,2026-08-25,Approved,0,22.689789383161944,84.52163825078921
+FRA-1709,Phulo Hembram,Odisha,Mayurbhanj,Chandapur,Individual,10.64,10.47,2026-08-13,Rejected,0,21.93200575013682,86.82275097039579
+FRA-1710,Kamla Hembram,Madhya Pradesh,Dhar,Devgaon,Community,8.79,8.64,2026-08-21,Approved,0,22.59909626995324,75.3005450814398
+FRA-1711,Ramesh Gond,Jharkhand,West Singhbhum,Chhota Nagpur,Community,12.85,12.95,2026-08-05,Approved,0,22.51004345576506,85.83844062698685
+FRA-1712,Kanhu Bhilla,Madhya Pradesh,Dhar,Amrapali,Community,13.51,13.55,2026-07-23,Pending,29,22.590907005093012,75.31170224490646
+FRA-1713,Sidhu Bhoi,Odisha,Kandhamal,Panchvati,Community,8.93,9.02,2026-08-10,Approved,0,20.203827965741517,83.99039814564325
+FRA-1714,Radha Kumar,Madhya Pradesh,Chhindwara,Example Village,Community,13.1,12.99,2026-08-22,Approved,0,22.063101667087945,78.97415490204776
+FRA-1715,Somnath Patel,Chhattisgarh,Surguja,Sunderpur,Community,3.24,5.18,2026-08-18,Approved,0,23.03408469166194,83.15944322114112
+FRA-1716,Kamla Singh,Chhattisgarh,Bastar,Rampur,Individual,11.95,12.06,2026-08-24,Approved,0,19.192396048684074,81.8680581601635
+FRA-1717,Sunita Bhilla,Madhya Pradesh,Chhindwara,Rampur,Community,8.72,8.5,2026-08-15,Approved,0,22.135096118728207,78.99157714624134
+FRA-1718,Ramesh Bhoi,Jharkhand,Dumka,Panchvati,Community,2.99,3.24,2025-12-23,Pending,232,24.24600134711221,87.33891979436696
+FRA-1719,Vijay Gond,Maharashtra,Yavatmal,Sunderpur,Community,11.82,11.76,2026-08-19,Approved,0,20.453317442191665,78.18205766468903
+FRA-1720,Sidhu Munda,Odisha,Sundargarh,Chandapur,Community,10.31,10.48,2026-08-06,Approved,0,22.045964354621002,84.01142696983433
+FRA-1721,Jano Maravi,Madhya Pradesh,Balaghat,Chandapur,Individual,2.62,2.84,2026-08-18,Approved,0,21.799869768268312,80.20754193078572
+FRA-1722,Birsa Uraon,Odisha,Mayurbhanj,Durgapur,Community,12.95,5.18,2026-08-24,Approved,0,21.96453472390688,86.69951531110151
+FRA-1723,Manoj Pradhan,Maharashtra,Gadchiroli,Chandapur,Community,8.69,8.84,2026-07-22,Pending,34,20.144553724900994,79.91290704433736
+FRA-1724,Vijay Naik,Odisha,Sundargarh,Chandapur,Community,5.61,5.84,2026-08-17,Approved,0,22.160999209327557,84.12052984847976
+FRA-1725,Rajesh Bhoi,Madhya Pradesh,Dindori,Devgaon,Individual,11.8,11.62,2026-08-05,Approved,0,23.007946016685956,81.17283835313226
+FRA-1726,Suresh Patel,Maharashtra,Palghar,Example Village,Individual,9.44,3.78,2026-08-15,Approved,0,19.779931289044857,72.77921054489049
+FRA-1727,Sidhu Kumar,Chhattisgarh,Surguja,Durgapur,Individual,1.39,1.29,2026-04-27,Pending,116,23.1674146642106,83.26178007897434
+FRA-1728,Vijay Bhilla,Chhattisgarh,Rajnandgaon,Durgapur,Community,12.87,12.82,2026-08-18,Rejected,0,21.10809197518058,80.97673426348175
+FRA-1729,Anita Rathwa,Madhya Pradesh,Balaghat,Sitapur,Individual,14.88,15.1,2026-08-15,Approved,0,21.771244034899944,80.16445654274145
+FRA-1730,Gautam Uraon,Maharashtra,Palghar,Sitapur,Community,9.88,9.82,2026-04-10,Pending,137,19.759383987655013,72.85048490807584
+FRA-1731,Babu Singh,Odisha,Mayurbhanj,Rampur,Individual,11.89,11.77,2026-08-24,Approved,0,21.97661846724459,86.81916417242415
+FRA-1732,Sunita Gond,Odisha,Mayurbhanj,Devgaon,Individual,12.6,20.16,2025-09-02,Pending,337,21.845029423807794,86.69473379703342
+FRA-1733,Birsa Bhilla,Madhya Pradesh,Chhindwara,Panchvati,Individual,2.06,1.88,2026-08-14,Approved,0,21.962347669893624,79.03381963614576
+FRA-1734,Manoj Uraon,Chhattisgarh,Kanker,Chhota Nagpur,Individual,1.7,1.47,2026-03-28,Pending,139,20.223777439987906,81.48576197819492
+FRA-1735,Kamla Soren,Madhya Pradesh,Chhindwara,Devgaon,Community,9.79,9.59,2025-09-23,Pending,336,21.998694286576875,78.88507552167637
+FRA-1736,Kanhu Soren,Maharashtra,Chandrapur,Panchvati,Individual,4.01,4.18,2026-08-20,Approved,0,19.909885211370902,79.24046847357603
+FRA-1737,Kanhu Soren,Chhattisgarh,Kanker,Devgaon,Community,8.97,9.0,2026-08-16,Approved,0,20.23748709386438,81.52151822130584
+FRA-1738,Sunita Singh,Chhattisgarh,Rajnandgaon,Kalyanpur,Individual,13.75,13.57,2026-04-15,Pending,132,21.043163264689422,81.0043299962151
+FRA-1739,Babu Uraon,Maharashtra,Yavatmal,Sitapur,Community,8.82,8.81,2026-07-19,Pending,37,20.316086215290454,78.14470157181424
+FRA-1740,Ramesh Bhilla,Madhya Pradesh,Dhar,Chhota Nagpur,Community,3.99,3.71,2026-08-10,Approved,0,22.60145525641424,75.34916069873873
+FRA-1741,Kamla Gond,Odisha,Sundargarh,Chhota Nagpur,Community,9.73,9.45,2026-08-11,Approved,0,22.11717394971817,83.94317295948746
+FRA-1742,Anita Maravi,Maharashtra,Gadchiroli,Example Village,Individual,13.52,13.65,2026-08-23,Approved,0,20.192273319699297,80.01180918939656
+FRA-1743,Pooja Pradhan,Maharashtra,Palghar,Sitapur,Individual,5.76,12.67,2026-08-18,Approved,0,19.67297913616448,72.82644008283877
+FRA-1744,Ramesh Uraon,Odisha,Kandhamal,Amrapali,Individual,11.86,11.73,2026-08-08,Approved,0,20.189012334454812,84.01069335836065
+FRA-1745,Jano Bhoi,Jharkhand,Simdega,Sunderpur,Individual,11.57,11.77,2026-05-16,Pending,101,22.553576995591285,84.45104397618404
+FRA-1746,Phulo Bhilla,Maharashtra,Palghar,Example Village,Community,1.19,1.31,2026-07-12,Pending,27,19.673797563470703,72.8422386594564
+FRA-1747,Sidhu Uraon,Jharkhand,Latehar,Bhadrapur,Community,7.17,7.32,2026-08-12,Approved,0,23.699694177323746,84.41722190700615
+FRA-1748,Kamla Maravi,Maharashtra,Yavatmal,Amrapali,Individual,13.81,22.1,2026-08-12,Approved,0,20.459218389656463,78.04094914982315
+FRA-1749,Suresh Kumar,Maharashtra,Chandrapur,Example Village,Individual,10.85,10.68,2026-08-08,Rejected,0,20.04962959231805,79.22855299539354
+FRA-1750,Sunita Soren,Odisha,Sundargarh,Chhota Nagpur,Community,11.52,11.27,2026-06-21,Pending,48,22.15003757035699,84.0598212310746
+FRA-1751,Suresh Naik,Madhya Pradesh,Dhar,Sunderpur,Community,5.93,5.73,2026-08-09,Approved,0,22.590798482296822,75.26359040059853
+FRA-1752,Pooja Soren,Chhattisgarh,Dhamtari,Example Village,Community,4.64,4.5,2026-08-06,Approved,0,20.643139280856968,81.59823103254496
+FRA-1753,Vijay Bhilla,Maharashtra,Palghar,Chhota Nagpur,Individual,2.31,2.45,2026-08-13,Approved,0,19.61536426340674,72.82432903216353
+FRA-1754,Phulo Bhoi,Chhattisgarh,Kanker,Durgapur,Individual,2.85,3.12,2026-08-11,Approved,0,20.180848900231585,81.47595340822468
+FRA-1755,Ramesh Tudu,Odisha,Rayagada,Devgaon,Individual,6.28,6.0,2026-08-25,Approved,0,19.21651682601163,83.4793709400999
+FRA-1756,Suresh Kumar,Madhya Pradesh,Dhar,Bhadrapur,Individual,14.09,14.02,2026-01-08,Pending,224,22.52325039881094,75.28009530567128
+FRA-1757,Kamla Bhilla,Jharkhand,Gumla,Chhota Nagpur,Individual,13.67,13.69,2026-04-10,Pending,134,23.064957428525453,84.52118051415793
+FRA-1758,Ramesh Uraon,Maharashtra,Yavatmal,Example Village,Individual,8.71,13.94,2026-08-23,Approved,0,20.340186977556797,78.05336218707028
+FRA-1759,Somnath Tudu,Odisha,Mayurbhanj,Rampur,Individual,12.01,12.22,2026-08-10,Approved,0,21.837858623141745,86.75373794925824
+FRA-1760,Gautam Naik,Maharashtra,Yavatmal,Chhota Nagpur,Individual,1.86,1.83,2026-08-18,Approved,0,20.405710191730723,78.20863202451275
+FRA-1761,Anita Patel,Jharkhand,Latehar,Bhadrapur,Individual,4.86,4.7,2026-05-24,Pending,74,23.776972756331592,84.53609045667324
+FRA-1762,Gautam Tudu,Madhya Pradesh,Dindori,Bhadrapur,Individual,1.41,1.34,2026-08-16,Approved,0,22.990973824275734,81.08835807126677
+FRA-1763,Sidhu Soren,Madhya Pradesh,Dhar,Sunderpur,Individual,3.9,4.08,2026-08-19,Approved,0,22.515658758128037,75.34492208624802
+FRA-1764,Radha Patel,Maharashtra,Gadchiroli,Chhota Nagpur,Individual,6.78,6.67,2025-09-24,Pending,321,20.243286997223674,79.9950809003004
+FRA-1765,Rajesh Kumar,Maharashtra,Palghar,Panchvati,Individual,13.09,12.99,2026-08-14,Approved,0,19.617195573552003,72.76676222845171
+FRA-1766,Suresh Patel,Madhya Pradesh,Dhar,Sunderpur,Individual,5.1,4.81,2026-05-24,Pending,91,22.695979479215946,75.23523076366855
+FRA-1767,Vijay Maravi,Jharkhand,Simdega,Bhadrapur,Individual,13.05,13.34,2026-08-13,Approved,0,22.67003354942827,84.59654199879478
+FRA-1768,Anita Pradhan,Jharkhand,Gumla,Devgaon,Community,4.41,4.16,2026-08-05,Approved,0,23.072499087335082,84.52525132404958
+FRA-1769,Suresh Patel,Odisha,Rayagada,Sitapur,Individual,2.5,2.35,2026-08-06,Approved,0,19.24589326384201,83.50031197496563
+FRA-1770,Somnath Tudu,Maharashtra,Yavatmal,Durgapur,Community,3.55,3.54,2026-08-05,Approved,0,20.372388818519635,78.11759026303123
+FRA-1771,Vijay Maravi,Maharashtra,Nandurbar,Sitapur,Individual,13.87,13.88,2025-10-12,Pending,316,21.382602929838907,74.32900069891807
+FRA-1772,Kanhu Uraon,Maharashtra,Nandurbar,Bhadrapur,Individual,4.87,4.69,2026-08-11,Approved,0,21.401994583192383,74.2736087175882
+FRA-1773,Ramesh Singh,Chhattisgarh,Surguja,Chandapur,Community,11.03,11.08,2026-08-23,Approved,0,23.07129331459164,83.22042673956942
+FRA-1774,Sunita Patel,Madhya Pradesh,Mandla,Kalyanpur,Individual,11.17,11.07,2026-01-15,Pending,210,22.64133300317784,80.27339861074925
+FRA-1775,Manoj Bhilla,Chhattisgarh,Bastar,Chandapur,Individual,8.81,8.78,2026-08-15,Approved,0,19.18141524110195,81.94842610328195
+FRA-1776,Birsa Uraon,Maharashtra,Yavatmal,Sunderpur,Community,8.36,8.19,2026-08-07,Approved,0,20.424311093398185,78.18852255801217
+FRA-1777,Lakshmi Soren,Madhya Pradesh,Chhindwara,Sunderpur,Community,4.1,3.85,2026-07-15,Pending,39,21.993665646250804,78.91617498519665
+FRA-1778,Gautam Pradhan,Jharkhand,Latehar,Durgapur,Community,1.73,0.86,2026-05-31,Pending,86,23.840925913133912,84.45568160475383
+FRA-1779,Gautam Kumar,Chhattisgarh,Dhamtari,Panchvati,Individual,6.75,7.0,2026-03-30,Pending,147,20.678491727944397,81.54085201708938
+FRA-1780,Kamla Tudu,Odisha,Sundargarh,Sunderpur,Individual,2.24,2.26,2026-08-23,Approved,0,22.149299431009332,84.03830765552273
+FRA-1781,Jano Maravi,Chhattisgarh,Surguja,Rampur,Community,2.7,2.87,2026-08-14,Approved,0,23.03752276836582,83.2989358953279
+FRA-1782,Sunita Pradhan,Chhattisgarh,Kanker,Devgaon,Community,3.91,4.13,2026-08-17,Approved,0,20.186867466221887,81.42466025663363
+FRA-1783,Birsa Maravi,Odisha,Mayurbhanj,Sitapur,Individual,3.09,3.14,2026-08-20,Approved,0,21.991441630667932,86.74919800868184
+FRA-1784,Ramesh Maravi,Jharkhand,Dumka,Bhadrapur,Individual,9.4,20.68,2026-08-05,Approved,0,24.307301389133393,87.34625971983053
+FRA-1785,Anita Pradhan,Jharkhand,West Singhbhum,Bhadrapur,Individual,5.01,5.28,2026-08-07,Approved,0,22.58588847341241,85.80138551278031
+FRA-1786,Jano Kumar,Madhya Pradesh,Mandla,Panchvati,Community,8.07,7.83,2026-08-16,Approved,0,22.53894090785808,80.45275612923291
+FRA-1787,Somnath Tudu,Madhya Pradesh,Dhar,Durgapur,Community,12.15,12.43,2026-08-18,Approved,0,22.67458542488999,75.30775015313718
+FRA-1788,Sidhu Uraon,Madhya Pradesh,Chhindwara,Example Village,Community,4.74,1.9,2026-03-29,Pending,146,22.12642889332976,78.95411792259542
+FRA-1789,Gautam Patel,Madhya Pradesh,Dhar,Rampur,Individual,9.97,9.8,2026-08-22,Approved,0,22.546744898959126,75.4004829284826
+FRA-1790,Pooja Pradhan,Madhya Pradesh,Mandla,Panchvati,Community,12.68,20.29,2026-08-23,Approved,0,22.59234600321466,80.46506467439208
+FRA-1791,Jano Rathwa,Madhya Pradesh,Dhar,Example Village,Community,9.75,9.63,2026-08-15,Approved,0,22.54735107842742,75.2201073461212
+FRA-1792,Ramesh Hembram,Maharashtra,Palghar,Amrapali,Individual,1.59,1.38,2026-08-25,Approved,0,19.752621613450394,72.68869415144395
+FRA-1793,Somnath Bhilla,Odisha,Kandhamal,Sunderpur,Individual,5.61,12.34,2026-08-12,Approved,0,20.29663629721331,83.91892022888236
+FRA-1794,Manoj Munda,Jharkhand,West Singhbhum,Example Village,Community,2.49,2.33,2026-08-19,Approved,0,22.613152510557654,85.81698684418726
+FRA-1795,Phulo Kumar,Chhattisgarh,Dhamtari,Chhota Nagpur,Individual,4.55,4.66,2026-08-19,Approved,0,20.62238311515686,81.53540221526866
+FRA-1796,Jano Pradhan,Odisha,Mayurbhanj,Durgapur,Community,3.46,3.22,2026-08-13,Approved,0,21.834770953504997,86.80328925885426
+FRA-1797,Birsa Bhilla,Maharashtra,Yavatmal,Bhadrapur,Community,9.87,9.63,2026-05-04,Pending,109,20.492408243909416,78.20962038206025
+FRA-1798,Birsa Hembram,Maharashtra,Chandrapur,Sunderpur,Community,14.03,14.06,2026-08-17,Approved,0,19.874188670243736,79.29925541360008
+FRA-1799,Radha Maravi,Jharkhand,Simdega,Bhadrapur,Community,8.41,8.68,2026-08-15,Approved,0,22.538478895013462,84.42095513077281
+FRA-1800,Babu Munda,Jharkhand,Gumla,Example Village,Individual,8.64,8.57,2026-08-06,Approved,0,23.02594427230161,84.51461895609613
+FRA-1801,Sidhu Tudu,Madhya Pradesh,Dhar,Bhadrapur,Community,2.25,2.11,2026-08-18,Approved,0,22.60432271590835,75.35583137148366
+FRA-1802,Pooja Singh,Odisha,Kandhamal,Durgapur,Individual,13.49,13.23,2026-08-25,Approved,0,20.210419654636173,83.92210857495412
+FRA-1803,Gautam Kumar,Chhattisgarh,Dhamtari,Kalyanpur,Individual,6.98,7.04,2026-05-27,Pending,78,20.632623245827595,81.64438210440737
+FRA-1804,Anita Pradhan,Maharashtra,Palghar,Chhota Nagpur,Individual,13.76,13.51,2026-08-15,Approved,0,19.618246148376425,72.78975483331769
+FRA-1805,Pooja Munda,Maharashtra,Yavatmal,Example Village,Individual,14.59,14.83,2026-04-20,Pending,107,20.448069109183763,78.20103371327006
+FRA-1806,Devi Uraon,Maharashtra,Palghar,Sitapur,Individual,14.88,14.7,2025-11-06,Pending,291,19.623860160467824,72.68230180410828
+FRA-1807,Jano Rathwa,Maharashtra,Gadchiroli,Bhadrapur,Individual,2.42,2.38,2026-08-11,Approved,0,20.272306989480693,80.06087176470864
+FRA-1808,Sunita Bhilla,Madhya Pradesh,Dhar,Panchvati,Community,4.28,4.05,2026-05-21,Pending,84,22.52071745231454,75.31120573360215
+FRA-1809,Sidhu Bhilla,Madhya Pradesh,Chhindwara,Chhota Nagpur,Individual,1.32,0.66,2026-08-23,Approved,0,22.10319682832825,78.97110136584597
+FRA-1810,Sidhu Munda,Chhattisgarh,Dhamtari,Kalyanpur,Individual,5.61,5.74,2026-08-25,Approved,0,20.6427401702487,81.60255973378061
+FRA-1811,Phulo Soren,Jharkhand,Latehar,Sitapur,Individual,2.74,2.9,2026-06-18,Pending,58,23.835169893766118,84.49665024842078
+FRA-1812,Jano Naik,Maharashtra,Palghar,Chhota Nagpur,Community,6.93,6.76,2026-08-25,Approved,0,19.682230231438812,72.78012824987282
+FRA-1813,Manoj Uraon,Chhattisgarh,Dhamtari,Kalyanpur,Individual,1.04,2.29,2026-04-03,Pending,135,20.792614244152062,81.45039303903776
+FRA-1814,Sunita Patel,Chhattisgarh,Surguja,Sitapur,Community,9.4,9.58,2026-08-25,Approved,0,23.111796803723905,83.1936267230082
+FRA-1815,Suresh Kumar,Chhattisgarh,Dhamtari,Kalyanpur,Individual,3.66,3.66,2026-04-14,Pending,115,20.72328451453786,81.49891264083396
+FRA-1816,Phulo Pradhan,Jharkhand,Gumla,Kalyanpur,Individual,3.46,3.64,2026-08-12,Rejected,0,23.12681900663355,84.52204662996363
+FRA-1817,Sunita Soren,Chhattisgarh,Bastar,Kalyanpur,Community,3.48,3.74,2026-08-12,Approved,0,19.12257265193121,81.93006319426082
+FRA-1818,Ramesh Tudu,Chhattisgarh,Kanker,Amrapali,Individual,8.11,7.92,2026-08-07,Approved,0,20.32040149501576,81.4840928377316
+FRA-1819,Ramesh Maravi,Maharashtra,Gadchiroli,Chhota Nagpur,Community,14.92,14.73,2026-08-21,Approved,0,20.12069157753473,79.97357808896838
+FRA-1820,Gautam Maravi,Maharashtra,Chandrapur,Sunderpur,Community,11.55,11.6,2026-08-13,Approved,0,19.892166479326104,79.2570015000644
+FRA-1821,Devi Singh,Odisha,Mayurbhanj,Sunderpur,Community,5.0,8.0,2026-03-24,Pending,142,21.978560776986072,86.6407840101947
+FRA-1822,Kanhu Bhilla,Odisha,Sundargarh,Sunderpur,Community,14.67,14.84,2026-08-12,Approved,0,22.098618604201047,83.95148663164868
+FRA-1823,Phulo Uraon,Odisha,Kandhamal,Chhota Nagpur,Individual,5.26,4.97,2026-08-21,Rejected,0,20.26101266232587,84.04832105599267
+FRA-1824,Devi Tudu,Maharashtra,Chandrapur,Sunderpur,Community,14.31,14.21,2026-08-18,Approved,0,19.890278238312874,79.21211905483625
+FRA-1825,Suresh Maravi,Chhattisgarh,Rajnandgaon,Sunderpur,Community,12.14,11.91,2026-08-17,Approved,0,21.165757023339726,81.0867832244177
+FRA-1826,Anita Bhoi,Madhya Pradesh,Chhindwara,Bhadrapur,Individual,9.93,9.98,2026-06-24,Pending,52,21.98253220244694,78.84478329914552
+FRA-1827,Pooja Singh,Maharashtra,Gadchiroli,Example Village,Individual,7.45,7.45,2026-07-07,Pending,46,20.20310720695028,79.92863591014573
+FRA-1828,Gautam Tudu,Madhya Pradesh,Dindori,Chandapur,Individual,6.39,6.25,2026-08-15,Approved,0,23.043182443544453,80.99967078285233
+FRA-1829,Devi Gond,Madhya Pradesh,Chhindwara,Example Village,Community,8.21,8.09,2026-03-24,Pending,134,22.022400510426998,78.8943720760537
+FRA-1830,Phulo Rathwa,Jharkhand,West Singhbhum,Kalyanpur,Community,14.76,14.99,2026-08-11,Approved,0,22.6489975975797,85.70779613133524
+FRA-1831,Sidhu Singh,Odisha,Rayagada,Sunderpur,Community,3.1,3.05,2026-08-15,Approved,0,19.157983186394517,83.42040257795799
+FRA-1832,Babu Kumar,Jharkhand,Gumla,Devgaon,Individual,14.6,14.73,2026-08-08,Approved,0,23.095896783375114,84.45060279018428
+FRA-1833,Vijay Soren,Odisha,Koraput,Sitapur,Community,14.83,14.85,2026-08-09,Approved,0,18.718769891361802,82.6464948306084
+FRA-1834,Vijay Naik,Odisha,Rayagada,Chandapur,Individual,4.25,4.23,2026-08-12,Approved,0,19.11659372207228,83.4951305077002
+FRA-1835,Sidhu Hembram,Jharkhand,Dumka,Example Village,Individual,9.67,9.4,2026-08-18,Approved,0,24.168219207374356,87.15784863527524
+FRA-1836,Vijay Naik,Jharkhand,West Singhbhum,Kalyanpur,Community,8.85,8.64,2026-08-12,Approved,0,22.569045041181575,85.78745819683756
+FRA-1837,Kamla Patel,Madhya Pradesh,Dindori,Bhadrapur,Individual,6.55,6.83,2026-08-16,Rejected,0,22.977134646619007,81.07802354135028
+FRA-1838,Manoj Maravi,Odisha,Kandhamal,Amrapali,Community,9.01,9.25,2026-08-18,Approved,0,20.272200307961846,84.0289833515283
+FRA-1839,Somnath Pradhan,Chhattisgarh,Bastar,Kalyanpur,Individual,2.27,2.52,2026-08-09,Approved,0,19.060089885044036,81.88008093989754
+FRA-1840,Pooja Gond,Madhya Pradesh,Dindori,Sunderpur,Community,5.06,4.87,2026-07-29,Pending,16,22.93720416928786,80.99429188987472
+FRA-1841,Jano Pradhan,Odisha,Koraput,Chhota Nagpur,Individual,4.3,4.48,2026-05-08,Pending,95,18.81936508743117,82.71738981807313
+FRA-1842,Birsa Pradhan,Odisha,Koraput,Durgapur,Individual,5.64,5.87,2026-08-13,Approved,0,18.908920320510767,82.7020426990045
+FRA-1843,Kanhu Uraon,Chhattisgarh,Dhamtari,Chandapur,Individual,13.2,13.0,2026-02-03,Pending,192,20.80857765582368,81.53160814534688
+FRA-1844,Somnath Naik,Madhya Pradesh,Dindori,Devgaon,Individual,9.17,9.39,2026-07-11,Pending,30,23.039639195322806,81.05662195905646
+FRA-1845,Suresh Naik,Chhattisgarh,Rajnandgaon,Amrapali,Community,10.02,22.04,2026-08-21,Approved,0,21.183803484064146,81.06040816440493
+FRA-1846,Kanhu Rathwa,Chhattisgarh,Bastar,Panchvati,Community,5.95,5.84,2026-08-16,Approved,0,19.048275145379755,81.88542408630374
+FRA-1847,Somnath Bhoi,Madhya Pradesh,Dindori,Sunderpur,Individual,10.29,10.28,2025-11-28,Pending,257,23.04021286155027,81.09752627796156
+FRA-1848,Radha Maravi,Maharashtra,Chandrapur,Sunderpur,Individual,13.21,13.44,2026-08-16,Approved,0,19.873701883706328,79.25566115526205
+FRA-1849,Babu Pradhan,Maharashtra,Palghar,Chandapur,Individual,12.56,12.33,2026-08-16,Rejected,0,19.66105185737644,72.77713112351064
+FRA-1850,Pooja Kumar,Maharashtra,Chandrapur,Devgaon,Individual,9.66,9.78,2026-08-11,Rejected,0,19.91261300380824,79.32179070840472
+FRA-1851,Sidhu Kumar,Madhya Pradesh,Balaghat,Sunderpur,Community,11.47,18.35,2026-08-06,Approved,0,21.862396872266007,80.2509787553472
+FRA-1852,Sidhu Hembram,Madhya Pradesh,Chhindwara,Chandapur,Individual,9.33,4.67,2026-08-15,Approved,0,22.062709518448482,78.88362555294574
+FRA-1853,Kanhu Munda,Chhattisgarh,Surguja,Chandapur,Individual,12.8,13.05,2026-08-17,Approved,0,23.158681330375206,83.21849645637329
+FRA-1854,Radha Singh,Chhattisgarh,Bastar,Devgaon,Individual,9.95,10.12,2026-08-17,Approved,0,19.02422892284214,82.03000431065898
+FRA-1855,Birsa Naik,Jharkhand,West Singhbhum,Durgapur,Individual,4.23,6.77,2026-08-15,Rejected,0,22.578831548229733,85.79881317853317
+FRA-1856,Sidhu Tudu,Madhya Pradesh,Dindori,Chhota Nagpur,Community,4.39,4.43,2026-08-08,Approved,0,22.91055281468217,81.07877331954963
+FRA-1857,Radha Hembram,Chhattisgarh,Rajnandgaon,Chhota Nagpur,Community,7.21,6.92,2026-08-05,Approved,0,21.132486863298663,81.10391800384333
+FRA-1858,Devi Patel,Chhattisgarh,Rajnandgaon,Kalyanpur,Community,5.57,5.75,2026-08-21,Approved,0,21.01199213727031,80.9679692278762
+FRA-1859,Anita Kumar,Jharkhand,Latehar,Bhadrapur,Community,13.22,13.26,2026-04-01,Pending,145,23.72169907092082,84.56013050646024
+FRA-1860,Suresh Gond,Jharkhand,West Singhbhum,Sunderpur,Individual,10.12,10.13,2026-08-08,Approved,0,22.66509125233105,85.8984120423256
+FRA-1861,Jano Hembram,Chhattisgarh,Dhamtari,Sunderpur,Individual,9.12,9.09,2026-08-13,Approved,0,20.795550050142296,81.58382978564876
+FRA-1862,Anita Hembram,Jharkhand,Dumka,Example Village,Individual,12.88,13.03,2026-08-17,Approved,0,24.281779558287415,87.18697759346873
+FRA-1863,Babu Hembram,Chhattisgarh,Rajnandgaon,Amrapali,Individual,6.6,6.75,2026-08-17,Approved,0,21.07006024497398,81.10294364224045
+FRA-1864,Kamla Tudu,Chhattisgarh,Dhamtari,Sunderpur,Individual,12.88,13.15,2026-08-25,Approved,0,20.764241098558355,81.63075488052723
+FRA-1865,Kanhu Maravi,Jharkhand,West Singhbhum,Devgaon,Individual,11.1,11.31,2026-07-05,Pending,31,22.65696200121209,85.84395532932479
+FRA-1866,Suresh Uraon,Chhattisgarh,Rajnandgaon,Devgaon,Community,7.07,7.2,2026-08-13,Rejected,0,21.080456400379067,81.05179113901391
+FRA-1867,Gautam Pradhan,Odisha,Rayagada,Sitapur,Community,3.48,5.57,2026-07-07,Pending,44,19.09938644014111,83.40068624493506
+FRA-1868,Vijay Maravi,Odisha,Koraput,Durgapur,Community,13.26,13.04,2026-08-23,Rejected,0,18.767865358163718,82.64477481565915
+FRA-1869,Lakshmi Rathwa,Jharkhand,Dumka,Chandapur,Individual,2.87,3.03,2026-08-16,Rejected,0,24.321336968229392,87.26692751506468
+FRA-1870,Sunita Kumar,Maharashtra,Nandurbar,Devgaon,Individual,13.97,14.08,2026-08-07,Approved,0,21.463786669222678,74.31433213904639
+FRA-1871,Kamla Soren,Madhya Pradesh,Dindori,Rampur,Individual,4.86,4.57,2026-08-20,Approved,0,22.921180071132326,81.16423735921632
+FRA-1872,Kanhu Kumar,Jharkhand,Gumla,Kalyanpur,Individual,8.82,9.11,2026-08-21,Approved,0,23.06641328657519,84.4650090879048
+FRA-1873,Devi Maravi,Odisha,Sundargarh,Example Village,Community,12.37,27.21,2026-08-06,Rejected,0,22.03316981275564,84.02712097184796
+FRA-1874,Phulo Gond,Chhattisgarh,Rajnandgaon,Example Village,Individual,2.3,2.35,2026-04-17,Pending,123,21.092618801235492,81.07846680719553
+FRA-1875,Babu Bhoi,Madhya Pradesh,Mandla,Rampur,Community,10.31,10.06,2026-08-18,Rejected,0,22.58394883606386,80.36802626614349
+FRA-1876,Manoj Hembram,Maharashtra,Yavatmal,Devgaon,Community,14.38,14.31,2026-08-10,Rejected,0,20.493043982071885,78.14801991382792
+FRA-1877,Kanhu Patel,Jharkhand,Dumka,Durgapur,Community,8.62,8.5,2026-08-21,Approved,0,24.274682374605735,87.26543939843918
+FRA-1878,Sidhu Patel,Jharkhand,Latehar,Bhadrapur,Individual,14.25,7.12,2026-03-11,Pending,148,23.80446788415061,84.55150222377844
+FRA-1879,Anita Tudu,Chhattisgarh,Kanker,Devgaon,Individual,1.82,1.75,2026-08-22,Approved,0,20.20462303665948,81.53207887962536
+FRA-1880,Sidhu Soren,Maharashtra,Gadchiroli,Sunderpur,Community,1.03,0.88,2026-08-05,Approved,0,20.22200831311166,79.98786411715297
+FRA-1881,Kanhu Bhilla,Chhattisgarh,Dhamtari,Sunderpur,Individual,6.31,6.22,2026-08-22,Approved,0,20.707539660345905,81.58818451454489
+FRA-1882,Kanhu Soren,Maharashtra,Yavatmal,Kalyanpur,Individual,14.12,13.85,2025-10-26,Pending,288,20.459504831340805,78.03880803591039
+FRA-1883,Gautam Naik,Jharkhand,Gumla,Devgaon,Community,9.55,15.28,2026-08-19,Approved,0,23.06751888417487,84.60564795580369
+FRA-1884,Sunita Munda,Chhattisgarh,Surguja,Sitapur,Individual,14.27,14.22,2026-07-17,Pending,31,23.118680947916705,83.13639877703295
+FRA-1885,Gautam Bhoi,Chhattisgarh,Bastar,Chhota Nagpur,Community,4.9,4.83,2026-08-15,Approved,0,19.124241586393552,81.94248722524813
+FRA-1886,Suresh Maravi,Odisha,Rayagada,Bhadrapur,Individual,1.69,1.57,2026-08-25,Approved,0,19.07479640322507,83.45997163196394
+FRA-1887,Phulo Rathwa,Maharashtra,Gadchiroli,Bhadrapur,Individual,12.18,12.1,2026-08-15,Approved,0,20.16245937081347,79.90782802453538
+FRA-1888,Kamla Gond,Maharashtra,Nandurbar,Durgapur,Individual,4.58,4.43,2026-08-19,Rejected,0,21.280723163895033,74.23093736619246
+FRA-1889,Rajesh Tudu,Chhattisgarh,Dhamtari,Durgapur,Community,5.43,5.65,2026-08-09,Approved,0,20.615551254409105,81.5656416292069
+FRA-1890,Vijay Patel,Chhattisgarh,Dhamtari,Bhadrapur,Community,8.82,9.08,2026-08-10,Approved,0,20.67957873215194,81.47993001824253
+FRA-1891,Birsa Soren,Madhya Pradesh,Dhar,Sitapur,Individual,5.93,5.76,2026-04-15,Pending,119,22.55569754311103,75.31850746123357
+FRA-1892,Gautam Munda,Madhya Pradesh,Dindori,Amrapali,Community,13.52,13.78,2026-08-13,Approved,0,22.867912484618092,81.1588177172314
+FRA-1893,Pooja Kumar,Chhattisgarh,Surguja,Rampur,Individual,14.93,14.78,2026-05-22,Pending,89,23.052784949585405,83.2257815181943
+FRA-1894,Gautam Hembram,Chhattisgarh,Dhamtari,Sitapur,Community,14.88,15.13,2026-08-19,Approved,0,20.696170914292956,81.49193239674275
+FRA-1895,Somnath Tudu,Maharashtra,Palghar,Devgaon,Individual,11.53,11.77,2026-08-17,Approved,0,19.628988404139392,72.80465271446593
+FRA-1896,Devi Munda,Maharashtra,Nandurbar,Sitapur,Individual,13.26,13.24,2026-08-25,Approved,0,21.335720218441903,74.34496267213339
+FRA-1897,Anita Munda,Madhya Pradesh,Chhindwara,Rampur,Individual,8.11,8.12,2026-04-18,Pending,124,22.084777323751243,78.9655527366831
+FRA-1898,Jano Maravi,Madhya Pradesh,Chhindwara,Durgapur,Community,10.99,10.84,2026-08-12,Approved,0,21.994647499087225,78.97811368746986
+FRA-1899,Lakshmi Bhoi,Maharashtra,Chandrapur,Kalyanpur,Individual,14.02,13.85,2026-08-13,Approved,0,19.97295086952065,79.26215732898385
+FRA-1900,Birsa Gond,Maharashtra,Gadchiroli,Sunderpur,Community,7.31,7.41,2026-08-23,Rejected,0,20.25603861571047,79.94016334567273
+FRA-1901,Birsa Soren,Maharashtra,Nandurbar,Amrapali,Community,13.28,13.18,2026-08-11,Approved,0,21.4379023879925,74.3456476539797
+FRA-1902,Sidhu Kumar,Jharkhand,West Singhbhum,Sitapur,Individual,9.74,9.65,2026-08-24,Rejected,0,22.52032481621632,85.78415160120943
+FRA-1903,Sidhu Singh,Madhya Pradesh,Balaghat,Sunderpur,Individual,7.38,7.3,2026-08-25,Approved,0,21.909729406543256,80.11076120608692
+FRA-1904,Vijay Soren,Madhya Pradesh,Chhindwara,Rampur,Community,1.52,3.34,2026-08-17,Approved,0,22.122139895996654,78.84689740712811
+FRA-1905,Phulo Gond,Maharashtra,Palghar,Rampur,Individual,8.86,8.79,2026-07-04,Pending,37,19.612189517193123,72.7902655214859
+FRA-1906,Sunita Bhoi,Chhattisgarh,Surguja,Panchvati,Community,2.58,2.32,2026-08-16,Approved,0,23.211769134266387,83.12725239011998
+FRA-1907,Birsa Pradhan,Odisha,Koraput,Example Village,Individual,5.03,5.18,2026-08-18,Approved,0,18.855382615420233,82.6311062094623
+FRA-1908,Kamla Pradhan,Maharashtra,Yavatmal,Example Village,Individual,4.08,2.04,2026-03-31,Pending,127,20.31883350404739,78.19309680587185
+FRA-1909,Pooja Bhilla,Chhattisgarh,Dhamtari,Panchvati,Individual,10.06,5.03,2026-08-07,Approved,0,20.79901810775651,81.61635488940107
+FRA-1910,Jano Kumar,Maharashtra,Chandrapur,Chhota Nagpur,Community,2.87,3.05,2026-08-17,Approved,0,19.881424408571426,79.20487530164058
+FRA-1911,Gautam Naik,Chhattisgarh,Bastar,Panchvati,Individual,10.71,10.57,2025-08-24,Pending,360,19.17787266721193,81.9254696349509
+FRA-1912,Devi Kumar,Jharkhand,Simdega,Bhadrapur,Individual,10.1,10.32,2026-08-05,Approved,0,22.55043529332959,84.42178037481699
+FRA-1913,Anita Kumar,Chhattisgarh,Dhamtari,Amrapali,Individual,6.49,2.6,2026-08-09,Approved,0,20.809320475408676,81.6208374830414
+FRA-1914,Lakshmi Hembram,Jharkhand,West Singhbhum,Devgaon,Community,8.76,8.77,2026-08-25,Approved,0,22.568058957531022,85.79178355383611
+FRA-1915,Ramesh Gond,Odisha,Rayagada,Rampur,Individual,14.18,14.28,2026-08-15,Approved,0,19.113020219763474,83.45930558776028
+FRA-1916,Ramesh Bhilla,Maharashtra,Yavatmal,Devgaon,Individual,1.92,1.91,2026-08-08,Approved,0,20.453987345908903,78.20440375512507
+FRA-1917,Suresh Naik,Madhya Pradesh,Balaghat,Durgapur,Community,4.36,4.4,2026-08-16,Approved,0,21.807619552458622,80.27719106556408
+FRA-1918,Devi Patel,Jharkhand,Dumka,Amrapali,Community,2.29,2.55,2026-08-23,Approved,0,24.170990817084224,87.29504334003347
+FRA-1919,Phulo Bhoi,Madhya Pradesh,Chhindwara,Durgapur,Community,14.87,14.65,2026-08-09,Approved,0,21.977768085157017,78.95367123403067
+FRA-1920,Sunita Tudu,Chhattisgarh,Surguja,Durgapur,Community,6.18,6.44,2026-08-11,Rejected,0,23.027207760302687,83.169072150146
+FRA-1921,Manoj Soren,Odisha,Rayagada,Chhota Nagpur,Individual,1.26,2.02,2025-11-02,Pending,287,19.119928475230275,83.44828746852643
+FRA-1922,Kanhu Maravi,Maharashtra,Palghar,Kalyanpur,Community,7.64,7.48,2026-08-21,Approved,0,19.61633235159384,72.77520374347824
+FRA-1923,Sidhu Tudu,Jharkhand,Dumka,Durgapur,Individual,2.76,2.84,2026-04-12,Pending,124,24.19863040031122,87.22000691802585
+FRA-1924,Birsa Pradhan,Madhya Pradesh,Dhar,Sitapur,Individual,2.87,2.83,2026-08-21,Approved,0,22.645202427309105,75.30843894783447
+FRA-1925,Pooja Pradhan,Maharashtra,Palghar,Amrapali,Individual,9.36,9.14,2026-08-13,Approved,0,19.6164709429304,72.79519659074195
+FRA-1926,Anita Singh,Maharashtra,Palghar,Rampur,Community,1.22,1.09,2026-06-29,Pending,54,19.647494504425648,72.68444072114906
+FRA-1927,Devi Bhilla,Maharashtra,Nandurbar,Durgapur,Individual,1.66,1.7,2026-08-13,Approved,0,21.348348105206444,74.26069413341102
+FRA-1928,Kamla Kumar,Maharashtra,Chandrapur,Rampur,Individual,10.09,10.09,2025-12-25,Pending,231,19.98474095307166,79.3808497570564
+FRA-1929,Radha Soren,Chhattisgarh,Rajnandgaon,Example Village,Community,4.51,4.68,2026-08-11,Approved,0,21.129466224170027,81.044157035258
+FRA-1930,Kanhu Munda,Madhya Pradesh,Dindori,Example Village,Community,7.4,7.14,2026-04-04,Pending,141,22.858605378184627,81.11852082302615
+FRA-1931,Pooja Singh,Maharashtra,Nandurbar,Rampur,Individual,6.07,6.12,2026-08-14,Approved,0,21.278043894123673,74.22549748584356
+FRA-1932,Phulo Uraon,Madhya Pradesh,Dhar,Example Village,Community,13.11,12.97,2026-08-08,Approved,0,22.63447372248623,75.30729968763269
+FRA-1933,Devi Bhilla,Madhya Pradesh,Chhindwara,Panchvati,Individual,6.22,6.03,2026-06-07,Pending,76,21.968421073774525,79.00748423284794
+FRA-1934,Kamla Pradhan,Chhattisgarh,Kanker,Amrapali,Individual,6.22,5.94,2026-08-16,Approved,0,20.235409888932953,81.55249114280845
+FRA-1935,Ramesh Bhoi,Chhattisgarh,Surguja,Sitapur,Community,7.56,7.42,2026-08-10,Approved,0,23.1608316684737,83.24770973189663
+FRA-1936,Kamla Tudu,Odisha,Koraput,Bhadrapur,Community,8.4,8.42,2026-01-30,Pending,199,18.80981633054536,82.7993750818419
+FRA-1937,Babu Soren,Jharkhand,Simdega,Devgaon,Community,13.02,12.87,2026-08-17,Approved,0,22.605797279613828,84.5641430083188
+FRA-1938,Vijay Uraon,Madhya Pradesh,Mandla,Bhadrapur,Community,7.12,6.83,2026-06-15,Pending,66,22.652796477975176,80.31685186847082
+FRA-1939,Ramesh Hembram,Jharkhand,Gumla,Kalyanpur,Individual,7.15,6.94,2026-08-10,Approved,0,23.068782316053298,84.49043406928044
+FRA-1940,Lakshmi Maravi,Madhya Pradesh,Balaghat,Devgaon,Community,2.62,2.51,2026-08-05,Approved,0,21.86552791572946,80.21718042829539
+FRA-1941,Ramesh Bhilla,Chhattisgarh,Kanker,Example Village,Community,5.62,5.46,2026-08-12,Rejected,0,20.250255890158684,81.55668341357462
+FRA-1942,Jano Kumar,Maharashtra,Nandurbar,Bhadrapur,Community,3.25,3.42,2026-08-16,Approved,0,21.3765823120218,74.21833314591632
+FRA-1943,Rajesh Singh,Jharkhand,Gumla,Amrapali,Community,3.16,3.24,2026-05-25,Pending,89,23.0419747479074,84.56565333412716
+FRA-1944,Gautam Uraon,Jharkhand,Dumka,Devgaon,Individual,10.23,10.04,2026-08-22,Approved,0,24.178288221328735,87.27643506475702
+FRA-1945,Gautam Singh,Madhya Pradesh,Dhar,Chandapur,Community,6.63,6.71,2026-08-22,Approved,0,22.581132829204318,75.2043388679819
+FRA-1946,Ramesh Bhoi,Madhya Pradesh,Dindori,Bhadrapur,Individual,12.56,12.59,2026-08-20,Rejected,0,22.920941064785115,81.03288916918217
+FRA-1947,Ramesh Naik,Maharashtra,Nandurbar,Sunderpur,Individual,5.11,5.22,2026-08-12,Approved,0,21.423768912888452,74.2781616155595
+FRA-1948,Somnath Singh,Maharashtra,Chandrapur,Amrapali,Community,4.31,4.05,2026-08-11,Approved,0,20.01596784116206,79.37352130314973
+FRA-1949,Pooja Naik,Jharkhand,Dumka,Rampur,Individual,9.1,9.3,2026-08-22,Approved,0,24.249033798008732,87.32976670678535
+FRA-1950,Vijay Pradhan,Jharkhand,Dumka,Chandapur,Individual,12.42,12.21,2026-08-24,Approved,0,24.295749690284893,87.28276111219795
+FRA-1951,Kanhu Uraon,Madhya Pradesh,Dindori,Rampur,Community,8.1,8.39,2026-08-13,Approved,0,22.93150770581045,81.0509968022959
+FRA-1952,Ramesh Maravi,Jharkhand,Dumka,Durgapur,Community,12.76,12.73,2026-08-11,Approved,0,24.318962122667127,87.16659927645465
+FRA-1953,Jano Patel,Jharkhand,Latehar,Durgapur,Community,7.98,8.23,2026-08-12,Approved,0,23.66074185654802,84.565036961391
+FRA-1954,Birsa Bhilla,Madhya Pradesh,Dhar,Rampur,Individual,8.26,8.48,2026-04-23,Pending,113,22.580300805986464,75.31022540249386
+FRA-1955,Suresh Bhoi,Madhya Pradesh,Chhindwara,Panchvati,Individual,8.72,8.47,2026-08-13,Approved,0,22.142264066608828,78.99398423200992
+FRA-1956,Suresh Gond,Jharkhand,Simdega,Devgaon,Community,10.68,4.27,2026-05-31,Pending,72,22.606789909338808,84.60187852426334
+FRA-1957,Lakshmi Maravi,Madhya Pradesh,Dhar,Kalyanpur,Individual,14.79,5.92,2026-08-21,Approved,0,22.552640727119176,75.22815056217088
+FRA-1958,Suresh Bhilla,Maharashtra,Yavatmal,Bhadrapur,Community,13.71,13.98,2026-08-18,Approved,0,20.494749727436236,78.03659418942144
+FRA-1959,Sunita Rathwa,Jharkhand,Simdega,Sitapur,Individual,5.69,5.95,2026-08-20,Approved,0,22.565557972848975,84.59308895997351
+FRA-1960,Pooja Singh,Jharkhand,Gumla,Chhota Nagpur,Community,6.31,6.06,2025-09-22,Pending,329,22.946916395968643,84.51533213606083
+FRA-1961,Sidhu Bhoi,Odisha,Koraput,Chandapur,Individual,5.71,5.87,2026-08-09,Approved,0,18.779417390654036,82.8060771455976
+FRA-1962,Somnath Hembram,Odisha,Rayagada,Panchvati,Community,2.25,2.15,2026-08-07,Approved,0,19.089647274758665,83.38690872676236
+FRA-1963,Jano Bhoi,Chhattisgarh,Rajnandgaon,Chhota Nagpur,Individual,8.01,8.12,2026-08-16,Approved,0,21.139320780902562,81.06874996944839
+FRA-1964,Vijay Kumar,Madhya Pradesh,Mandla,Amrapali,Community,9.8,3.92,2026-08-18,Approved,0,22.669499122781087,80.31975657570585
+FRA-1965,Gautam Naik,Jharkhand,Latehar,Amrapali,Community,3.91,4.14,2026-08-06,Approved,0,23.643967638040444,84.59201921928086
+FRA-1966,Phulo Bhilla,Jharkhand,Simdega,Chandapur,Community,3.39,3.31,2026-08-10,Approved,0,22.665872647774155,84.42626653734246
+FRA-1967,Radha Soren,Maharashtra,Chandrapur,Chandapur,Individual,11.9,11.6,2026-08-15,Approved,0,19.912763177373165,79.28646141788472
+FRA-1968,Phulo Bhilla,Jharkhand,Simdega,Kalyanpur,Individual,1.26,0.5,2026-08-21,Approved,0,22.543257861965515,84.54327828451402
+FRA-1969,Kanhu Pradhan,Chhattisgarh,Rajnandgaon,Devgaon,Individual,6.03,6.0,2026-08-21,Rejected,0,21.15419501996809,81.0066140557745
+FRA-1970,Manoj Uraon,Maharashtra,Gadchiroli,Chhota Nagpur,Individual,3.05,2.88,2026-08-11,Approved,0,20.136362988199462,79.92240722455837
+FRA-1971,Rajesh Patel,Jharkhand,Simdega,Panchvati,Community,3.85,4.0,2026-08-14,Approved,0,22.54544670309104,84.49760660353671
+FRA-1972,Kamla Maravi,Jharkhand,Simdega,Chandapur,Individual,2.52,5.54,2026-08-08,Approved,0,22.574505250592086,84.59040640355181
+FRA-1973,Suresh Munda,Chhattisgarh,Rajnandgaon,Rampur,Individual,10.17,10.2,2026-08-11,Approved,0,21.145772223145645,81.11800381630023
+FRA-1974,Radha Rathwa,Jharkhand,Dumka,Sunderpur,Individual,11.27,11.07,2026-08-25,Approved,0,24.294424271587964,87.25885544295102
+FRA-1975,Sunita Singh,Odisha,Sundargarh,Chandapur,Individual,12.16,12.04,2026-06-10,Pending,76,22.03743067693531,83.985502122443
+FRA-1976,Somnath Soren,Jharkhand,Gumla,Chhota Nagpur,Community,9.48,9.74,2026-03-27,Pending,134,23.107843859575816,84.59612623274614
+FRA-1977,Radha Patel,Chhattisgarh,Dhamtari,Sitapur,Community,9.92,10.04,2026-08-08,Approved,0,20.61025635152478,81.61989426970752
+FRA-1978,Rajesh Gond,Chhattisgarh,Bastar,Chhota Nagpur,Individual,14.95,15.25,2026-08-10,Approved,0,19.09176897597039,81.88287993192179
+FRA-1979,Kamla Soren,Jharkhand,Simdega,Durgapur,Community,3.38,3.36,2026-08-21,Approved,0,22.537596678963983,84.43122901980115
+FRA-1980,Pooja Pradhan,Jharkhand,Simdega,Panchvati,Individual,7.42,7.26,2026-06-02,Pending,64,22.669262253089542,84.58982516593132
+FRA-1981,Babu Kumar,Madhya Pradesh,Dhar,Chhota Nagpur,Community,7.29,7.43,2026-08-25,Rejected,0,22.648856259775417,75.2946543217277
+FRA-1982,Kanhu Gond,Madhya Pradesh,Dindori,Example Village,Community,13.59,13.76,2026-08-22,Approved,0,22.90343643670348,81.06598676987586
+FRA-1983,Kanhu Naik,Jharkhand,Latehar,Panchvati,Community,7.43,7.38,2026-06-22,Pending,62,23.76754432990288,84.47752554577633
+FRA-1984,Ramesh Bhoi,Chhattisgarh,Bastar,Sunderpur,Individual,11.13,10.91,2026-08-25,Approved,0,19.05264569764903,81.87298792977357
+FRA-1985,Suresh Kumar,Odisha,Mayurbhanj,Bhadrapur,Individual,1.69,2.7,2026-08-22,Approved,0,21.926529539665,86.70943186952893
+FRA-1986,Jano Gond,Jharkhand,West Singhbhum,Sunderpur,Community,11.3,11.05,2026-08-24,Approved,0,22.612334690078466,85.87678796703779
+FRA-1987,Vijay Singh,Odisha,Kandhamal,Chhota Nagpur,Individual,13.73,13.66,2026-05-21,Pending,81,20.291322187348808,83.93901583938123
+FRA-1988,Suresh Hembram,Chhattisgarh,Surguja,Durgapur,Individual,2.75,2.83,2026-08-21,Approved,0,23.081439390375373,83.15017821656882
+FRA-1989,Lakshmi Naik,Chhattisgarh,Bastar,Durgapur,Community,8.64,4.32,2026-08-11,Approved,0,19.062882512022153,82.02215118737475
+FRA-1990,Suresh Gond,Maharashtra,Chandrapur,Sitapur,Community,9.57,9.35,2026-08-15,Approved,0,19.86134611382991,79.20395183666353
+FRA-1991,Manoj Naik,Odisha,Koraput,Example Village,Community,7.18,7.09,2026-08-09,Approved,0,18.795924026481288,82.67862158873507
+FRA-1992,Birsa Bhoi,Odisha,Mayurbhanj,Devgaon,Individual,7.31,7.06,2026-08-09,Approved,0,22.012459144473205,86.67687434260792
+FRA-1993,Radha Patel,Odisha,Mayurbhanj,Sitapur,Community,1.34,1.19,2026-08-10,Approved,0,21.87566728415922,86.71256875320886
+FRA-1994,Somnath Rathwa,Madhya Pradesh,Dindori,Devgaon,Community,3.78,1.51,2025-09-08,Pending,333,22.862260532840956,81.06052596261483
+FRA-1995,Radha Naik,Jharkhand,Latehar,Example Village,Community,2.69,2.63,2026-08-17,Approved,0,23.780301833287208,84.41585589982171
+FRA-1996,Jano Kumar,Jharkhand,Simdega,Amrapali,Individual,11.99,12.19,2026-08-22,Approved,0,22.52724318621822,84.57305390603952
+FRA-1997,Kamla Bhilla,Jharkhand,Simdega,Bhadrapur,Individual,12.19,12.11,2026-08-19,Approved,0,22.674421508110214,84.49746304719469
+FRA-1998,Sidhu Kumar,Chhattisgarh,Bastar,Panchvati,Individual,9.37,9.35,2026-08-06,Approved,0,19.049715540254848,82.00952436786595
+FRA-1999,Jano Munda,Chhattisgarh,Bastar,Kalyanpur,Individual,9.5,9.53,2026-06-03,Pending,79,19.05964733561214,81.919916384355
+FRA-2000,Phulo Munda,Madhya Pradesh,Dhar,Bhadrapur,Individual,2.92,2.95,2026-07-20,Pending,19,22.619254311509255,75.20987778432807

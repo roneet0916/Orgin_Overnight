@@ -48,7 +48,7 @@ function createHexagonPolygon(lat, lng, radius = 0.35) {
     const r = radius + jitter;
     const ptLng = lng + r * Math.cos(angle) * 1.15;
     const ptLat = lat + r * Math.sin(angle);
-    coords.append ? coords.push([Number(ptLng.toFixed(4)), Number(ptLat.toFixed(4))]) : coords.push([Number(ptLng.toFixed(4)), Number(ptLat.toFixed(4))]);
+    coords.push([Number(ptLng.toFixed(4)), Number(ptLat.toFixed(4))]);
   }
   coords.push(coords[0]); // Close ring
   return [coords];

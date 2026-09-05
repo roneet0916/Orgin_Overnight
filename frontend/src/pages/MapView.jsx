@@ -52,7 +52,7 @@ const MapView = () => {
       setLandPatches(patchesRes.land_patches || []);
     } catch (err) {
       console.error('Error fetching map data:', err);
-    } fontinally: {
+    } finally {
       setLoading(false);
     }
   };
@@ -194,10 +194,37 @@ const MapView = () => {
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
         {/* Map Viewport */}
         <div className="lg:col-span-3 forest-card p-3 shadow-2xl h-[700px] relative overflow-hidden group border border-slate-700/80">
-          {/* Cyber Radar HUD */}
+          {/* Cyber Radar HUD Badge */}
           <div className="absolute top-6 right-6 z-[400] bg-[#0f172a]/90 backdrop-blur-md border border-[#06b6d4]/40 px-4 py-2 rounded-full flex items-center gap-2.5 text-[10px] font-bold uppercase tracking-[0.2em] text-[#06b6d4] shadow-[0_0_20px_rgba(6,182,212,0.3)] pointer-events-none">
             <span className="w-2.5 h-2.5 rounded-full bg-[#06b6d4] animate-ping inline-block" />
             <span>REALTIME FRA DISTRICT SPATIAL LAYER</span>
+          </div>
+
+          {/* Floating On-Map Zone Legend Overlay */}
+          <div className="absolute bottom-6 left-6 z-[400] bg-[#0f172a]/95 backdrop-blur-md border border-slate-700/90 p-3 rounded-2xl space-y-1.5 shadow-[0_10px_30px_rgba(0,0,0,0.8)] pointer-events-auto max-w-xs">
+            <span className="text-[10px] font-extrabold uppercase tracking-[0.15em] text-slate-300 block border-b border-slate-800 pb-1 flex items-center gap-1.5">
+              <ShieldAlert className="w-3.5 h-3.5 text-[#06b6d4]" /> Status Zone Color Key
+            </span>
+            <div className="space-y-1 text-[10px] font-bold">
+              <div className="flex items-center justify-between gap-3 text-rose-400">
+                <span className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-rose-500 shadow-[0_0_8px_#f43f5e]" /> Red Zone
+                </span>
+                <span className="text-[9px] text-slate-400">High Risk / Anomalies</span>
+              </div>
+              <div className="flex items-center justify-between gap-3 text-amber-400">
+                <span className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-amber-500 shadow-[0_0_8px_#f59e0b]" /> Yellow Zone
+                </span>
+                <span className="text-[9px] text-slate-400">Pending Backlog</span>
+              </div>
+              <div className="flex items-center justify-between gap-3 text-emerald-400">
+                <span className="flex items-center gap-1.5">
+                  <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shadow-[0_0_8px_#10b981]" /> Green Zone
+                </span>
+                <span className="text-[9px] text-slate-400">Approved Clearance</span>
+              </div>
+            </div>
           </div>
 
           <MapContainer
@@ -221,6 +248,8 @@ const MapView = () => {
               // Convert GeoJSON [lng, lat] to Leaflet [lat, lng]
               const leafletCoords = coords.map(c => [c[1], c[0]]);
               const color = props.color || (props.risk_level === 'HIGH' ? '#f43f5e' : props.risk_level === 'MODERATE' ? '#f59e0b' : '#10b981');
+              const zoneSymbol = color === '#f43f5e' ? '🔴' : color === '#f59e0b' ? '🟡' : '🟢';
+              const stateAbbr = props.state === 'Madhya Pradesh' ? 'MP' : props.state === 'Chhattisgarh' ? 'CG' : props.state === 'Maharashtra' ? 'MH' : props.state === 'Jharkhand' ? 'JH' : 'OD';
               const tooltipClass = `district-tooltip-label ${
                 color === '#f43f5e' ? 'district-tooltip-red' : color === '#f59e0b' ? 'district-tooltip-yellow' : 'district-tooltip-green'
               }`;
@@ -240,13 +269,13 @@ const MapView = () => {
                     click: () => setSelectedItem({ type: 'district', data: props })
                   }}
                 >
-                  {/* Permanent Text Label showing District Name and State directly on the Map! */}
+                  {/* Permanent Text Label showing District Name, Zone Symbol & State directly on the Map! */}
                   <Tooltip
                     permanent={true}
                     direction="center"
                     className={tooltipClass}
                   >
-                    {props.district || props.name}, {props.state === 'Madhya Pradesh' ? 'MP' : props.state === 'Chhattisgarh' ? 'CG' : props.state === 'Maharashtra' ? 'MH' : props.state === 'Jharkhand' ? 'JH' : 'OD'}
+                    {zoneSymbol} {props.district || props.name} ({stateAbbr})
                   </Tooltip>
 
                   <Popup>

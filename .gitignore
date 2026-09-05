@@ -38,9 +38,6 @@ frontend/build/
 .next/
 .out/
 
-# Deployment
-render.yaml
-
 # IDE / OS
 .vscode/
 .idea/

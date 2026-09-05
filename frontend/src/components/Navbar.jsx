@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { AlertTriangle, Activity, UserCheck, Sparkles, ShieldCheck, Radio } from 'lucide-react';
+import { Activity, UserCheck, Sparkles, ShieldCheck, Radio, Trees } from 'lucide-react';
 
 const Navbar = () => {
   const [time, setTime] = useState(new Date());
@@ -10,54 +10,55 @@ const Navbar = () => {
   }, []);
 
   return (
-    <header className="bg-[#021a11]/90 backdrop-blur-xl border-b border-[#134934] sticky top-0 z-40 shadow-2xl">
-      {/* Live Cyber Simulation Header Ribbon */}
-      <div className="bg-gradient-to-r from-[#01472e] via-[#064e3b] to-[#01472e] border-b border-[#52b788]/20 px-4 py-1.5 text-[10px] text-[#e9edc9] font-bold tracking-[0.25em] uppercase text-center flex items-center justify-center gap-3 relative overflow-hidden">
-        <div className="absolute inset-0 bg-shimmer pointer-events-none" />
-        <Radio className="w-3.5 h-3.5 text-[#52b788] animate-pulse" />
+    <header className="bg-[#0b1329]/90 backdrop-blur-xl border-b border-[#1e293b] sticky top-0 z-40 shadow-2xl">
+      {/* Live Simulation Banner */}
+      <div className="bg-gradient-to-r from-[#06b6d4]/20 via-[#10b981]/20 to-[#06b6d4]/20 border-b border-[#06b6d4]/30 px-4 py-1 text-[10px] text-[#38bdf8] font-bold tracking-[0.25em] uppercase text-center flex items-center justify-center gap-3 relative overflow-hidden">
+        <Radio className="w-3.5 h-3.5 text-[#06b6d4] animate-pulse" />
         <span className="flex items-center gap-2">
           <span>AI DECISION SUPPORT ENGINE ACTIVE</span>
-          <span className="w-1.5 h-1.5 rounded-full bg-[#52b788] inline-block animate-ping" />
-          <span className="text-[#a3b18a] font-normal">• Hackathon Production Demo</span>
+          <span className="w-1.5 h-1.5 rounded-full bg-[#10b981] inline-block animate-ping" />
+          <span className="text-slate-400 font-normal">• PS-7 Hackathon Live Spatial Audit</span>
         </span>
       </div>
 
-      <div className="px-8 py-3.5 flex items-center justify-between">
+      <div className="px-6 py-3 flex items-center justify-between">
         {/* Brand */}
-        <div className="flex items-center gap-4">
-          <div className="w-11 h-11 rounded-[1.25rem] bg-gradient-to-br from-[#01472e] to-[#065f46] border border-[#52b788]/40 shadow-[0_0_20px_rgba(82,183,136,0.3)] flex items-center justify-center text-xl animate-float">
-            🌲
+        <div className="flex items-center gap-3.5">
+          <div className="w-11 h-11 rounded-2xl bg-gradient-to-br from-[#06b6d4] to-[#10b981] p-0.5 shadow-[0_0_20px_rgba(6,182,212,0.4)] flex items-center justify-center">
+            <div className="w-full h-full bg-[#0f172a] rounded-[0.9rem] flex items-center justify-center text-cyan-400">
+              <Trees className="w-6 h-6 text-[#06b6d4]" />
+            </div>
           </div>
           <div>
             <div className="flex items-center gap-3">
-              <h1 className="font-display text-2xl text-[#fefae0] uppercase tracking-wide leading-none bg-clip-text text-transparent bg-gradient-to-r from-[#fefae0] via-[#e9edc9] to-[#52b788]">
-                FRA Decision Support System
+              <h1 className="font-display text-2xl text-white font-extrabold uppercase tracking-wide leading-none bg-clip-text text-transparent bg-gradient-to-r from-white via-cyan-200 to-[#06b6d4]">
+                FRA Spatial Decision System
               </h1>
-              <span className="bg-[#52b788]/15 text-[#52b788] border border-[#52b788]/40 text-[9px] font-bold px-2.5 py-0.5 rounded-full uppercase tracking-[0.2em] shadow-[0_0_12px_rgba(82,183,136,0.25)] flex items-center gap-1">
-                <Sparkles className="w-3 h-3 text-[#52b788]" /> PS-7 AI Core v1.0
+              <span className="bg-[#06b6d4]/15 text-[#38bdf8] border border-[#06b6d4]/40 text-[9px] font-bold px-2.5 py-0.5 rounded-full uppercase tracking-[0.2em] shadow-[0_0_12px_rgba(6,182,212,0.25)] flex items-center gap-1">
+                <Sparkles className="w-3 h-3 text-[#06b6d4]" /> PS-7 AI Core v2.4
               </span>
             </div>
-            <p className="text-[10px] text-[#a3b18a] font-medium tracking-[0.15em] uppercase mt-0.5">
-              Forest Rights Act Spatial Intelligence • Discrepancy Audits • Heatmap Overlays
+            <p className="text-[10px] text-slate-400 font-medium tracking-[0.15em] uppercase mt-0.5">
+              Forest Rights Act Spatial Intelligence • Discrepancy Audits • Satellite GeoJSON Layer
             </p>
           </div>
         </div>
 
         {/* Right Live Indicators */}
         <div className="flex items-center gap-3">
-          <div className="hidden lg:flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#063020]/90 border border-[#52b788]/30 text-[10px] font-bold tracking-[0.2em] uppercase text-[#52b788] shadow-[0_0_15px_rgba(82,183,136,0.15)]">
-            <ShieldCheck className="w-3.5 h-3.5 text-[#52b788]" />
+          <div className="hidden lg:flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#0f172a] border border-[#10b981]/40 text-[10px] font-bold tracking-[0.2em] uppercase text-[#10b981] shadow-[0_0_15px_rgba(16,185,129,0.2)]">
+            <ShieldCheck className="w-3.5 h-3.5 text-[#10b981]" />
             <span>Audit Engine: Online</span>
           </div>
 
-          <div className="hidden md:flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#063020]/90 border border-[#134934] text-[10px] font-mono text-[#fefae0]">
-            <Activity className="w-3.5 h-3.5 text-[#52b788] animate-pulse" />
+          <div className="hidden md:flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#0f172a] border border-[#1e293b] text-[10px] font-mono text-cyan-200">
+            <Activity className="w-3.5 h-3.5 text-[#06b6d4] animate-pulse" />
             <span>{time.toLocaleTimeString()}</span>
           </div>
 
-          <div className="flex items-center gap-2 px-4 py-1.5 rounded-full bg-gradient-to-r from-[#01472e] to-[#046c46] border border-[#52b788]/40 text-[10px] font-bold tracking-[0.2em] uppercase text-[#fefae0] shadow-[0_0_20px_rgba(82,183,136,0.25)]">
-            <UserCheck className="w-3.5 h-3.5 text-[#ccd5ae]" />
-            <span>District Officer View</span>
+          <div className="flex items-center gap-2 px-4 py-1.5 rounded-full bg-gradient-to-r from-[#06b6d4] to-[#10b981] text-[10px] font-bold tracking-[0.2em] uppercase text-[#070c18] shadow-[0_0_20px_rgba(6,182,212,0.3)]">
+            <UserCheck className="w-3.5 h-3.5 text-[#070c18]" />
+            <span>District Officer Mode</span>
           </div>
         </div>
       </div>

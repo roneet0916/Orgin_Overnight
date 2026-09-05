@@ -6,9 +6,9 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR))
 
-from backend.app import app
+from backend.app import app as _app
 
-client = TestClient(app)
+client = TestClient(_app)
 
 
 def test_health_endpoint():

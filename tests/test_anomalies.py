@@ -6,10 +6,10 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR))
 
-from backend.app import app
+from backend.app import app as _app
 from backend.ai.anomaly_detector import AnomalyDetector
 
-client = TestClient(app)
+client = TestClient(_app)
 
 def test_anomaly_detector_land_mismatch():
     detector = AnomalyDetector(land_mismatch_percent=20.0)

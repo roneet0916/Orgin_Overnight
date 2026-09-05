@@ -5,14 +5,15 @@
 @layer base {
   body {
     font-family: 'Inter', sans-serif;
-    background-color: #070c18;
+    background-color: #050914;
     color: #f8fafc;
     overflow-x: hidden;
     background-image: 
-      radial-gradient(at 0% 0%, rgba(6, 182, 212, 0.15) 0px, transparent 40%),
-      radial-gradient(at 100% 0%, rgba(16, 185, 129, 0.12) 0px, transparent 40%),
-      radial-gradient(at 50% 100%, rgba(244, 63, 94, 0.08) 0px, transparent 50%),
-      radial-gradient(at 50% 50%, rgba(15, 23, 42, 0.9) 0px, transparent 100%);
+      radial-gradient(at 0% 0%, rgba(6, 182, 212, 0.18) 0px, transparent 40%),
+      radial-gradient(at 100% 0%, rgba(16, 185, 129, 0.15) 0px, transparent 40%),
+      radial-gradient(at 50% 100%, rgba(244, 63, 94, 0.12) 0px, transparent 50%),
+      radial-gradient(at 50% 50%, rgba(11, 19, 43, 0.95) 0px, transparent 100%);
+    background-attachment: fixed;
   }
 
   h1, h2, h3, .font-display {
@@ -23,49 +24,83 @@
 
 /* Custom Glassmorphic Cards & Neomorphic Glows */
 .forest-card {
-  background: rgba(15, 23, 42, 0.75);
-  border: 1px solid rgba(51, 65, 85, 0.6);
+  background: rgba(15, 23, 42, 0.78);
+  border: 1px solid rgba(51, 65, 85, 0.65);
   border-radius: 1.5rem;
-  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.5), inset 0 1px 0 0 rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 20px 45px -15px rgba(0, 0, 0, 0.6), inset 0 1px 0 0 rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
   transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   position: relative;
 }
 
 .forest-card:hover {
-  border-color: rgba(6, 182, 212, 0.5);
-  transform: translateY(-3px);
-  box-shadow: 0 25px 50px -12px rgba(6, 182, 212, 0.25), inset 0 1px 0 0 rgba(255, 255, 255, 0.2);
+  border-color: rgba(6, 182, 212, 0.55);
+  transform: translateY(-2px);
+  box-shadow: 0 25px 50px -12px rgba(6, 182, 212, 0.28), inset 0 1px 0 0 rgba(255, 255, 255, 0.2);
 }
 
 .forest-card-glow {
-  background: linear-gradient(145deg, rgba(15, 23, 42, 0.85) 0%, rgba(30, 41, 59, 0.95) 100%);
-  border: 1px solid rgba(16, 185, 129, 0.4);
-  box-shadow: 0 0 25px -5px rgba(16, 185, 129, 0.3);
+  background: linear-gradient(145deg, rgba(15, 23, 42, 0.88) 0%, rgba(30, 41, 59, 0.96) 100%);
+  border: 1px solid rgba(16, 185, 129, 0.45);
+  box-shadow: 0 0 25px -5px rgba(16, 185, 129, 0.35);
 }
 
 .forest-card-glow:hover {
-  border-color: rgba(16, 185, 129, 0.7);
-  box-shadow: 0 0 35px 0px rgba(16, 185, 129, 0.45);
+  border-color: rgba(16, 185, 129, 0.8);
+  box-shadow: 0 0 35px 0px rgba(16, 185, 129, 0.5);
 }
 
 .forest-card-risk {
-  background: linear-gradient(145deg, rgba(15, 23, 42, 0.85) 0%, rgba(30, 41, 59, 0.95) 100%);
-  border: 1px solid rgba(244, 63, 94, 0.4);
-  box-shadow: 0 0 25px -5px rgba(244, 63, 94, 0.25);
+  background: linear-gradient(145deg, rgba(15, 23, 42, 0.88) 0%, rgba(30, 41, 59, 0.96) 100%);
+  border: 1px solid rgba(244, 63, 94, 0.45);
+  box-shadow: 0 0 25px -5px rgba(244, 63, 94, 0.3);
 }
 
 .forest-card-risk:hover {
-  border-color: rgba(244, 63, 94, 0.8);
-  box-shadow: 0 0 35px 0px rgba(244, 63, 94, 0.4);
+  border-color: rgba(244, 63, 94, 0.85);
+  box-shadow: 0 0 35px 0px rgba(244, 63, 94, 0.5);
+}
+
+/* Red & Yellow Zone Specific Card Badges */
+.zone-card-red {
+  background: linear-gradient(135deg, rgba(244, 63, 94, 0.15) 0%, rgba(15, 23, 42, 0.92) 100%);
+  border: 1.5px solid rgba(244, 63, 94, 0.6);
+  box-shadow: 0 0 25px rgba(244, 63, 94, 0.25);
+}
+
+.zone-card-red:hover {
+  border-color: #f43f5e;
+  box-shadow: 0 0 35px rgba(244, 63, 94, 0.55);
+}
+
+.zone-card-yellow {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(15, 23, 42, 0.92) 100%);
+  border: 1.5px solid rgba(245, 158, 11, 0.6);
+  box-shadow: 0 0 25px rgba(245, 158, 11, 0.25);
+}
+
+.zone-card-yellow:hover {
+  border-color: #f59e0b;
+  box-shadow: 0 0 35px rgba(245, 158, 11, 0.55);
+}
+
+.zone-card-green {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(15, 23, 42, 0.92) 100%);
+  border: 1.5px solid rgba(16, 185, 129, 0.6);
+  box-shadow: 0 0 25px rgba(16, 185, 129, 0.25);
+}
+
+.zone-card-green:hover {
+  border-color: #10b981;
+  box-shadow: 0 0 35px rgba(16, 185, 129, 0.55);
 }
 
 /* Animations */
 @keyframes verticalReveal {
   0% {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(18px);
   }
   100% {
     opacity: 1;
@@ -74,53 +109,80 @@
 }
 
 .animate-reveal {
-  animation: verticalReveal 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation: verticalReveal 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
 @keyframes pulseGlow {
   0%, 100% {
-    opacity: 0.6;
+    opacity: 0.7;
+    transform: scale(1);
   }
   50% {
     opacity: 1;
+    transform: scale(1.04);
   }
 }
 
 .animate-pulse-glow {
-  animation: pulseGlow 2s infinite ease-in-out;
+  animation: pulseGlow 2.5s infinite ease-in-out;
+}
+
+@keyframes beaconRing {
+  0% {
+    transform: scale(0.8);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(2.6);
+    opacity: 0;
+  }
+}
+
+.beacon-pulse {
+  position: absolute;
+  inset: -4px;
+  border-radius: 9999px;
+  animation: beaconRing 2s cubic-bezier(0, 0, 0.2, 1) infinite;
 }
 
 /* Custom District & State Tooltip Labels on Leaflet Map */
 .district-tooltip-label {
-  background: rgba(15, 23, 42, 0.92) !important;
+  background: rgba(10, 17, 34, 0.95) !important;
   color: #ffffff !important;
   border: 1.5px solid rgba(6, 182, 212, 0.8) !important;
   border-radius: 9999px !important;
-  padding: 3px 10px !important;
+  padding: 4px 12px !important;
   font-size: 11px !important;
   font-weight: 800 !important;
-  letter-spacing: 0.04em !important;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7) !important;
+  letter-spacing: 0.05em !important;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.8) !important;
   white-space: nowrap !important;
   text-transform: uppercase !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  transition: all 0.2s ease !important;
 }
 
 .district-tooltip-red {
   border-color: #f43f5e !important;
-  color: #fecdd3 !important;
-  box-shadow: 0 0 12px rgba(244, 63, 94, 0.5) !important;
+  color: #ffe4e6 !important;
+  box-shadow: 0 0 18px rgba(244, 63, 94, 0.75), inset 0 0 8px rgba(244, 63, 94, 0.3) !important;
+  background: rgba(30, 10, 18, 0.96) !important;
 }
 
 .district-tooltip-yellow {
   border-color: #f59e0b !important;
-  color: #fef08a !important;
-  box-shadow: 0 0 12px rgba(245, 158, 11, 0.5) !important;
+  color: #fef9c3 !important;
+  box-shadow: 0 0 18px rgba(245, 158, 11, 0.75), inset 0 0 8px rgba(245, 158, 11, 0.3) !important;
+  background: rgba(35, 23, 9, 0.96) !important;
 }
 
 .district-tooltip-green {
   border-color: #10b981 !important;
-  color: #a7f3d0 !important;
-  box-shadow: 0 0 12px rgba(16, 185, 129, 0.5) !important;
+  color: #d1fae5 !important;
+  box-shadow: 0 0 18px rgba(16, 185, 129, 0.75), inset 0 0 8px rgba(16, 185, 129, 0.3) !important;
+  background: rgba(6, 30, 20, 0.96) !important;
 }
 
 /* Custom Scrollbars */
@@ -130,7 +192,7 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #070c18;
+  background: #050914;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -144,20 +206,29 @@
 
 /* Leaflet Container Styling */
 .leaflet-container {
-  background: #0b1329 !important;
-  border-radius: 1.25rem;
+  background: #070e1e !important;
+  border-radius: 1.5rem;
   font-family: 'Inter', sans-serif !important;
 }
 
 .leaflet-popup-content-wrapper {
-  background: rgba(15, 23, 42, 0.95) !important;
+  background: rgba(15, 23, 42, 0.96) !important;
   color: #f8fafc !important;
-  border: 1px solid rgba(6, 182, 212, 0.4) !important;
-  border-radius: 1rem !important;
-  backdrop-filter: blur(12px) !important;
-  box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.6) !important;
+  border: 1.5px solid rgba(6, 182, 212, 0.45) !important;
+  border-radius: 1.25rem !important;
+  backdrop-filter: blur(16px) !important;
+  box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.8) !important;
+  padding: 4px !important;
 }
 
 .leaflet-popup-tip {
-  background: rgba(15, 23, 42, 0.95) !important;
+  background: rgba(15, 23, 42, 0.96) !important;
+}
+
+/* Cyber Grid */
+.cyber-grid {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
 }
